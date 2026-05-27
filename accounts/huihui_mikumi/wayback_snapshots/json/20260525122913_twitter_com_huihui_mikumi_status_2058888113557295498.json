@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2058825263656694001",
+    "created_at": "2026-05-25T12:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058888113557295498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962050426788093952",
+          "start": 0,
+          "username": "potti1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058888113557295498",
+    "in_reply_to_user_id": "1962050426788093952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058843152652582948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@potti1314 是捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2058825263656694001",
+        "created_at": "2026-05-25T12:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058888113557295498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962050426788093952",
+              "start": 0,
+              "username": "potti1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888113557295498",
+        "in_reply_to_user_id": "1962050426788093952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058843152652582948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@potti1314 是捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962050426788093952",
+        "conversation_id": "2058825263656694001",
+        "created_at": "2026-05-25T09:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058843152652582948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058843152652582948",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058825263656694001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 毫无天赋的吃药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 513,
+          "like_count": 556,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1243
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T07:12:22.000Z",
+        "description": "完全遵守X规则、找堕雌🐶、Sis奴、Gay勿扰、直男勿扰，符合的私信、自觉发照",
+        "id": "1962050426788093952",
+        "name": "深闺梦里人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962058035368763392/laPSAU8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 630,
+          "like_count": 38,
+          "listed_count": 10,
+          "media_count": 94,
+          "tweet_count": 4137
+        },
+        "username": "potti1314",
+        "verified": false
+      }
+    ]
+  }
+}

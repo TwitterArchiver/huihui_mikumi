@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2044829201698889789",
+    "created_at": "2026-04-16T18:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044840380290711634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033131214782275584",
+          "start": 0,
+          "username": "SigegeOffial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044840380290711634",
+    "in_reply_to_user_id": "2033131214782275584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044831314625630555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SigegeOffial 呜呜还是好害怕…谢谢你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2044829201698889789",
+        "created_at": "2026-04-16T18:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044840380290711634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033131214782275584",
+              "start": 0,
+              "username": "SigegeOffial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044840380290711634",
+        "in_reply_to_user_id": "2033131214782275584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044831314625630555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SigegeOffial 呜呜还是好害怕…谢谢你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033131214782275584",
+        "conversation_id": "2044829201698889789",
+        "created_at": "2026-04-16T17:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044831314625630555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044831314625630555",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044829201698889789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 抱抱惠惠哦～\n雷声只是老天在咳嗽的声音啦～把窗帘拉好，钻进被窝里，没什么害怕的呢，它进不来屋子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|OD药|缺爱|抖M/S|自残|欢迎互fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039259853248762196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 354,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 578
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T10:41:29.000Z",
+        "description": "叫西格格就好❤️/最高绝巴120把3.2kd信息位三号位专精起装备就乱杀/APEX前两赛季钻石一赛季大师密客百胜手打双锤骷髅海（已经退坑）/农药省7弈星超级英雄勺/粥批、洛克批、坐忘道、资深任豚、资深书虫、卑微的打工人/吃商极高而且根本吃不胖.jpg/欢迎各位互关扩列❤️",
+        "id": "2033131214782275584",
+        "name": "西格格Offical",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043712992173604864/zbzxVe8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 188
+        },
+        "username": "SigegeOffial",
+        "verified": false
+      }
+    ]
+  }
+}

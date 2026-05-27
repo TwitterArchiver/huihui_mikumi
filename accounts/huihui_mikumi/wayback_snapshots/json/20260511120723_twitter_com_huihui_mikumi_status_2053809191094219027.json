@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2053809191094219027",
+    "created_at": "2026-05-11T12:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053809191094219027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suekageseikiyo…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/suekageseikiyo/status/2053504496710644065",
+          "start": 18,
+          "url": "https://t.co/fpGN1HZpnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053809191094219027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053504496710644065",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "套了这么多层，自己刷到了自己发的推 https://t.co/fpGN1HZpnk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2053809191094219027",
+        "created_at": "2026-05-11T12:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053809191094219027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2053504496710644065",
+              "start": 18,
+              "url": "https://t.co/fpGN1HZpnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053809191094219027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053504496710644065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "套了这么多层，自己刷到了自己发的推 https://t.co/fpGN1HZpnk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2053504496710644065",
+        "created_at": "2026-05-10T15:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053504496710644065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AGNK_553/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/AGNK_553/status/2053371479103017310",
+              "start": 12,
+              "url": "https://t.co/mrUHS6piGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053504496710644065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053371479103017310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么你们涨fo这么快 https://t.co/mrUHS6piGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 460,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 909
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 487,
+          "like_count": 4102,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 337
+        },
+        "username": "suekageseikiyo",
+        "verified": false
+      }
+    ]
+  }
+}

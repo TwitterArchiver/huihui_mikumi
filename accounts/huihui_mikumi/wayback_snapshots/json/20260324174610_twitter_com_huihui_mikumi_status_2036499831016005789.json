@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036499828935630849"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2036499831016005789",
+    "created_at": "2026-03-24T17:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T18:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036499831016005789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DF7NuXE3F7",
+          "end": 165,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2036499831016005789/photo/1",
+          "media_key": "3_2036499828935630849",
+          "start": 142,
+          "url": "https://t.co/DF7NuXE3F7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036499831016005789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "据说有个想得抑郁症？\n我们代入抑郁症的世界，你不用做任何事我就让你浑身脱力\n一切都不停息地脱离你的感知，你所剩的仅有麻木空洞头晕恶心乏力手抖失眠耳鸣胃痛渴望被人关心\n内心的孤独感让你止不住地哭泣或流泪\n每一日都与脑内的自杀念头斗争，无止境地自我怀疑与与庆恶每个夜晚如约而至的痛苦思考 https://t.co/DF7NuXE3F7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2036499828935630849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMZzfjaIAEfbnN.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036499828935630849"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2036499831016005789",
+        "created_at": "2026-03-24T17:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036499831016005789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF7NuXE3F7",
+              "end": 165,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2036499831016005789/photo/1",
+              "media_key": "3_2036499828935630849",
+              "start": 142,
+              "url": "https://t.co/DF7NuXE3F7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036499831016005789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据说有个想得抑郁症？\n我们代入抑郁症的世界，你不用做任何事我就让你浑身脱力\n一切都不停息地脱离你的感知，你所剩的仅有麻木空洞头晕恶心乏力手抖失眠耳鸣胃痛渴望被人关心\n内心的孤独感让你止不住地哭泣或流泪\n每一日都与脑内的自杀念头斗争，无止境地自我怀疑与与庆恶每个夜晚如约而至的痛苦思考 https://t.co/DF7NuXE3F7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|20|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033641073965469699/6fcuj7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 63,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 160
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

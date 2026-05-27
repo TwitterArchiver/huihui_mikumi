@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2054429313680965779",
+    "created_at": "2026-05-13T07:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054468099102199923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039504366755790848",
+          "start": 0,
+          "username": "AsumiBloom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054468099102199923",
+    "in_reply_to_user_id": "2039504366755790848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054467867845042584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsumiBloom 用哪个呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2054429313680965779",
+        "created_at": "2026-05-13T07:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054468099102199923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039504366755790848",
+              "start": 0,
+              "username": "AsumiBloom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054468099102199923",
+        "in_reply_to_user_id": "2039504366755790848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054467867845042584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsumiBloom 用哪个呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039504366755790848",
+        "conversation_id": "2054429313680965779",
+        "created_at": "2026-05-13T07:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054467867845042584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054467867845042584",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054429313680965779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 自己用ai生😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 468,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 965
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "喜欢xnn/xyn丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asumibloom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asumibloom",
+                "start": 0,
+                "url": "https://t.co/I4tM6i6R7O"
+              }
+            ]
+          }
+        },
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 139,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/I4tM6i6R7O",
+        "username": "AsumiBloom",
+        "verified": false
+      }
+    ]
+  }
+}

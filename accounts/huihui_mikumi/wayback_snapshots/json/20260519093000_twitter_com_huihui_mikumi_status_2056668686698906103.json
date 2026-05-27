@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2056651089471221911",
+    "created_at": "2026-05-19T09:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056668686698906103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056668686698906103",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056651089471221911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 内圈贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2056651083280478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqxQ33a8AAdIEc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2056651089471221911",
+        "created_at": "2026-05-19T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056668686698906103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056668686698906103",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056651089471221911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 内圈贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056651083280478208"
+          ]
+        },
+        "author_id": "1940456482744795138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2056651089471221911",
+        "created_at": "2026-05-19T08:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056651089471221911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2056225296911892480/zxNP3jo-?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056225296911892480/zxNP3jo-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/h1Xqu3VbAZ"
+            },
+            {
+              "display_url": "pic.x.com/2GhIlJFKxM",
+              "end": 64,
+              "expanded_url": "https://x.com/ICEbingkuai95/status/2056651089471221911/photo/1",
+              "media_key": "3_2056651083280478208",
+              "start": 41,
+              "url": "https://t.co/2GhIlJFKxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056651089471221911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/h1Xqu3VbAZ https://t.co/2GhIlJFKxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 502,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1136
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦重抑不od💊/🍥🏳️‍⚧️🏳️‍🌈 2010.9月生产的 mtf出柜成功\n观察期已结束准备证明中（家长党）/CN/EN/繁/JP/可交流\n音游痴@IceBingKuai2010（小号）不定时更新🥰谢谢喜欢🥰LGBT+友好🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "IceBingKuai2010"
+              }
+            ]
+          }
+        },
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物🏳️‍⚧️（迷茫版🥺）",
+        "pinned_tweet_id": "2049570638378188843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052783442648264704/LGTWMNVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 561,
+          "like_count": 1685,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 583
+        },
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

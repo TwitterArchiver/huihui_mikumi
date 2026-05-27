@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2049935245546537255",
+    "created_at": "2026-05-02T06:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050456460187124068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800610461085585408",
+          "start": 0,
+          "username": "oxzxzxzxzo"
+        },
+        {
+          "end": 26,
+          "id": "1946593949180993536",
+          "start": 12,
+          "username": "RogerDisboard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050456460187124068",
+    "in_reply_to_user_id": "1800610461085585408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049935245546537255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxzxzxzxzo @RogerDisboard 互fo喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2049935245546537255",
+        "created_at": "2026-05-02T06:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050456460187124068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800610461085585408",
+              "start": 0,
+              "username": "oxzxzxzxzo"
+            },
+            {
+              "end": 26,
+              "id": "1946593949180993536",
+              "start": 12,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050456460187124068",
+        "in_reply_to_user_id": "1800610461085585408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049935245546537255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxzxzxzxzo @RogerDisboard 互fo喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800610461085585408",
+        "conversation_id": "2049935245546537255",
+        "created_at": "2026-04-30T19:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049935245546537255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049935245546537255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1114,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是性子sama二世，互fo找回ing，求转发喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 414,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 708
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T19:26:22.000Z",
+        "description": "我是性子sama二世，我重生了｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜oder｜自残｜双相｜日语学习中｜喜欢猫｜互fo请私信喵",
+        "id": "1800610461085585408",
+        "name": "性",
+        "pinned_tweet_id": "2049935245546537255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800613243465129984/VbuWFPnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 35,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 57
+        },
+        "username": "oxzxzxzxzo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣",
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2049809499977101595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 776,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 578
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2028004790274548056",
+    "created_at": "2026-03-01T10:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028062546444575216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028062546444575216",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028004790274548056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 广东人告诉你\n只有直系亲属才会给100\n远房一般10，20。有概率出50大奖\n父辈的亲朋好友一般5，10，20（20算大奖了）\n\n掏红包也有技巧，裤子右边口袋放10块，裤子左边放20。外套右边50，左边100。千万不要拿错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2028004790274548056",
+        "created_at": "2026-03-01T10:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028062546444575216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028062546444575216",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028004790274548056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 广东人告诉你\n只有直系亲属才会给100\n远房一般10，20。有概率出50大奖\n父辈的亲朋好友一般5，10，20（20算大奖了）\n\n掏红包也有技巧，裤子右边口袋放10块，裤子左边放20。外套右边50，左边100。千万不要拿错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2028004790274548056",
+        "created_at": "2026-03-01T07:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028004790274548056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028004790274548056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 856,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我寻思红包的基础单位不都是100吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "|20|cosplay|可爱男娘|男M|依存症|二次元|特别粘人|不可以欺负我|我会哭|特别害羞|喜欢可爱的女孩子|反男同|喜欢磕百合|IT人|AI|卷积神经网络|对抗生成网络|普世价值|讨厌粉红|讨厌共产主义者|要自由|要选票|梦想是越过那座无法逾越的高墙|",
+        "id": "1598557374046179328",
+        "location": "中国",
+        "name": "惠惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598557674689695744/BARVYzIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/Hrt🍥01.28.2026/无证含糖/14岁年龄党/泛性恋/生产日期:11.13.2011/INFP-T/社恐/抖M/初二牲/体能废物/161cm51kg41码/坐标湖北/只玩Minecraft/民國派🇹🇼華獨/简中&繁中/视成分互fo/下方提问箱↓/\nTG：https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 161,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 138,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國大陸淪陷區 湖北省「漢川縣」",
+        "name": "𝓜 𝔀 𝓭 𝔁 𝓳 🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 621,
+          "like_count": 6615,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

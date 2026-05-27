@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2048255276051288417",
+    "created_at": "2026-04-26T05:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048277979898523831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048277979898523831",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048271915517915365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 可以喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2048255276051288417",
+        "created_at": "2026-04-26T05:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048277979898523831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048277979898523831",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048271915517915365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 可以喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940456482744795138",
+        "conversation_id": "2048255276051288417",
+        "created_at": "2026-04-26T05:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048271915517915365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048271915517915365",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048255276051288417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我也可以吗www🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 383,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 659
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦虑 重抑郁 很缺爱 不od💊/无炸柜记录\n🍥🏳️‍⚧️🏳️‍🌈 10年9月生产的 mtf证明准备中（家长党🥺）\n中文/english/繁體 ok/学习日语中 N2为目标\n本频道不定时更新🥰\n谢谢喜欢",
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物（求互fo版）",
+        "pinned_tweet_id": "2047565394538541368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030733768403931136/hBBYJZXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 335,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 294
+        },
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

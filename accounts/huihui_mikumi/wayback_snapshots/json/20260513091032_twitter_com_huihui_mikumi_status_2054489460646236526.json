@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2054488284429181069",
+    "created_at": "2026-05-13T09:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054489460646236526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054489460646236526",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054488284429181069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 摸摸头，在亲你一口，把你骗走，诶嘿嘿～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2054488284429181069",
+        "created_at": "2026-05-13T09:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054489460646236526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054489460646236526",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054488284429181069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 摸摸头，在亲你一口，把你骗走，诶嘿嘿～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2054488284429181069",
+        "created_at": "2026-05-13T09:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054488284429181069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2054468703325245462",
+              "start": 13,
+              "url": "https://t.co/KU4sNhFBcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054488284429181069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054468703325245462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这种缺爱的人最好骗啦… https://t.co/KU4sNhFBcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 469,
+          "like_count": 483,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 974
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "黑色的荆棘扼住她的咽喉，永恒的夜消融了她的心脏。沉溺在“等待”中的她呀，总有一天，白霜般的月光会洒满你遍体鳞伤的娇躯，把你变成殿堂上转着裙摆的女孩。\n【详情见置顶帖】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "上海",
+        "name": "𝐻𝒾𝒾𝓂𝑒 🍡🍥",
+        "pinned_tweet_id": "2052350272685654188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054384234526388224/MagCt1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 239,
+          "like_count": 546,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2046935021072925115",
+    "created_at": "2026-04-22T15:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046973621189698025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884104129347477506",
+          "start": 0,
+          "username": "Flanner69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046973621189698025",
+    "in_reply_to_user_id": "1884104129347477506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046961479719743825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flanner69 啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2046935021072925115",
+        "created_at": "2026-04-22T15:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046973621189698025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884104129347477506",
+              "start": 0,
+              "username": "Flanner69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046973621189698025",
+        "in_reply_to_user_id": "1884104129347477506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046961479719743825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flanner69 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884104129347477506",
+        "conversation_id": "2046935021072925115",
+        "created_at": "2026-04-22T14:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046961479719743825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046961479719743825",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046935021072925115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 草草你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 365,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 619
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T05:00:12.000Z",
+        "description": "愛是愛麗薇儿",
+        "id": "1884104129347477506",
+        "location": "一个只有我知道的地方",
+        "name": "愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046203424526696448/bLjN6mlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 96,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "Flanner69",
+        "verified": false
+      }
+    ]
+  }
+}

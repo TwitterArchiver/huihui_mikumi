@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2038907365609947469",
+    "created_at": "2026-03-31T09:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038907957635940855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "qii1969243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038907957635940855",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038907365609947469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qii1969243 我我我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2038907365609947469",
+        "created_at": "2026-03-31T09:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038907957635940855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "qii1969243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038907957635940855",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038907365609947469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qii1969243 我我我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2038907365609947469",
+        "created_at": "2026-03-31T09:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038907365609947469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038907365609947469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊，想给别人送钱\n抽个人v13.14😇\n前提是跟我互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 93,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 190
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "叫我之壇就好/津/友跨/泛性恋/我割我抽/诞生2010.12.21/长期请假中/最最好:青椰皮 od持开放态度 不会碰但是不会反感 对老中态度反复横跳 不喜欢讨论政治话题 想扩私私我好不好 喜欢直fo别人😋",
+        "id": "1839085606573637632",
+        "name": "之壇",
+        "pinned_tweet_id": "2038903028066247153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030654810798936064/G3duiA3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 86
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

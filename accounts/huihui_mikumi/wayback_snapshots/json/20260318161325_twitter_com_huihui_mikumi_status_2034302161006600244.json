@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2034162692311945587",
+    "created_at": "2026-03-18T16:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034302161006600244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990364372275978240",
+          "start": 0,
+          "username": "ichigostar_02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034302161006600244",
+    "in_reply_to_user_id": "1990364372275978240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034162692311945587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichigostar_02 我跟你一样！我也是依存症！想认识你喵～❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2034162217906765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrLwn3agAAPhsg.jpg",
+        "width": 736
+      },
+      {
+        "height": 485,
+        "media_key": "3_2034162217944522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrLwoAaoAAAy-6.jpg",
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2034162692311945587",
+        "created_at": "2026-03-18T16:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034302161006600244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990364372275978240",
+              "start": 0,
+              "username": "ichigostar_02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034302161006600244",
+        "in_reply_to_user_id": "1990364372275978240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034162692311945587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichigostar_02 我跟你一样！我也是依存症！想认识你喵～❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034162217906765824",
+            "3_2034162217944522752"
+          ]
+        },
+        "author_id": "1990364372275978240",
+        "conversation_id": "2034162692311945587",
+        "created_at": "2026-03-18T06:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034162692311945587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "病み垢"
+            },
+            {
+              "end": 75,
+              "start": 63,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 90,
+              "start": 76,
+              "tag": "病み垢女子さんと繋がりたい"
+            },
+            {
+              "end": 111,
+              "start": 91,
+              "tag": "いいねかＲＴで気になった人フォローする"
+            },
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "いいねでＤＭ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMq94Iv7OY",
+              "end": 151,
+              "expanded_url": "https://x.com/Co_0906/status/2034162692311945587/photo/1",
+              "media_key": "3_2034162217906765824",
+              "start": 128,
+              "url": "https://t.co/MMq94Iv7OY"
+            },
+            {
+              "display_url": "pic.x.com/MMq94Iv7OY",
+              "end": 151,
+              "expanded_url": "https://x.com/Co_0906/status/2034162692311945587/photo/1",
+              "media_key": "3_2034162217944522752",
+              "start": 128,
+              "url": "https://t.co/MMq94Iv7OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034162692311945587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6234,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "08 | ♀ | 依存 | 社不 | ヤンヘラ |\nお友達ください\n\n♡or↺で 無 言 フ ォ ロ ー す る\n\n#病み垢 #病み垢さんと繋がりたい\n#病み垢女子さんと繋がりたい #いいねかＲＴで気になった人フォローする \n#いいねでＤＭ (気まぐれ) https://t.co/MMq94Iv7OY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|20|cosplay|伪娘|男M|依存症|二次元|特别粘人|不可以欺负我|我会哭|特别害羞|喜欢可爱的女孩子|反男同|喜欢磕百合|腹黑|触手|病娇|捆绑|OD药|缺爱|抖M/S|自残|圣母|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人\n\n永远的好闺女❤️@kokolovss❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "kokolovss"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🍬🍭💖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033641073965469699/6fcuj7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 110
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T10:20:45.000Z",
+        "description": "雑多垢\n08｜♀️｜社不｜依存 | ヤンヘラ | DM○\n頭のネジ外れてます",
+        "id": "1990364372275978240",
+        "location": "試されすぎた大地",
+        "name": "むぎ",
+        "pinned_tweet_id": "2034162692311945587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034160253349273600/6ast4xK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 118,
+          "like_count": 13860,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 59
+        },
+        "username": "ichigostar_02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2047639711699910968",
+    "created_at": "2026-04-24T12:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047653501174747326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478718800682156037",
+          "start": 0,
+          "username": "ABC59487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047653501174747326",
+    "in_reply_to_user_id": "1478718800682156037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047653342357438478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC59487 呜呜…小惠知道啦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2047639711699910968",
+        "created_at": "2026-04-24T12:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047653501174747326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478718800682156037",
+              "start": 0,
+              "username": "ABC59487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047653501174747326",
+        "in_reply_to_user_id": "1478718800682156037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047653342357438478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC59487 呜呜…小惠知道啦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478718800682156037",
+        "conversation_id": "2047639711699910968",
+        "created_at": "2026-04-24T12:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047653342357438478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047653342357438478",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047639711699910968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 不要傷害自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 369,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 641
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T13:23:47.000Z",
+        "description": "杏眾一位",
+        "id": "1478718800682156037",
+        "location": "Taiwan",
+        "name": "浮游廢物 單推老大 想當薯條",
+        "pinned_tweet_id": "1575113759168700418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029782900129013760/bcJLlDoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 789,
+          "like_count": 22104,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 9621
+        },
+        "username": "ABC59487",
+        "verified": false
+      }
+    ]
+  }
+}

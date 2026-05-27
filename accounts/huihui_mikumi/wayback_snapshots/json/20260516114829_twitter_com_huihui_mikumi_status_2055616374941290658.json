@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2055585316917199321",
+    "created_at": "2026-05-16T11:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055616374941290658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055616374941290658",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055601452157149401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 我也是呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2055585316917199321",
+        "created_at": "2026-05-16T11:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055616374941290658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055616374941290658",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055601452157149401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 我也是呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940456482744795138",
+        "conversation_id": "2055585316917199321",
+        "created_at": "2026-05-16T10:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055601452157149401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055601452157149401",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055585316917199321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我還在廣州（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|互fo\n\nwx🚪52（求求啦小惠太穷穷啦）",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 495,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1059
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦重抑不od💊/🍥🏳️‍⚧️🏳️‍🌈 2010.9月生产的 mtf出柜成功\n观察期已结束准备证明中（家长党）/CN/EN/繁/JP/可交流\n音游痴@IceBingKuai2010（小号）不定时更新🥰谢谢喜欢🥰LGBT+友好🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "IceBingKuai2010"
+              }
+            ]
+          }
+        },
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物🏳️‍⚧️（迷茫版🥺）",
+        "pinned_tweet_id": "2049570638378188843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052783442648264704/LGTWMNVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 548,
+          "like_count": 1652,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 565
+        },
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036490368754262020"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2036490371111461150",
+    "created_at": "2026-03-24T17:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T18:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036490371111461150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bHvJW5Tbp1",
+          "end": 44,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2036490371111461150/photo/1",
+          "media_key": "3_2036490368754262020",
+          "start": 21,
+          "url": "https://t.co/bHvJW5Tbp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036490371111461150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爱你们，请多让我陪陪你们，好想治愈你们 https://t.co/bHvJW5Tbp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_2036490368754262020",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMRM1oaIAQpC7K.jpg",
+        "width": 479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036490368754262020"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2036490371111461150",
+        "created_at": "2026-03-24T17:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036490371111461150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHvJW5Tbp1",
+              "end": 44,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2036490371111461150/photo/1",
+              "media_key": "3_2036490368754262020",
+              "start": 21,
+              "url": "https://t.co/bHvJW5Tbp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036490371111461150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你们，请多让我陪陪你们，好想治愈你们 https://t.co/bHvJW5Tbp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|20|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033641073965469699/6fcuj7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 63,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 159
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

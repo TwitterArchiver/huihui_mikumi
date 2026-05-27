@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2041125163941634476",
+    "created_at": "2026-04-06T14:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041162628010258524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019515140308090880",
+          "start": 0,
+          "username": "SkuraAutoYui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041162628010258524",
+    "in_reply_to_user_id": "2019515140308090880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041161684849668389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkuraAutoYui 你不许得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2041125163941634476",
+        "created_at": "2026-04-06T14:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041162628010258524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019515140308090880",
+              "start": 0,
+              "username": "SkuraAutoYui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041162628010258524",
+        "in_reply_to_user_id": "2019515140308090880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041161684849668389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkuraAutoYui 你不许得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019515140308090880",
+        "conversation_id": "2041125163941634476",
+        "created_at": "2026-04-06T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041161684849668389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041161684849668389",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041125163941634476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 没有精神疾病怎么办，可以去得一个吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|OD药|缺爱|抖M/S|自残|欢迎互fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 234,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 351
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T20:55:16.000Z",
+        "description": "已炸柜|无证含糖|ISFP|2011.05.31|hrt 2026.02.09🍥|求投喂喵",
+        "id": "2019515140308090880",
+        "location": "0.8km",
+        "name": "SakuraYui🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028821790366240768/EEh1Kpl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "SkuraAutoYui",
+        "verified": false
+      }
+    ]
+  }
+}

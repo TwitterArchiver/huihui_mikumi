@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025194153433595912"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2025194156449300543",
+    "created_at": "2026-02-21T13:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025194156449300543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p06wQh4KtT",
+          "end": 94,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2025194156449300543/photo/1",
+          "media_key": "3_2025194153433595912",
+          "start": 71,
+          "url": "https://t.co/p06wQh4KtT"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2025194156449300543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前见过一个帖子，标题是：你会选择你爱的人还是爱你的人\n\n当年我记得选爱我的人是大多数\n时光飞逝，岁月如梭，这么多年过去了，没有一个人爱着我 https://t.co/p06wQh4KtT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2020,
+        "media_key": "3_2025194153433595912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrvWkSbgAguzNR.jpg",
+        "width": 1600
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025194153433595912"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2025194156449300543",
+        "created_at": "2026-02-21T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025194156449300543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p06wQh4KtT",
+              "end": 94,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2025194156449300543/photo/1",
+              "media_key": "3_2025194153433595912",
+              "start": 71,
+              "url": "https://t.co/p06wQh4KtT"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2025194156449300543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前见过一个帖子，标题是：你会选择你爱的人还是爱你的人\n\n当年我记得选爱我的人是大多数\n时光飞逝，岁月如梭，这么多年过去了，没有一个人爱着我 https://t.co/p06wQh4KtT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "|20|cosplay|可爱男娘|男M|依存症|二次元|特别粘人|不可以欺负我|我会哭|特别害羞|喜欢可爱的女孩子|反男同|喜欢磕百合|IT人|AI|卷积神经网络|对抗生成网络|普世价值|讨厌粉红|讨厌共产主义者|要自由|要选票|梦想是越过那座无法逾越的高墙|",
+        "id": "1598557374046179328",
+        "location": "中国",
+        "name": "惠惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598557674689695744/BARVYzIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

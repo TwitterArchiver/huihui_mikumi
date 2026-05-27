@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2040756888657412598",
+    "created_at": "2026-04-05T11:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040756888657412598"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2040756888657412598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们\n5.请不要随意键政，部分XNN反感键政行为\n6.请使用“姐姐”“妹妹”称呼"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2040756888657412598",
+        "created_at": "2026-04-05T11:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040756888657412598"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2040756888657412598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF交友规则怪谈\n\n1.XXN是个重度缺爱的群体，请多多给他们爱\n2.若你的朋友有自杀冲动，请多多关爱他们，帮助他们走出阴影，他们会极度感谢你\n3.打招呼时请使用“喵喵喵”\n4.若你的朋友OD未成瘾，请及时劝阻，若已成瘾，请多多关爱他们\n5.请不要随意键政，部分XNN反感键政行为\n6.请使用“姐姐”“妹妹”称呼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 198,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 305
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

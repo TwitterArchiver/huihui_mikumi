@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2044820528385671430",
+    "created_at": "2026-04-17T04:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044998530545471642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1851253052243865600",
+          "start": 0,
+          "username": "pronsi114"
+        },
+        {
+          "end": 23,
+          "id": "2007036056068399104",
+          "start": 11,
+          "username": "huhu1585758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044998530545471642",
+    "in_reply_to_user_id": "1851253052243865600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044955246074773588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pronsi114 @huhu1585758 吃的色谱龙喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2044820528385671430",
+        "created_at": "2026-04-17T04:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044998530545471642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1851253052243865600",
+              "start": 0,
+              "username": "pronsi114"
+            },
+            {
+              "end": 23,
+              "id": "2007036056068399104",
+              "start": 11,
+              "username": "huhu1585758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044998530545471642",
+        "in_reply_to_user_id": "1851253052243865600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044955246074773588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pronsi114 @huhu1585758 吃的色谱龙喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851253052243865600",
+        "conversation_id": "2044820528385671430",
+        "created_at": "2026-04-17T01:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044955246074773588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007036056068399104",
+              "start": 0,
+              "username": "huhu1585758"
+            },
+            {
+              "end": 27,
+              "id": "1598557374046179328",
+              "start": 13,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044955246074773588",
+        "in_reply_to_user_id": "2007036056068399104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044952323894784244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhu1585758 @huihui_mikumi 螺内酯也不是肾负担，利尿不是肾负担"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|OD药|缺爱|抖M/S|自残|欢迎互fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039259853248762196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 357,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 590
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:21:47.000Z",
+        "description": "transles（ppl），含糖，rin推，偶尔出点cos\n照片大部分都是原图不p（）\n男的不要来私信骚扰我好吗\npharm",
+        "id": "1851253052243865600",
+        "location": "瀋陽",
+        "name": "pronsi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851255555177730049/3LlrtXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 1664,
+          "like_count": 47950,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2419
+        },
+        "username": "pronsi114",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T10:28:19.000Z",
+        "description": "需要买凝胶，请加这个qq3675508183, qq群1030745939，tg https://t.co/eAksH1Uv18因为加的人太多了，显示有风险，了解详情之后再加无，可出原味，可树洞陪聊，",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+aKFMia07_VE0O…",
+                "end": 64,
+                "expanded_url": "https://t.me/+aKFMia07_VE0OTll",
+                "start": 41,
+                "url": "https://t.co/eAksH1Uv18"
+              }
+            ]
+          }
+        },
+        "id": "2007036056068399104",
+        "name": "怀愚痴卖五倍雌二醇凝胶",
+        "pinned_tweet_id": "2038939070160887833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007356537191428096/O6vmXPKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 49,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 167
+        },
+        "username": "huhu1585758",
+        "verified": false
+      }
+    ]
+  }
+}

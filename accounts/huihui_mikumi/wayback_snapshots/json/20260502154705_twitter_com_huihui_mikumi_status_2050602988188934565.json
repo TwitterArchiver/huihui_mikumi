@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050602985097744386",
+        "3_2050602984435077121"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050602988188934565",
+    "created_at": "2026-05-02T15:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050602988188934565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wbCPqA7QK8",
+          "end": 162,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2050602988188934565/photo/1",
+          "media_key": "3_2050602985097744386",
+          "start": 139,
+          "url": "https://t.co/wbCPqA7QK8"
+        },
+        {
+          "display_url": "pic.x.com/wbCPqA7QK8",
+          "end": 162,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2050602988188934565/photo/1",
+          "media_key": "3_2050602984435077121",
+          "start": 139,
+          "url": "https://t.co/wbCPqA7QK8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050602988188934565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "青年大学习❤️\n今天做了我最爱吃的红烧茄子，这个菜超好吃，我是炒菜新手，分享一下做法（超爱吃）\n1.将茄子切成条\n2.用生粉抓均匀\n3.烧油（越多越好，最少要1cm），油热了以后倒入茄子，肉沫/瘦肉\n4.将茄子翻炒，加入酱油，一勺糖一勺盐\n5.茄子变金黄以后翻炒一下就能出锅了 https://t.co/wbCPqA7QK8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2050602985097744386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHU0jOYbUAI8Dez.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2050602984435077121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHU0jL6b0AEp5PQ.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050602985097744386",
+            "3_2050602984435077121"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050602988188934565",
+        "created_at": "2026-05-02T15:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050602988188934565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbCPqA7QK8",
+              "end": 162,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2050602988188934565/photo/1",
+              "media_key": "3_2050602985097744386",
+              "start": 139,
+              "url": "https://t.co/wbCPqA7QK8"
+            },
+            {
+              "display_url": "pic.x.com/wbCPqA7QK8",
+              "end": 162,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2050602988188934565/photo/1",
+              "media_key": "3_2050602984435077121",
+              "start": 139,
+              "url": "https://t.co/wbCPqA7QK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050602988188934565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青年大学习❤️\n今天做了我最爱吃的红烧茄子，这个菜超好吃，我是炒菜新手，分享一下做法（超爱吃）\n1.将茄子切成条\n2.用生粉抓均匀\n3.烧油（越多越好，最少要1cm），油热了以后倒入茄子，肉沫/瘦肉\n4.将茄子翻炒，加入酱油，一勺糖一勺盐\n5.茄子变金黄以后翻炒一下就能出锅了 https://t.co/wbCPqA7QK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 418,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 725
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

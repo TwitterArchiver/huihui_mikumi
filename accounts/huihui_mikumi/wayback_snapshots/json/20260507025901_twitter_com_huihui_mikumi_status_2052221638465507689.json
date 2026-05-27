@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2052010760763850804",
+    "created_at": "2026-05-07T02:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052221638465507689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "chny547354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052221638465507689",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052069970839003144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chny547354 可以喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2052010760763850804",
+        "created_at": "2026-05-07T02:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052221638465507689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "chny547354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052221638465507689",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052069970839003144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chny547354 可以喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2052010760763850804",
+        "created_at": "2026-05-06T16:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052069970839003144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052069970839003144",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052010760763850804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 主播主播，可以坐地铁去找你玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 434,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "社恐男大，泛性恋，INFP，164cm53kg\n正在为第一件cos攒钱中\n线上线下都很社恐\n非跨友跨，不要骂我我会伤心的😭\n喜欢的：明日方舟，cs，瓦或 cod 之类的 FPS 游戏，喜欢折腾洋垃圾",
+        "id": "1733692753899569152",
+        "name": "社恐猫猫🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042935891061280772/SGl5z9S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 51,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "chny547354",
+        "verified": false
+      }
+    ]
+  }
+}

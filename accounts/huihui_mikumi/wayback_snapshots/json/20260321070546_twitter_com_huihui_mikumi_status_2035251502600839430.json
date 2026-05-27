@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2034856633017524287",
+    "created_at": "2026-03-21T07:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035251502600839430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748755970636038144",
+          "start": 0,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035251502600839430",
+    "in_reply_to_user_id": "1748755970636038144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034856633017524287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_zuo96208 晶哥是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034856621768364032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1DUP1a0AAabQb.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2034856633017524287",
+        "created_at": "2026-03-21T07:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035251502600839430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748755970636038144",
+              "start": 0,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035251502600839430",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034856633017524287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_zuo96208 晶哥是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034856621768364032"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "2034856633017524287",
+        "created_at": "2026-03-20T04:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034856633017524287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvXGD7WCjV",
+              "end": 29,
+              "expanded_url": "https://x.com/er_zuo96208/status/2034856633017524287/photo/1",
+              "media_key": "3_2034856621768364032",
+              "start": 6,
+              "url": "https://t.co/yvXGD7WCjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034856633017524287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4981,
+          "like_count": 53,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥别钓了 https://t.co/yvXGD7WCjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|20|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人\n\n永远的好闺蜜❤️@kokolovss❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "kokolovss"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033641073965469699/6fcuj7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 51,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 134
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图屏蔽我 爱我请给钱 被b了自己找原因 fo你是喜欢你 脾气不好别犯贱 提问箱⏬️ 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪188/288➕半绿🚪520➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032395675628085248/2p2-IfsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 455,
+          "like_count": 1220,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1651
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

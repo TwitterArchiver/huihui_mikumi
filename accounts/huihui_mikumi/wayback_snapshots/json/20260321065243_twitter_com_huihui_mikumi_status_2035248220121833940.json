@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2034872079775051783",
+    "created_at": "2026-03-21T06:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T07:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035248220121833940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1517351872197443584",
+          "start": 0,
+          "username": "xp10890860"
+        },
+        {
+          "end": 28,
+          "id": "1880947236462616576",
+          "start": 12,
+          "username": "RuthanneSo92628"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2035248220121833940",
+    "in_reply_to_user_id": "1517351872197443584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035234271808692395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xp10890860 @RuthanneSo92628 流，一点点"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2034872079775051783",
+        "created_at": "2026-03-21T06:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035248220121833940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1517351872197443584",
+              "start": 0,
+              "username": "xp10890860"
+            },
+            {
+              "end": 28,
+              "id": "1880947236462616576",
+              "start": 12,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2035248220121833940",
+        "in_reply_to_user_id": "1517351872197443584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035234271808692395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xp10890860 @RuthanneSo92628 流，一点点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517351872197443584",
+        "conversation_id": "2034872079775051783",
+        "created_at": "2026-03-21T05:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035234271808692395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 31,
+              "id": "1880947236462616576",
+              "start": 15,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035234271808692395",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034918293510005070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi @RuthanneSo92628 流血吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|20|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|\n|腹黑|病娇|OD药|缺爱|抖M/S|自残|随缘fo\n\n在替某人活下去，帮助更多想结束生命之人\n\n永远的好闺蜜❤️@kokolovss❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "kokolovss"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033641073965469699/6fcuj7zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 49,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 131
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T03:57:42.000Z",
+        "description": "地表最强",
+        "id": "1517351872197443584",
+        "name": "xp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518611973251862530/CQ6G-bBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "xp10890860",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:54.000Z",
+        "description": "就不介绍了，都是自家人，就一个目的分享无聊的日常生活，寻找聊得来的搭子，全高中最沙雕的女人，有公的让我撩一下？（有🚪可验）",
+        "id": "1880947236462616576",
+        "name": "奥特之母",
+        "pinned_tweet_id": "2014244198845927594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905696285153460224/Adq5QrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65160,
+          "following_count": 0,
+          "like_count": 84,
+          "listed_count": 87,
+          "media_count": 290,
+          "tweet_count": 1471
+        },
+        "username": "RuthanneSo92628",
+        "verified": false
+      }
+    ]
+  }
+}

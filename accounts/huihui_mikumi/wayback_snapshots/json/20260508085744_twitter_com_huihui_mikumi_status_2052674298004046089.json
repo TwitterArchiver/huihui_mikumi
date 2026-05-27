@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2052674298004046089",
+    "created_at": "2026-05-08T08:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052674298004046089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/YV5XTo6",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/YV5XTo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052674298004046089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052435315038597508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 水水，你欠我一份遗书。\n\n为什么你走的这么匆忙？\n\n你为什么只说了这些，头也不回的就走了\n\n我在巴黎，从落地开始就没有一刻快乐，你害的我在巴黎一直哭，我在每一个游客欢笑的地方哭泣，我哭遍了整个巴黎。 https://t.co/YV5XTo6…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1663,
+        "media_key": "3_2052435308692615169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu3CfsXsAEIRKN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2052674298004046089",
+        "created_at": "2026-05-08T08:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052674298004046089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/YV5XTo6",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/YV5XTo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052674298004046089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052435315038597508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 水水，你欠我一份遗书。\n\n为什么你走的这么匆忙？\n\n你为什么只说了这些，头也不回的就走了\n\n我在巴黎，从落地开始就没有一刻快乐，你害的我在巴黎一直哭，我在每一个游客欢笑的地方哭泣，我哭遍了整个巴黎。 https://t.co/YV5XTo6…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052435308692615169"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052435315038597508",
+        "created_at": "2026-05-07T17:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052435315038597508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YV5XTo6Ac6",
+              "end": 123,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2052435315038597508/photo/1",
+              "media_key": "3_2052435308692615169",
+              "start": 100,
+              "url": "https://t.co/YV5XTo6Ac6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052435315038597508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5516,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "水水，你欠我一份遗书。\n\n为什么你走的这么匆忙？\n\n你为什么只说了这些，头也不回的就走了\n\n我在巴黎，从落地开始就没有一刻快乐，你害的我在巴黎一直哭，我在每一个游客欢笑的地方哭泣，我哭遍了整个巴黎。 https://t.co/YV5XTo6Ac6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 441,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 837
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2052021726804906174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 676,
+          "like_count": 6613,
+          "listed_count": 5,
+          "media_count": 335,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

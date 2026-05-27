@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2025190291272355929",
+    "created_at": "2026-02-21T12:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025190291272355929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025190291272355929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前两天去了一圈医院，已经从中度双相变成重度抑郁了\n我在2020年的时候被确诊中度双相人格障碍，那时候只有15岁，我觉得在我的病好之前，我不能被称之为人生\n那年开始，我在不断的与我的病做抗争\n直到今天，我才明白人的努力在病魔面前是多么的渺小\n渐渐的，这个世界已经逐渐遗忘了我，没有人关心我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2025190291272355929",
+        "created_at": "2026-02-21T12:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025190291272355929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025190291272355929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天去了一圈医院，已经从中度双相变成重度抑郁了\n我在2020年的时候被确诊中度双相人格障碍，那时候只有15岁，我觉得在我的病好之前，我不能被称之为人生\n那年开始，我在不断的与我的病做抗争\n直到今天，我才明白人的努力在病魔面前是多么的渺小\n渐渐的，这个世界已经逐渐遗忘了我，没有人关心我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "|20|cosplay|可爱男娘|男M|依存症|二次元|特别粘人|不可以欺负我|我会哭|特别害羞|喜欢可爱的女孩子|反男同|喜欢磕百合|IT人|AI|卷积神经网络|对抗生成网络|普世价值|讨厌粉红|讨厌共产主义者|要自由|要选票|梦想是越过那座无法逾越的高墙|",
+        "id": "1598557374046179328",
+        "location": "中国",
+        "name": "惠惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598557674689695744/BARVYzIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

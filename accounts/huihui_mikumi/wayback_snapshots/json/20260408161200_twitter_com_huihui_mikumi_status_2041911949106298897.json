@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041911946602225664"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2041911949106298897",
+    "created_at": "2026-04-08T16:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041911949106298897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzmI4Q8Ja3",
+          "end": 57,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2041911949106298897/photo/1",
+          "media_key": "3_2041911946602225664",
+          "start": 34,
+          "url": "https://t.co/wzmI4Q8Ja3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041911949106298897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天就去脑科医院看看能不能治病，如果要我花几千块做检查，我就死心了 https://t.co/wzmI4Q8Ja3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041911946602225664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZUGM_aIAA4dc-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041911946602225664"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2041911949106298897",
+        "created_at": "2026-04-08T16:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041911949106298897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzmI4Q8Ja3",
+              "end": 57,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2041911949106298897/photo/1",
+              "media_key": "3_2041911946602225664",
+              "start": 34,
+              "url": "https://t.co/wzmI4Q8Ja3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041911949106298897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就去脑科医院看看能不能治病，如果要我花几千块做检查，我就死心了 https://t.co/wzmI4Q8Ja3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|OD药|缺爱|抖M/S|自残|欢迎互fo\n\n在替某人活下去，帮助更多想结束生命之人",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 252,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 415
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

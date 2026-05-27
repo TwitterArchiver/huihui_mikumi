@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2058904738582737123",
+    "created_at": "2026-05-25T14:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058923335728378208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058923335728378208",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058904738582737123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 没必要劝了，没觉醒的人是劝不醒的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2058904721344155648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKy734X0AAS5T6.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2058904738582737123",
+        "created_at": "2026-05-25T14:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058923335728378208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058923335728378208",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058904738582737123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 没必要劝了，没觉醒的人是劝不醒的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058904721344155648"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058904738582737123",
+        "created_at": "2026-05-25T13:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058904738582737123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHyoO1vAkC",
+              "end": 49,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2058904738582737123/photo/1",
+              "media_key": "3_2058904721344155648",
+              "start": 26,
+              "url": "https://t.co/sHyoO1vAkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058904738582737123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "認識的大陸朋友死活不願意用X或其他外網軟件怎麼辦⋯ https://t.co/sHyoO1vAkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 515,
+          "like_count": 561,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1256
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵🇫🇷/President of Union Republic of Griffin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2055944120376447137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 585,
+          "like_count": 2513,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

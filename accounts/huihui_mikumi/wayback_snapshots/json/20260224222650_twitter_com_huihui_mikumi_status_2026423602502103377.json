@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026423598001565696"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026321105267691852",
+    "created_at": "2026-02-24T22:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T23:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026423602502103377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cfGNtK4Mof",
+          "end": 35,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2026423602502103377/photo/1",
+          "media_key": "3_2026423598001565696",
+          "start": 12,
+          "url": "https://t.co/cfGNtK4Mof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026423602502103377",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026321105267691852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 https://t.co/cfGNtK4Mof"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026423598001565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9NhqNaMAAc9FF.jpg",
+        "width": 926
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026321102340026369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7wToHa8AEDy1_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026423598001565696"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026321105267691852",
+        "created_at": "2026-02-24T22:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026423602502103377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfGNtK4Mof",
+              "end": 35,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2026423602502103377/photo/1",
+              "media_key": "3_2026423598001565696",
+              "start": 12,
+              "url": "https://t.co/cfGNtK4Mof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026423602502103377",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026321105267691852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 https://t.co/cfGNtK4Mof"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026321102340026369"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026321105267691852",
+        "created_at": "2026-02-24T15:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026321105267691852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfvFdxxcf5",
+              "end": 77,
+              "expanded_url": "https://x.com/mwdxj29477/status/2026321105267691852/photo/1",
+              "media_key": "3_2026321102340026369",
+              "start": 54,
+              "url": "https://t.co/vfvFdxxcf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026321105267691852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝重新设计了一下自己的手机布局喵😋，感觉挺简洁的🥹，只是需要习惯喵🥲，求一张好看的壁纸喵qwq🥺，什么都行 https://t.co/vfvFdxxcf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "|20|cosplay|可爱男娘|男M|依存症|二次元|特别粘人|不可以欺负我|我会哭|特别害羞|喜欢可爱的女孩子|反男同|喜欢磕百合|IT人|AI|卷积神经网络|对抗生成网络|普世价值|讨厌粉红|讨厌共产主义者|要自由|要选票|梦想是越过那座无法逾越的高墙|",
+        "id": "1598557374046179328",
+        "location": "中国",
+        "name": "惠惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598557674689695744/BARVYzIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 38
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/🍥Hrt🏳️‍⚧️01.28.2026/无证含糖/14岁年龄党/生产日期:11.13.2011/喜欢xnn xyn mtf/INFP-T/性别认同不确定/社恐/初二牲/体能废物/161cm51kg/坐标湖北/只玩Minecraft/民國派🇹🇼華獨/简中&繁中/欢迎互fo/\nTG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUSw8v"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國淪陷區 湖北/孝感「漢川城」",
+        "name": "🍥MWdxj🍥🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 594,
+          "like_count": 6094,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/fG6XzUSw8v",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

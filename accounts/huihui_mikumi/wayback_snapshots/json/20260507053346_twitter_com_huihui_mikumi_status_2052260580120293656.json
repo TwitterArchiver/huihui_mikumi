@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2052063772706213973",
+    "created_at": "2026-05-07T05:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052260580120293656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1940456482744795138",
+          "start": 0,
+          "username": "ICEbingkuai95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052260580120293656",
+    "in_reply_to_user_id": "1940456482744795138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052063772706213973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICEbingkuai95 抱抱你，不要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2052063772706213973",
+        "created_at": "2026-05-07T05:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052260580120293656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1940456482744795138",
+              "start": 0,
+              "username": "ICEbingkuai95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052260580120293656",
+        "in_reply_to_user_id": "1940456482744795138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052063772706213973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICEbingkuai95 抱抱你，不要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940456482744795138",
+        "conversation_id": "2052063772706213973",
+        "created_at": "2026-05-06T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052063772706213973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052063772706213973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好想了结自己啊www😭\n是不是亚硝酸钠泡水喝就可以安稳的睡一觉了\n说不定醒了之后就是一个顺女了呢🥺\n如果是那样子该多好啊......\n为什么啊，我好崩溃呜呜呜😭\n不好，我发负能都到推特里了😩\n我错了，我真的对不起你们啊😢\n冰水在这里和大家道个歉喵😿……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 434,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T17:04:21.000Z",
+        "description": "你好呀这里是冰块 可贴贴 同类可互粉！\n中焦重抑不od💊/🍥🏳️‍⚧️🏳️‍🌈 2010.9月生产的 mtf出柜成功\n观察期已结束准备证明中（家长党）/CN/EN/繁/JP/可交流\n音游痴/maimai/中二节奏/phigros/arc/世界计划\n不定时更新🥰谢谢喜欢🥰",
+        "id": "1940456482744795138",
+        "location": "成为那个最认可的她就是我的终点🏳️‍⚧️",
+        "name": "氷水化合物🏳️‍⚧️（好焦虑喵😿）",
+        "pinned_tweet_id": "2049570638378188843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052067721916059648/G_C74tNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 509,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "ICEbingkuai95",
+        "verified": false
+      }
+    ]
+  }
+}

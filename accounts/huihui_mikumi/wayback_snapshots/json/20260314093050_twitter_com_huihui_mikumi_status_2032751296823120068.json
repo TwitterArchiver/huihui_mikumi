@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2032746348680990843",
+    "created_at": "2026-03-14T09:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032751296823120068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032751296823120068",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032746348680990843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwdxj29477 小姑凉～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2032746348680990843",
+        "created_at": "2026-03-14T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032751296823120068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032751296823120068",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032746348680990843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwdxj29477 小姑凉～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970857021588262912",
+        "conversation_id": "2032746348680990843",
+        "created_at": "2026-03-14T09:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032746348680990843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Konekoutena/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Konekoutena/status/2032724393437364293",
+              "start": 31,
+              "url": "https://t.co/DG0GqikU6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032746348680990843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032724393437364293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我极度厌恶男子汉这种称谓，如果你叫我一声小姑娘，我会回声谢谢 https://t.co/DG0GqikU6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangzhou, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.25,
+                  23.11667
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangzhou",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|20|cosplay|伪娘|男M|依存症|二次元|特别粘人|不可以欺负我|我会哭|特别害羞|喜欢可爱的女孩子|反男同|喜欢磕百合|腹黑|触手|病娇|捆绑|OD药|缺爱|抖M/S|自残|圣母|随缘fo|",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🍬🍭💖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031298890427936772/XrGx8gYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 90
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨顺男/已翻车/Hrt🍥01.28.2026/无证含糖/家长反对党😭/性别认同探索中?/泛性恋?/03.06💥炸柜/非二元/11.13.2011出厂/INFP-T/161cm51kg41码/纯M/初二牲/成绩倒数的废物/体能废物/只玩MC/民國派🇹🇼華獨/视成分互fo/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "中華民國 大陸淪陷區 湖北省「漢川縣」",
+        "name": "𝓤 𝓷 𝓴 𝓷 𝓸 𝔀 𝓷 ~🍥",
+        "pinned_tweet_id": "2032446344598810669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 827,
+          "like_count": 8992,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

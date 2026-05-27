@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053972092773863424"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2053972103041548527",
+    "created_at": "2026-05-11T22:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053972103041548527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HetnD2LLXH",
+          "end": 37,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2053972103041548527/photo/1",
+          "media_key": "3_2053972092773863424",
+          "start": 14,
+          "url": "https://t.co/HetnD2LLXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053972103041548527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天跟跨友见面啦，开心开心 https://t.co/HetnD2LLXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053972092773863424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEsvGhaEAArvcl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053972092773863424"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2053972103041548527",
+        "created_at": "2026-05-11T22:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053972103041548527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HetnD2LLXH",
+              "end": 37,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2053972103041548527/photo/1",
+              "media_key": "3_2053972092773863424",
+              "start": 14,
+              "url": "https://t.co/HetnD2LLXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053972103041548527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟跨友见面啦，开心开心 https://t.co/HetnD2LLXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 464,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 938
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

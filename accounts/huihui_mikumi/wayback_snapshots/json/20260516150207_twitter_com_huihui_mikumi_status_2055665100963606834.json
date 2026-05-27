@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2055651771612385476",
+    "created_at": "2026-05-16T15:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055665100963606834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478718800682156037",
+          "start": 0,
+          "username": "ABC59487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055665100963606834",
+    "in_reply_to_user_id": "1478718800682156037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055664893802819730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC59487 笨蛋，无论变成什么样，我都只想拯救大家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 122,
+        "media_key": "16_2055664884910878720",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIcwUkpbcAAZ-AA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIcwUkpbcAAZ-AA.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2055651771612385476",
+        "created_at": "2026-05-16T15:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055665100963606834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478718800682156037",
+              "start": 0,
+              "username": "ABC59487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055665100963606834",
+        "in_reply_to_user_id": "1478718800682156037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055664893802819730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC59487 笨蛋，无论变成什么样，我都只想拯救大家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2055664884910878720"
+          ]
+        },
+        "author_id": "1478718800682156037",
+        "conversation_id": "2055651771612385476",
+        "created_at": "2026-05-16T15:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055664893802819730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EJDPDcvbq",
+              "end": 60,
+              "expanded_url": "https://x.com/ABC59487/status/2055664893802819730/photo/1",
+              "media_key": "16_2055664884910878720",
+              "start": 37,
+              "url": "https://t.co/5EJDPDcvbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055664893802819730",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055651771612385476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 那會不會後面變成魔女(⁠´⁠。ω⁠。｀⁠) https://t.co/5EJDPDcvbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|互fo\n\nwx🚪52（求求啦小惠太穷穷啦）",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 495,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1071
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T13:23:47.000Z",
+        "description": "杏眾一位",
+        "id": "1478718800682156037",
+        "location": "Taiwan",
+        "name": "浮游廢物 單推老大 想當薯條",
+        "pinned_tweet_id": "1575113759168700418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029782900129013760/bcJLlDoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 830,
+          "like_count": 23227,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 9996
+        },
+        "username": "ABC59487",
+        "verified": false
+      }
+    ]
+  }
+}

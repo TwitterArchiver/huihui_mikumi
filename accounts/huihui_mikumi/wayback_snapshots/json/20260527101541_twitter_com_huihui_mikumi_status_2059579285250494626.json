@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2059518370584936763",
+    "created_at": "2026-05-27T10:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059579285250494626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051215649985187840",
+          "start": 0,
+          "username": "karen_gate29929"
+        },
+        {
+          "end": 30,
+          "id": "1878441068649426944",
+          "start": 17,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059579285250494626",
+    "in_reply_to_user_id": "2051215649985187840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059579071257076013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karen_gate29929 @xian_zi17640 就是就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2059518370584936763",
+        "created_at": "2026-05-27T10:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059579285250494626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051215649985187840",
+              "start": 0,
+              "username": "karen_gate29929"
+            },
+            {
+              "end": 30,
+              "id": "1878441068649426944",
+              "start": 17,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059579285250494626",
+        "in_reply_to_user_id": "2051215649985187840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059579071257076013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karen_gate29929 @xian_zi17640 就是就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051215649985187840",
+        "conversation_id": "2059518370584936763",
+        "created_at": "2026-05-27T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059579071257076013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            },
+            {
+              "end": 28,
+              "id": "1598557374046179328",
+              "start": 14,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059579071257076013",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059578550257103182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 @huihui_mikumi 抱抱呢（那种吵架然后逼着孩子站队和发泄在孩子身上的真的超级可怕）qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 538,
+          "like_count": 575,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1276
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T08:21:59.000Z",
+        "description": "too dead too sun",
+        "id": "2051215649985187840",
+        "location": "哈基星",
+        "name": "Karen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059317812007718912/m5YK_tDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "karen_gate29929",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "生日:1209 年龄:15 性格:随机  初二 玻璃心 大胃袋 小短腿 免费树洞欢迎来找我聊天\nhttps://t.co/Qntfz9TM3m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 71,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 48,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 332,
+          "like_count": 1936,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 1848
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

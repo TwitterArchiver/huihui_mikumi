@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2059616551867957380",
+    "created_at": "2026-05-27T17:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059681425683796177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998655152824434688",
+          "start": 0,
+          "username": "izumi_konataovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059681425683796177",
+    "in_reply_to_user_id": "1998655152824434688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059681253302100140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@izumi_konataovo 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2059616551867957380",
+        "created_at": "2026-05-27T17:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059681425683796177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998655152824434688",
+              "start": 0,
+              "username": "izumi_konataovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059681425683796177",
+        "in_reply_to_user_id": "1998655152824434688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059681253302100140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@izumi_konataovo 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998655152824434688",
+        "conversation_id": "2059616551867957380",
+        "created_at": "2026-05-27T17:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059681253302100140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059681253302100140",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059616551867957380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 这么强。😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 550,
+          "like_count": 577,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1288
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T07:25:13.000Z",
+        "description": "我最喜欢泉此方了！我爱抹茶冰淇淋，巧克力，烤肉！\n温和左。\n知识浅薄，想要多多学习捏~",
+        "id": "1998655152824434688",
+        "location": "银河社会主义联邦",
+        "name": "⭐稻荷神泉此方sama⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033986461956259840/MX6z75sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 202,
+          "like_count": 3071,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1759
+        },
+        "username": "izumi_konataovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2060344441442124133",
+    "created_at": "2026-05-30T05:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060599938619437331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850557290207911937",
+          "start": 0,
+          "username": "MioyokaRico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060599938619437331",
+    "in_reply_to_user_id": "1850557290207911937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060587246252851280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioyokaRico 好像诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2060344441442124133",
+        "created_at": "2026-05-30T05:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060599938619437331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850557290207911937",
+              "start": 0,
+              "username": "MioyokaRico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060599938619437331",
+        "in_reply_to_user_id": "1850557290207911937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060587246252851280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioyokaRico 好像诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850557290207911937",
+        "conversation_id": "2060344441442124133",
+        "created_at": "2026-05-30T05:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060587246252851280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060587246252851280",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060344441442124133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我会夹被子，我还会把鲨鲨放在下面蹭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 575,
+          "like_count": 611,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1328
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:17:06.000Z",
+        "description": "日本語/中文/English→👌🏻\n无证补雌/赛博精神病/180-70/🚪30（看看诚意）/接定制/东京内可上门（酒店也可）/清水日常号@dantajiejie789/个人渠道也有伟哥，需要的话也可以私信哦/有什么想问的可以匿名提问→",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "dantajiejie789"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mioyokarico",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mioyokarico",
+                "start": 0,
+                "url": "https://t.co/L1JaUIPsIY"
+              }
+            ]
+          }
+        },
+        "id": "1850557290207911937",
+        "location": "日本东京都",
+        "name": "冬月アリア /|蛋挞到处睡",
+        "pinned_tweet_id": "2031313117377081840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999337186723004420/uvv7WEl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 36,
+          "like_count": 84,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/L1JaUIPsIY",
+        "username": "MioyokaRico",
+        "verified": false
+      }
+    ]
+  }
+}

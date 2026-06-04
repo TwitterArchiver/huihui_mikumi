@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2061816971721867550",
+    "created_at": "2026-06-02T14:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061824189557018885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "xaoyou408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061824189557018885",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061816971721867550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaoyou408 磨甲磨的太薄了，很伤指甲的笨蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061816955171225600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0LmMTbwAAJlof.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2061816971721867550",
+        "created_at": "2026-06-02T14:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824189557018885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "xaoyou408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824189557018885",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061816971721867550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaoyou408 磨甲磨的太薄了，很伤指甲的笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061816955171225600"
+          ]
+        },
+        "author_id": "1557193023468883968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061816971721867550",
+        "created_at": "2026-06-02T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061816971721867550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aaPmKZSrP",
+              "end": 31,
+              "expanded_url": "https://x.com/xaoyou408/status/2061816971721867550/photo/1",
+              "media_key": "3_2061816955171225600",
+              "start": 8,
+              "url": "https://t.co/0aaPmKZSrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061816971721867550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要禁欲了 喵 https://t.co/0aaPmKZSrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 593,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1366
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "^^神经病/被害妄想症/畏惧死亡/",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "役津栗优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 37,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 93
+        },
+        "username": "xaoyou408",
+        "verified": false
+      }
+    ]
+  }
+}

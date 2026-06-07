@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062062471167537543",
+    "created_at": "2026-06-03T09:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062108370686079431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1022421755309121536",
+          "start": 0,
+          "username": "TucWA5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062108370686079431",
+    "in_reply_to_user_id": "1022421755309121536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062108262015869183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TucWA5F fo啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062062471167537543",
+        "created_at": "2026-06-03T09:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062108370686079431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1022421755309121536",
+              "start": 0,
+              "username": "TucWA5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062108370686079431",
+        "in_reply_to_user_id": "1022421755309121536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062108262015869183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TucWA5F fo啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1022421755309121536",
+        "conversation_id": "2062062471167537543",
+        "created_at": "2026-06-03T09:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062108262015869183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062108262015869183",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062062471167537543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 举"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 614,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1421
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-26T10:01:56.000Z",
+        "description": "アマゾン仲介業者です、amazon商品のレビューを募集しています、5つ星レビュー後、PayPal或いはアマゾンギフト券で返金、興味ある商品あればぜひお気軽に連絡してください。",
+        "id": "1022421755309121536",
+        "name": "西住流 🏳️‍⚧️🍥iiii（アマゾン試用品無料提供）WT惑星居民基本は戦車のみ",
+        "pinned_tweet_id": "1818833775943618630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268818674393071616/1aLjBdpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 1721,
+          "like_count": 3409,
+          "listed_count": 14,
+          "media_count": 5137,
+          "tweet_count": 8236
+        },
+        "username": "TucWA5F",
+        "verified": false
+      }
+    ]
+  }
+}

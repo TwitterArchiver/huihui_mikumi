@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062749148324229146",
+    "created_at": "2026-06-05T06:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062786812251348993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514172232527859713",
+          "start": 0,
+          "username": "javertnuomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062786812251348993",
+    "in_reply_to_user_id": "1514172232527859713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062749148324229146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@javertnuomi 互fo喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062749148324229146",
+        "created_at": "2026-06-05T06:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062786812251348993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514172232527859713",
+              "start": 0,
+              "username": "javertnuomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062786812251348993",
+        "in_reply_to_user_id": "1514172232527859713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062749148324229146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@javertnuomi 互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514172232527859713",
+        "conversation_id": "2062749148324229146",
+        "created_at": "2026-06-05T04:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062749148324229146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062749148324229146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1022,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扩列扩列，我需要同类朋友😭\n#男娘 #mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 700,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1588
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T09:22:59.000Z",
+        "description": "树洞🕳",
+        "id": "1514172232527859713",
+        "name": "十乂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784359908332216320/gvcM_gjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 16,
+          "like_count": 289,
+          "listed_count": 7,
+          "media_count": 32,
+          "tweet_count": 56
+        },
+        "username": "javertnuomi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062351910267686940",
+    "created_at": "2026-06-04T17:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062586766159434117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933203967703724038",
+          "start": 0,
+          "username": "nina02880521506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062586766159434117",
+    "in_reply_to_user_id": "1933203967703724038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062585600969216213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nina02880521506 讨把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062351910267686940",
+        "created_at": "2026-06-04T17:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062586766159434117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933203967703724038",
+              "start": 0,
+              "username": "nina02880521506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062586766159434117",
+        "in_reply_to_user_id": "1933203967703724038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062585600969216213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nina02880521506 讨把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933203967703724038",
+        "conversation_id": "2062351910267686940",
+        "created_at": "2026-06-04T17:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062585600969216213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062585600969216213",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062351910267686940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我也要讨封吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 668,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1536
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:46:08.000Z",
+        "description": "08年正太药娘含糖。25年遭天道镇压，同king的待遇刚出道就被镇压，被送去湘潭市青少年专门教育学校。QQ：2275833392\n 请帮我转帖，否则我会不惜一切代价咬死你们所有人！",
+        "id": "1933203967703724038",
+        "location": "广州",
+        "name": "池咲恋厌孤.柠檬冰.泪千🍥（互推且扩列）",
+        "pinned_tweet_id": "1949136617006100811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034650391535816704/P4Ymf7_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 200,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 116
+        },
+        "username": "nina02880521506",
+        "verified": false
+      }
+    ]
+  }
+}

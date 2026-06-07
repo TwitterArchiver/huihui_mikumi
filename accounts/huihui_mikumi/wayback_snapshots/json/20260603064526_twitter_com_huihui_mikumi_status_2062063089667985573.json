@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062046171678556544",
+    "created_at": "2026-06-03T06:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062063089667985573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1389540523103358983",
+          "start": 0,
+          "username": "enchanted_dr1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062063089667985573",
+    "in_reply_to_user_id": "1389540523103358983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062062826756481524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enchanted_dr1m 不要嗑药🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062046171678556544",
+        "created_at": "2026-06-03T06:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062063089667985573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1389540523103358983",
+              "start": 0,
+              "username": "enchanted_dr1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062063089667985573",
+        "in_reply_to_user_id": "1389540523103358983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062062826756481524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enchanted_dr1m 不要嗑药🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389540523103358983",
+        "conversation_id": "2062046171678556544",
+        "created_at": "2026-06-03T06:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062062826756481524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062062826756481524",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062046171678556544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 嗑药特别爽，死也要死在药效里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 602,
+          "like_count": 631,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1401
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T11:21:09.000Z",
+        "description": "在寻找爱的电波 …｜水色界隈💙｜mtx/f 无证含糖ing｜给的够多可以线下｜🚪52纯绿陪聊/152解锁里服务｜随缘回fo 互fo请私戳｜ 双相 精分 OSDD-1b 自伤 od 恋血｜自杀计划筹备中…｜推是我吐黑泥和涩涩发癫的地方 对我不满可以b掉我｜骂我的替我挡灾^^\nHRT 23.6.17",
+        "id": "1389540523103358983",
+        "location": "恶灵在你背后",
+        "name": "梦灵ovo🍥",
+        "pinned_tweet_id": "1983969684191088840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689573268691562496/ilAN77HC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 938,
+          "like_count": 2857,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 917
+        },
+        "username": "enchanted_dr1m",
+        "verified": true
+      }
+    ]
+  }
+}

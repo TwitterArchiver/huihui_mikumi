@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062735006657872306",
+    "created_at": "2026-06-05T15:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062923304500183089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634357913639698433",
+          "start": 0,
+          "username": "Democracy_Sains"
+        },
+        {
+          "end": 30,
+          "id": "2057777604954820608",
+          "start": 17,
+          "username": "bai_chu48921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062923304500183089",
+    "in_reply_to_user_id": "1634357913639698433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062906188493422708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Democracy_Sains @bai_chu48921 跟我很像呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062735006657872306",
+        "created_at": "2026-06-05T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062923304500183089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634357913639698433",
+              "start": 0,
+              "username": "Democracy_Sains"
+            },
+            {
+              "end": 30,
+              "id": "2057777604954820608",
+              "start": 17,
+              "username": "bai_chu48921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062923304500183089",
+        "in_reply_to_user_id": "1634357913639698433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062906188493422708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Democracy_Sains @bai_chu48921 跟我很像呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634357913639698433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2062735006657872306",
+        "created_at": "2026-06-05T14:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062906188493422708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057777604954820608",
+              "start": 0,
+              "username": "bai_chu48921"
+            },
+            {
+              "end": 28,
+              "id": "1598557374046179328",
+              "start": 14,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062906188493422708",
+        "in_reply_to_user_id": "2057777604954820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062898125157839219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_chu48921 @huihui_mikumi 但问题在于他们这样我也很难办啊，动不动就自杀大多数人都不知道该说些什么。有困难我能提供的只有力所能及的帮助，以及现实中数量有限的经费让他们吃个饭、买点小东西散心，但好歹得让我有机会去开导去给予啊，我不是心理学家和医生，我就是一个普通人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 713,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1626
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:57:56.000Z",
+        "description": "性别你猜awa/FROM PRC🇨🇳/予理智以理智，予友善以友善/共青团员🎖/NOT GOOD AT ENG/Genshin Impact原神重度依赖\n欢迎在VK上添加我的好友！\n@id830605602，https://t.co/v3JX2DNH9u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "id830605602"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vk.ru/id830605602",
+                "end": 126,
+                "expanded_url": "https://vk.ru/id830605602",
+                "start": 103,
+                "url": "https://t.co/v3JX2DNH9u"
+              }
+            ]
+          }
+        },
+        "id": "1634357913639698433",
+        "location": "People's Republic of China🇨🇳",
+        "name": "☭德莫克拉西·赛因斯☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634358250765156353/Lwim01M4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 257,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 811
+        },
+        "username": "Democracy_Sains",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T10:56:40.000Z",
+        "description": "男\n玩第五，磕cp\n反对不民族团结言论",
+        "id": "2057777604954820608",
+        "location": "yunnan",
+        "name": "初白",
+        "pinned_tweet_id": "2061484711881662953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057808273282351104/C80lTL-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "bai_chu48921",
+        "verified": false
+      }
+    ]
+  }
+}

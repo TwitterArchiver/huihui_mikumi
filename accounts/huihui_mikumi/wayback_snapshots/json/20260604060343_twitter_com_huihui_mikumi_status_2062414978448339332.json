@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062414978448339332",
+    "created_at": "2026-06-04T06:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062414978448339332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NekoSukiXoX/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/NekoSukiXoX/status/2062414130519388632",
+          "start": 8,
+          "url": "https://t.co/1v9Bj0yPcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062414978448339332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062414130519388632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小惠也喜欢你！ https://t.co/1v9Bj0yPcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2062413672895668224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8qTvDa4AA3AxA.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062414978448339332",
+        "created_at": "2026-06-04T06:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062414978448339332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NekoSukiXoX/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/NekoSukiXoX/status/2062414130519388632",
+              "start": 8,
+              "url": "https://t.co/1v9Bj0yPcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062414978448339332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062414130519388632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小惠也喜欢你！ https://t.co/1v9Bj0yPcY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062413672895668224"
+          ]
+        },
+        "author_id": "1299233902066692097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062414130519388632",
+        "created_at": "2026-06-04T06:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062414130519388632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598557374046179328",
+              "start": 2,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TL3mokk73W",
+              "end": 42,
+              "expanded_url": "https://x.com/NekoSukiXoX/status/2062414130519388632/photo/1",
+              "media_key": "3_2062413672895668224",
+              "start": 19,
+              "url": "https://t.co/TL3mokk73W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062414130519388632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢@huihui_mikumi啦～ https://t.co/TL3mokk73W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 658,
+          "like_count": 646,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1474
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/深柜/MTF/偶尔自残(确信)可互fo喔\n恋人@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 102,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 140
+        },
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

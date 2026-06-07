@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062408910179590458",
+    "created_at": "2026-06-04T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062489547485921461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764920422662053888",
+          "start": 0,
+          "username": "xlll_1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062489547485921461",
+    "in_reply_to_user_id": "1764920422662053888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062408910179590458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xlll_1234 心疼喵🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062408901400956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8l9_2bkAAZCWO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062408910179590458",
+        "created_at": "2026-06-04T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062489547485921461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764920422662053888",
+              "start": 0,
+              "username": "xlll_1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062489547485921461",
+        "in_reply_to_user_id": "1764920422662053888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062408910179590458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xlll_1234 心疼喵🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062408901400956928"
+          ]
+        },
+        "author_id": "1764920422662053888",
+        "conversation_id": "2062408910179590458",
+        "created_at": "2026-06-04T05:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062408910179590458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2l1ZwQs6sC",
+              "end": 28,
+              "expanded_url": "https://x.com/xlll_1234/status/2062408910179590458/photo/1",
+              "media_key": "3_2062408901400956928",
+              "start": 5,
+              "url": "https://t.co/2l1ZwQs6sC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062408910179590458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰心疼我 https://t.co/2l1ZwQs6sC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 662,
+          "like_count": 652,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1503
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T07:46:42.000Z",
+        "description": "肉體本來就是牢籠關不住靈魂飛走\n07｜od｜躁鬱｜高p｜紋身｜互fo會查成分\n睡個好覺",
+        "id": "1764920422662053888",
+        "location": "地球",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "2056607669142921689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058191600568995840/i7zhxmP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 83,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 302
+        },
+        "username": "xlll_1234",
+        "verified": false
+      }
+    ]
+  }
+}

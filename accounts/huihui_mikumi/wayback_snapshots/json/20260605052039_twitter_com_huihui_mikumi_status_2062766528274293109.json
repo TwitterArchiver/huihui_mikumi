@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062558226361819396",
+    "created_at": "2026-06-05T05:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062766528274293109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818259696643706880",
+          "start": 0,
+          "username": "LokJi24180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062766528274293109",
+    "in_reply_to_user_id": "1818259696643706880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062739149036441987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LokJi24180 好喵…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062558226361819396",
+        "created_at": "2026-06-05T05:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062766528274293109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818259696643706880",
+              "start": 0,
+              "username": "LokJi24180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062766528274293109",
+        "in_reply_to_user_id": "1818259696643706880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062739149036441987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LokJi24180 好喵…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818259696643706880",
+        "conversation_id": "2062558226361819396",
+        "created_at": "2026-06-05T03:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062739149036441987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062739149036441987",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062558226361819396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 想试试……不然下次妳贴在阴蒂那里试试看，听说很爽……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 696,
+          "like_count": 667,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1572
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:18:10.000Z",
+        "description": "百合爱好者、萝莉女儿奴(?)\n游戏：原神、崩坏•星穹铁道、崩坏三、honor  of kings\n\n匿名信https://t.co/8qJPSrCgfS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xueshi1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/xueshi1",
+                "start": 53,
+                "url": "https://t.co/8qJPSrCgfS"
+              }
+            ]
+          }
+        },
+        "id": "1818259696643706880",
+        "name": "绯色奈奈",
+        "pinned_tweet_id": "2062404174160208251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822858798937313280/eT4csi4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 414,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 821
+        },
+        "username": "LokJi24180",
+        "verified": false
+      }
+    ]
+  }
+}

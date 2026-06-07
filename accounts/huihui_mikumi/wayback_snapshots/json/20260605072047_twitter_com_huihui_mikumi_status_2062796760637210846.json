@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062786838675550258",
+    "created_at": "2026-06-05T07:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062796760637210846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664271185524424705",
+          "start": 0,
+          "username": "_HATSUNEMIKU0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062796760637210846",
+    "in_reply_to_user_id": "1664271185524424705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062786838675550258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_HATSUNEMIKU0_0 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4852,
+        "height": 960,
+        "media_key": "7_2062786799500722176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062786799500722176/pu/img/fbxX11syPdBuVHIT.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062786799500722176/pu/vid/avc1/320x426/nRRmxAV5-J-gpWoz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062786799500722176/pu/vid/avc1/480x640/bU_0WssOVqzlBKT5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062786799500722176/pu/vid/avc1/720x960/zVAxxOa5KBM7nw5N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062786799500722176/pu/pl/njJ5CzRJYka1GYI8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062786838675550258",
+        "created_at": "2026-06-05T07:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062796760637210846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664271185524424705",
+              "start": 0,
+              "username": "_HATSUNEMIKU0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062796760637210846",
+        "in_reply_to_user_id": "1664271185524424705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062786838675550258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_HATSUNEMIKU0_0 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062786799500722176"
+          ]
+        },
+        "author_id": "1664271185524424705",
+        "conversation_id": "2062786838675550258",
+        "created_at": "2026-06-05T06:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062786838675550258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "可爱男孩子"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sPHLhphnD",
+              "end": 59,
+              "expanded_url": "https://x.com/_HATSUNEMIKU0_0/status/2062786838675550258/video/1",
+              "media_key": "7_2062786799500722176",
+              "start": 36,
+              "url": "https://t.co/5sPHLhphnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062786838675550258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 155,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "手机拍的肚脐眼好黑，感觉跟不爱干净一样…我真服了 #可爱男孩子 #伪娘 https://t.co/5sPHLhphnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 701,
+          "like_count": 670,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1595
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T14:02:34.000Z",
+        "description": "这里是我的推推空间，当朋友圈发的不要对我太严格…相比于其他虚无缥缈的东西，我更想点赞和夸奖谢谢。其实更喜欢你们说好看啊，可爱啊什么的。\n年龄19 体重50 身高172",
+        "id": "1664271185524424705",
+        "location": "Republic of Korea",
+        "name": "咚咚咪",
+        "pinned_tweet_id": "1877554995194900912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959204642958852096/AuutbRtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 7,
+          "like_count": 113,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 267
+        },
+        "username": "_HATSUNEMIKU0_0",
+        "verified": false
+      }
+    ]
+  }
+}

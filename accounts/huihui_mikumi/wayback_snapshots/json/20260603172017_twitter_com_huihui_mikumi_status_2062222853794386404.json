@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2062117107828224135",
+    "created_at": "2026-06-03T17:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062222853794386404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535875269759602689",
+          "start": 0,
+          "username": "linyongqin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062222853794386404",
+    "in_reply_to_user_id": "1535875269759602689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062117107828224135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyongqin9 至尊灾厄惠惠！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2062117107828224135",
+        "created_at": "2026-06-03T17:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062222853794386404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535875269759602689",
+              "start": 0,
+              "username": "linyongqin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062222853794386404",
+        "in_reply_to_user_id": "1535875269759602689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062117107828224135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyongqin9 至尊灾厄惠惠！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535875269759602689",
+        "conversation_id": "2062117107828224135",
+        "created_at": "2026-06-03T10:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062117107828224135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062117107828224135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我畢業了，各位給我個電子簽名吧ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 618,
+          "like_count": 639,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1446
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T06:43:20.000Z",
+        "description": "",
+        "id": "1535875269759602689",
+        "location": "肯德基（不是肯德基州）",
+        "name": "三小",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059640209843884032/euJTjKpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 262,
+          "like_count": 474,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 408
+        },
+        "username": "linyongqin9",
+        "verified": false
+      }
+    ]
+  }
+}

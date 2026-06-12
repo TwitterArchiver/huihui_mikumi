@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2063187827622658280",
+    "created_at": "2026-06-06T09:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063188844770734216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020036253216083968",
+          "start": 0,
+          "username": "ziye743964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063188844770734216",
+    "in_reply_to_user_id": "2020036253216083968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063188740319969621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziye743964 比自残圈正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063187827622658280",
+        "created_at": "2026-06-06T09:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063188844770734216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020036253216083968",
+              "start": 0,
+              "username": "ziye743964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063188844770734216",
+        "in_reply_to_user_id": "2020036253216083968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063188740319969621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziye743964 比自残圈正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020036253216083968",
+        "conversation_id": "2063187827622658280",
+        "created_at": "2026-06-06T09:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063188740319969621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063188740319969621",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063187827622658280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 正常在哪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 713,
+          "like_count": 683,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1648
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T07:26:01.000Z",
+        "description": "跨出們和東北逼最嚴歷的父親 以文芸之名（極端帳號）\n反跨 反LGBT 反滿洲 反北角 反東北 \n傻逼跨出和東北dog還是早點轉生好點",
+        "id": "2020036253216083968",
+        "location": "IP所在地：湖北",
+        "name": "達達達達達爾文🍥",
+        "pinned_tweet_id": "2062177300326842611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061589772880273408/e7cAeetR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "username": "ziye743964",
+        "verified": false
+      }
+    ]
+  }
+}

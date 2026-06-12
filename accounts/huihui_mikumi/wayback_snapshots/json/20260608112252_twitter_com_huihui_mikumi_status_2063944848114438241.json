@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2063944848114438241",
+    "created_at": "2026-06-08T11:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063944848114438241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bakatoyu/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/bakatoyu/status/2063900434776121505",
+          "start": 18,
+          "url": "https://t.co/ZgV2TjRPoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063944848114438241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063900434776121505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到这种发自杀相关内容的直接ban https://t.co/ZgV2TjRPoB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063900424491720704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRygEWbYAA8CCj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063944848114438241",
+        "created_at": "2026-06-08T11:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063944848114438241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bakatoyu/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bakatoyu/status/2063900434776121505",
+              "start": 18,
+              "url": "https://t.co/ZgV2TjRPoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063944848114438241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063900434776121505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到这种发自杀相关内容的直接ban https://t.co/ZgV2TjRPoB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063900424491720704"
+          ]
+        },
+        "author_id": "1979427567309590529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063900434776121505",
+        "created_at": "2026-06-08T08:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063900434776121505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZijIThMim1",
+              "end": 47,
+              "expanded_url": "https://x.com/bakatoyu/status/2063900434776121505/photo/1",
+              "media_key": "3_2063900424491720704",
+              "start": 24,
+              "url": "https://t.co/ZijIThMim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063900434776121505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个真的能吃死人吗，还是说去寻找其他更好的方法 https://t.co/ZijIThMim1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 764,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1825
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T06:01:47.000Z",
+        "description": "",
+        "id": "1979427567309590529",
+        "name": "TOYU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047744572638515200/913W4Ed1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 128,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "bakatoyu",
+        "verified": false
+      }
+    ]
+  }
+}

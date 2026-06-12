@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2063632387108737256",
+    "created_at": "2026-06-08T00:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063781851320496306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 25,
+          "id": "1572069646316052481",
+          "start": 14,
+          "username": "nyanfox123"
+        },
+        {
+          "end": 39,
+          "id": "1258361136841457664",
+          "start": 26,
+          "username": "ShiauPa46QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063781851320496306",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063780643809693835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 @nyanfox123 @ShiauPa46QwQ 色谱龙最香啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063632387108737256",
+        "created_at": "2026-06-08T00:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063781851320496306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 25,
+              "id": "1572069646316052481",
+              "start": 14,
+              "username": "nyanfox123"
+            },
+            {
+              "end": 39,
+              "id": "1258361136841457664",
+              "start": 26,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063781851320496306",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063780643809693835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @nyanfox123 @ShiauPa46QwQ 色谱龙最香啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2063632387108737256",
+        "created_at": "2026-06-08T00:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063780643809693835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1572069646316052481",
+              "start": 0,
+              "username": "nyanfox123"
+            },
+            {
+              "end": 25,
+              "id": "1258361136841457664",
+              "start": 12,
+              "username": "ShiauPa46QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063780643809693835",
+        "in_reply_to_user_id": "1572069646316052481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063647637329592417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanfox123 @ShiauPa46QwQ 几乎所有的wiki和资料都推荐色做首选抗雄的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 742,
+          "like_count": 733,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1773
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/e5gRezje76"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 771,
+          "like_count": 1136,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/e5gRezje76",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T03:46:38.000Z",
+        "description": "坐标北京｜03年8月MtF🏳️‍⚧️｜🍥HRT2023.10.15｜平时的爱好是收藏轻小说和漫画｜百合小甜文suki｜最近在补番｜正在学习cfa",
+        "id": "1572069646316052481",
+        "name": "雪之狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733696878905323520/S9E5hyM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 674,
+          "like_count": 16571,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 618
+        },
+        "username": "nyanfox123",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T11:41:21.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️|2007年生|二次元正太控|漢語○ English△ にほんご△|亞文化大手子|曾经是语言学爱好者和Conlanger|希望和大家交朋友！\n|前世:@ShiauPa0746|无涩里推@ShiauPa_elo\n|Bluesky: https://t.co/i23vE9weHf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "ShiauPa0746"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "ShiauPa_elo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiaup…",
+                "end": 147,
+                "expanded_url": "http://bsky.app/profile/shiaupa.t",
+                "start": 124,
+                "url": "https://t.co/i23vE9weHf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiaupa.top",
+                "end": 23,
+                "expanded_url": "http://shiaupa.top",
+                "start": 0,
+                "url": "https://t.co/ckdLtAYPqm"
+              }
+            ]
+          }
+        },
+        "id": "1258361136841457664",
+        "location": "Earth",
+        "name": "晓怕ShiauPa（互关寻回中😿）",
+        "pinned_tweet_id": "2061733153858109459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060354946793635841/Bz1Lrhw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 263,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/ckdLtAYPqm",
+        "username": "ShiauPa46QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

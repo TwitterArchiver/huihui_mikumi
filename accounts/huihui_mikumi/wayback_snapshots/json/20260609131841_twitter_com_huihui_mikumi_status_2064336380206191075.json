@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2064336380206191075",
+    "created_at": "2026-06-09T13:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064336380206191075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mofa_ee/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/mofa_ee/status/2064061281137824119",
+          "start": 32,
+          "url": "https://t.co/xF9L0J4EgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064336380206191075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064061281137824119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要死就自己偷偷死就行了，不要发网上，我已经见到太多人跟风去世了 https://t.co/xF9L0J4EgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064061278667292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUEzA2aQAASzY0.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2064336380206191075",
+        "created_at": "2026-06-09T13:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064336380206191075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofa_ee/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/mofa_ee/status/2064061281137824119",
+              "start": 32,
+              "url": "https://t.co/xF9L0J4EgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064336380206191075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064061281137824119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要死就自己偷偷死就行了，不要发网上，我已经见到太多人跟风去世了 https://t.co/xF9L0J4EgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064061278667292672"
+          ]
+        },
+        "author_id": "1822170840231776256",
+        "conversation_id": "2064061281137824119",
+        "created_at": "2026-06-08T19:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064061281137824119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jkwwm5lt4r",
+              "end": 66,
+              "expanded_url": "https://x.com/mofa_ee/status/2064061281137824119/photo/1",
+              "media_key": "3_2064061278667292672",
+              "start": 43,
+              "url": "https://t.co/Jkwwm5lt4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064061281137824119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4291,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爱你们，希望酒精能让鸽子死的时候轻松一点\n来世要是可爱的女孩子就好了……\n爱你们大家 https://t.co/Jkwwm5lt4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 774,
+          "like_count": 771,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1848
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:19:38.000Z",
+        "description": "无证含糖🍥 | hrt💊2026.5.10 | 誕生日🍰2006.9 | 168cm 53kg | infp | 是只鸽子~ | 不划手手 不od | 好孤独，想要得到关注 | 爱好是画画，术曲，有时会唱点歌 | 没有存在感的透明小鸽子一只",
+        "id": "1822170840231776256",
+        "name": "已成汤的魔法鸽🍥",
+        "pinned_tweet_id": "2063267571584102611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064207287808557056/uV314pUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 113,
+          "like_count": 514,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 105
+        },
+        "username": "mofa_ee",
+        "verified": false
+      }
+    ]
+  }
+}

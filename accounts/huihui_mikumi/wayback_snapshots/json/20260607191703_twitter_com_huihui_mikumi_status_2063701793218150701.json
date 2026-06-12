@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2063701793218150701",
+    "created_at": "2026-06-07T19:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063701793218150701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Navira1449585/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Navira1449585/status/2063544801736401079",
+          "start": 37,
+          "url": "https://t.co/EvDEApoj96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063701793218150701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063544801736401079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对药物滥用还是挺宽容的，最讨厌的是那些天天发个亚硝酸钠然后又不死的那种 https://t.co/EvDEApoj96"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063701793218150701",
+        "created_at": "2026-06-07T19:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063701793218150701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Navira1449585/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Navira1449585/status/2063544801736401079",
+              "start": 37,
+              "url": "https://t.co/EvDEApoj96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063701793218150701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063544801736401079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对药物滥用还是挺宽容的，最讨厌的是那些天天发个亚硝酸钠然后又不死的那种 https://t.co/EvDEApoj96"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995929856723615744",
+        "conversation_id": "2063544801736401079",
+        "created_at": "2026-06-07T08:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063544801736401079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063544801736401079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4267,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用就是吸毒，尤其青少年，扔掉你手中的药，从此走上健全路，不要让你的爹妈在天台上眼含泪水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 741,
+          "like_count": 732,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1770
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T18:55:44.000Z",
+        "description": "这里毛线｜不登校｜互fo｜扩列ok\n匿名提问箱https://t.co/xS5wT1S99f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/navira26904",
+                "end": 46,
+                "expanded_url": "https://ngl.link/navira26904",
+                "start": 23,
+                "url": "https://t.co/xS5wT1S99f"
+              }
+            ]
+          }
+        },
+        "id": "1995929856723615744",
+        "name": "🧶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008468373693136896/6f5DcANP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 105,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 179
+        },
+        "username": "Navira1449585",
+        "verified": false
+      }
+    ]
+  }
+}

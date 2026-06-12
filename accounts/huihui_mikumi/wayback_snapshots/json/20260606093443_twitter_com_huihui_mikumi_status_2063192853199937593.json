@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2063096320882249994",
+    "created_at": "2026-06-06T09:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063192853199937593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "124251683",
+          "start": 0,
+          "username": "Fiinfiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063192853199937593",
+    "in_reply_to_user_id": "124251683",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063096320882249994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiinfiia 互fo喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2063094772320096256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGVw8Ia0AAMh8c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063096320882249994",
+        "created_at": "2026-06-06T09:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063192853199937593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "124251683",
+              "start": 0,
+              "username": "Fiinfiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063192853199937593",
+        "in_reply_to_user_id": "124251683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063096320882249994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiinfiia 互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063094772320096256"
+          ]
+        },
+        "author_id": "124251683",
+        "conversation_id": "2063096320882249994",
+        "created_at": "2026-06-06T03:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063096320882249994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "男の娘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "药娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "伪娘"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "mtf"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "mtf"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "白丝"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "mtx"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "xyn"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "雌堕"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpvpy8UK2U",
+              "end": 96,
+              "expanded_url": "https://x.com/Fiinfiia/status/2063096320882249994/photo/1",
+              "media_key": "3_2063094772320096256",
+              "start": 73,
+              "url": "https://t.co/lpvpy8UK2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063096320882249994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 312,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新到的小裙子 可可爱爱 有宝宝能互fo一下吗\n\n#男の娘 #药娘 #伪娘 #男娘 #mtf #mtf #白丝 #mtx #xyn #雌堕 #女装 https://t.co/lpvpy8UK2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 716,
+          "like_count": 686,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1654
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T19:39:11.000Z",
+        "description": "护士/出产01/广东/mtf小药娘/纯绿分享\n榜一大哥：HRT🍬商 @XxTypeOxX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "XxTypeOxX"
+              }
+            ]
+          }
+        },
+        "id": "124251683",
+        "name": "zicolillo cynthia🍥小药娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042485255706382336/vjM9iGOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 28
+        },
+        "username": "Fiinfiia",
+        "verified": false
+      }
+    ]
+  }
+}

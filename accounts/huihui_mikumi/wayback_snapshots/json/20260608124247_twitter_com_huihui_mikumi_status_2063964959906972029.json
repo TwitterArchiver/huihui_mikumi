@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2063962670286745971",
+    "created_at": "2026-06-08T12:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063964959906972029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942136939735560192",
+          "start": 2,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063964959906972029",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063962670286745971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来自@picxis63594"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063962670286745971",
+        "created_at": "2026-06-08T12:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063964959906972029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942136939735560192",
+              "start": 2,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063964959906972029",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962670286745971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来自@picxis63594"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2063962670286745971",
+        "created_at": "2026-06-08T12:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962670286745971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063962670286745971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道如果跨圈这帮人都长大了跨圈会怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 765,
+          "like_count": 760,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1831
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/ADHDer/炒鸡大社恐\n互fo喵  贴贴喵/\n断糖了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/subdronexyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/subdronexyn",
+                "start": 0,
+                "url": "https://t.co/WeT6TnNIgW"
+              }
+            ]
+          }
+        },
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "SubDrone无人机潜水",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 319,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/WeT6TnNIgW",
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

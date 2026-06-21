@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2067202827366130062",
+    "created_at": "2026-06-17T11:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067207689168642535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866104982858072064",
+          "start": 0,
+          "username": "lolina_nana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067207689168642535",
+    "in_reply_to_user_id": "1866104982858072064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067202827366130062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lolina_nana 🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067202798719029248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAt_jBXUAA8M1h.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2067202827366130062",
+        "created_at": "2026-06-17T11:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067207689168642535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866104982858072064",
+              "start": 0,
+              "username": "lolina_nana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067207689168642535",
+        "in_reply_to_user_id": "1866104982858072064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067202827366130062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lolina_nana 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067202798719029248"
+          ]
+        },
+        "author_id": "1866104982858072064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067202827366130062",
+        "created_at": "2026-06-17T11:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067202827366130062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaFQDM5T10",
+              "end": 58,
+              "expanded_url": "https://x.com/lolina_nana/status/2067202827366130062/photo/1",
+              "media_key": "3_2067202798719029248",
+              "start": 35,
+              "url": "https://t.co/QaFQDM5T10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067202827366130062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30🚪是什么很贵的东西吗🤔\n还是说我该调高点了\n算了，30交个朋友😘 https://t.co/QaFQDM5T10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 841,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2061
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T12:58:02.000Z",
+        "description": "03 木桶饭丨女心丨🍥hrt2026.4.4🍥丨169cm/103斤丨人在广州丨不会伪音私密马赛丨接线下丨🚪30丨口令红包过好友Q377675306丨\n宝宝互fo吗宝宝互推吗😘\n防迷路小号@lolina_nana2\n群https://t.co/T9V1cIzw5s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "lolina_nana2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/nanadantiaojin…",
+                "end": 132,
+                "expanded_url": "https://t.me/nanadantiaojingjichang",
+                "start": 109,
+                "url": "https://t.co/T9V1cIzw5s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lolina_nana2",
+                "end": 23,
+                "expanded_url": "http://t.me/lolina_nana2",
+                "start": 0,
+                "url": "https://t.co/Bovo7U7K2H"
+              }
+            ]
+          }
+        },
+        "id": "1866104982858072064",
+        "location": "广州",
+        "name": "nana",
+        "pinned_tweet_id": "2060984568815988927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059544705285914624/HnPaSjpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 47,
+          "like_count": 32,
+          "listed_count": 8,
+          "media_count": 28,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/Bovo7U7K2H",
+        "username": "lolina_nana",
+        "verified": false
+      }
+    ]
+  }
+}

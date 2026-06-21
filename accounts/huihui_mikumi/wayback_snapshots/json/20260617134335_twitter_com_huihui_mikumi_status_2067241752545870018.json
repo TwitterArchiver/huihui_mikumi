@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2067239248957476977",
+    "created_at": "2026-06-17T13:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067241752545870018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045025548401823744",
+          "start": 0,
+          "username": "ShiXiaomeiMoYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067241752545870018",
+    "in_reply_to_user_id": "2045025548401823744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067239248957476977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiXiaomeiMoYa 我来给你吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2067239248957476977",
+        "created_at": "2026-06-17T13:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067241752545870018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045025548401823744",
+              "start": 0,
+              "username": "ShiXiaomeiMoYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067241752545870018",
+        "in_reply_to_user_id": "2045025548401823744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067239248957476977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiXiaomeiMoYa 我来给你吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2067239248957476977",
+        "created_at": "2026-06-17T13:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067239248957476977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liver_MST/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Liver_MST/status/2067180087099666472",
+              "start": 10,
+              "url": "https://t.co/hHz3gBj6SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067239248957476977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067180087099666472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮……我也要😍 https://t.co/hHz3gBj6SC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 843,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2079
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat\n愛～～～你～～～們～～～//🩷🩷🩷//\n是女生是女生是女生！！！\n（生日）\n30/11/2010\nand\n1/6/2026",
+        "id": "2045025548401823744",
+        "name": "camellia",
+        "pinned_tweet_id": "2066857329325375598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 65,
+          "like_count": 448,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 814
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

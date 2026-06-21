@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2064759108251844711",
+    "created_at": "2026-06-10T18:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064782656257351709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013218070689447936",
+          "start": 0,
+          "username": "rita_burns52614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064782656257351709",
+    "in_reply_to_user_id": "2013218070689447936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064759108251844711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rita_burns52614 来我这试试？用激光应该能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2064759094159040512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd_dOIbYAAH6VQ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2064759108251844711",
+        "created_at": "2026-06-10T18:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064782656257351709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013218070689447936",
+              "start": 0,
+              "username": "rita_burns52614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064782656257351709",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064759108251844711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rita_burns52614 来我这试试？用激光应该能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064759094159040512"
+          ]
+        },
+        "author_id": "2013218070689447936",
+        "conversation_id": "2064759108251844711",
+        "created_at": "2026-06-10T17:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064759108251844711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdIBb9SUxB",
+              "end": 31,
+              "expanded_url": "https://x.com/rita_burns52614/status/2064759108251844711/photo/1",
+              "media_key": "3_2064759094159040512",
+              "start": 8,
+              "url": "https://t.co/CdIBb9SUxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064759108251844711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种疤能去掉吗 https://t.co/CdIBb9SUxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 784,
+          "like_count": 788,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1898
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123，互fo快来骚扰我\n07男大学生傻卵二次，新手交易员，碎碎念区煮波，可以找我打游戏apex|英雄联盟|邦邦人|明日方舟……\n喜欢我请给我打钱\n自用梯子yy：https://t.co/HTQeTyPE7T\n欢迎提问！https://t.co/bgDcJAfMGm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register",
+                "end": 113,
+                "expanded_url": "https://www.yy.tz69.vip/#/register",
+                "start": 90,
+                "url": "https://t.co/HTQeTyPE7T"
+              },
+              {
+                "display_url": "miyu.link/LST",
+                "end": 142,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 119,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "location": "520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2064730448635613512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 329,
+          "like_count": 3400,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1498
+        },
+        "username": "rita_burns52614",
+        "verified": true
+      }
+    ]
+  }
+}

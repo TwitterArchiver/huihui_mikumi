@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2067191674120688006",
+    "created_at": "2026-06-17T12:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067217018231877664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1160620734311489536",
+          "start": 0,
+          "username": "nogirl_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067217018231877664",
+    "in_reply_to_user_id": "1160620734311489536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067211181400674779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nogirl_cn 当然是7天10毫克，干就完了，能有啥风险？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2067191674120688006",
+        "created_at": "2026-06-17T12:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067217018231877664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1160620734311489536",
+              "start": 0,
+              "username": "nogirl_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217018231877664",
+        "in_reply_to_user_id": "1160620734311489536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067211181400674779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nogirl_cn 当然是7天10毫克，干就完了，能有啥风险？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160620734311489536",
+        "conversation_id": "2067191674120688006",
+        "created_at": "2026-06-17T11:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067211181400674779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067211181400674779",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067191674120688006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 问一下你是打算7天10mg还5天5mg，后者安全一点但是好浪费(´o̴̶̷̤ㅂo̴̶̷̤`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 841,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2066
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T18:35:21.000Z",
+        "description": "佛山 176 112斤伪娘，isfj，动漫电视剧电影综艺啥都看点，欢迎安利，米游原崩铁zzz都玩喔，可1可0(大多数0),可男可女装，但一般喜欢女装，日常服也穿女。雌堕中，外貌行为举止都想要变得女生一点（不过中途吃药停了）想找一个有共同爱好的伪娘或者mtf一起生活！\ntg: https://t.co/2iTQCN3Xez",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/monana14",
+                "end": 161,
+                "expanded_url": "http://t.me/monana14",
+                "start": 138,
+                "url": "https://t.co/2iTQCN3Xez"
+              }
+            ]
+          }
+        },
+        "id": "1160620734311489536",
+        "location": "中华人民共和国",
+        "name": "☆",
+        "pinned_tweet_id": "2061243726752821612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052019204686323713/TEGdNn2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 44,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "username": "nogirl_cn",
+        "verified": false
+      }
+    ]
+  }
+}

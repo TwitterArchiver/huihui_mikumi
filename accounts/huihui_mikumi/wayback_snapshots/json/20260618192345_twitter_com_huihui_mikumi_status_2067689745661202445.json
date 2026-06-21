@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2067436068514001082",
+    "created_at": "2026-06-18T19:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067689745661202445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044079437130444800",
+          "start": 0,
+          "username": "Lixiaoya_mskk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067689745661202445",
+    "in_reply_to_user_id": "2044079437130444800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067685853280059678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lixiaoya_mskk 没事啦，一扎就进去啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2067436068514001082",
+        "created_at": "2026-06-18T19:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067689745661202445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044079437130444800",
+              "start": 0,
+              "username": "Lixiaoya_mskk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067689745661202445",
+        "in_reply_to_user_id": "2044079437130444800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067685853280059678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lixiaoya_mskk 没事啦，一扎就进去啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044079437130444800",
+        "conversation_id": "2067436068514001082",
+        "created_at": "2026-06-18T19:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067685853280059678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067685853280059678",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067436068514001082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 妈呀，姐姐你这个针头太粗了吧，你看看那种胰岛素注射器比较好哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 860,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2110
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:45:46.000Z",
+        "description": "年龄党/未出柜/无证含糖/地下党/心里女生理男/11.12.03/PADI AOW潜水员/声明：本人心系中国共产党，坚定不移的维护祖国统一，台湾为中国不可分割的一部分，任何企图分裂台湾的行为都是不可取的，包括祖国任何领土",
+        "id": "2044079437130444800",
+        "name": "Aaa山里灵活🏳️‍⚧️🍥(缺糖🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065411345730932736/ve5nAC8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 98,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Lixiaoya_mskk",
+        "verified": false
+      }
+    ]
+  }
+}

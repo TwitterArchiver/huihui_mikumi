@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2065460490671956153",
+    "created_at": "2026-06-13T06:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065679058164400154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi520OwO"
+        },
+        {
+          "end": 28,
+          "id": "2064870849493237760",
+          "start": 12,
+          "username": "HsiaoChiLaowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065679058164400154",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065677351804125493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520OwO @HsiaoChiLaowang 欺负你欺负你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2065460490671956153",
+        "created_at": "2026-06-13T06:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065679058164400154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 28,
+              "id": "2064870849493237760",
+              "start": 12,
+              "username": "HsiaoChiLaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065679058164400154",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065677351804125493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @HsiaoChiLaowang 欺负你欺负你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "2065460490671956153",
+        "created_at": "2026-06-13T06:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065677351804125493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 31,
+              "id": "2064870849493237760",
+              "start": 15,
+              "username": "HsiaoChiLaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065677351804125493",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065460490671956153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi @HsiaoChiLaowang 欺负我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 796,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 1956
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8661,
+          "following_count": 1128,
+          "like_count": 16127,
+          "listed_count": 17,
+          "media_count": 334,
+          "tweet_count": 2365
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T00:55:21.000Z",
+        "description": "喵嗚？關注老王喵關注老王謝謝喵⋯嗚⋯老王的日常？hrt1k+days的老必登mtf，一切捲土重來吧qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/qGzMwCRMdQ"
+              }
+            ]
+          }
+        },
+        "id": "2064870849493237760",
+        "location": "Taiwan",
+        "name": "⁺✞ʚ老王重度依賴ɞ✟₊🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065005195013329252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065001390418935809/f1NmzUZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 64,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/qGzMwCRMdQ",
+        "username": "HsiaoChiLaowang",
+        "verified": false
+      }
+    ]
+  }
+}

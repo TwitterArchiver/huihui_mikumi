@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2067060111043162323",
+    "created_at": "2026-06-17T12:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067228852338999558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795004614749929472",
+          "start": 0,
+          "username": "hnxio876165727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067228852338999558",
+    "in_reply_to_user_id": "1795004614749929472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067060111043162323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnxio876165727 双马尾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2067060102176337921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-sNg-acAEQGM0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2067060111043162323",
+        "created_at": "2026-06-17T12:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067228852338999558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795004614749929472",
+              "start": 0,
+              "username": "hnxio876165727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067228852338999558",
+        "in_reply_to_user_id": "1795004614749929472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067060111043162323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnxio876165727 双马尾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067060102176337921"
+          ]
+        },
+        "author_id": "1795004614749929472",
+        "conversation_id": "2067060111043162323",
+        "created_at": "2026-06-17T01:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067060111043162323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8x46blGKz",
+              "end": 35,
+              "expanded_url": "https://x.com/hnxio876165727/status/2067060111043162323/photo/1",
+              "media_key": "3_2067060102176337921",
+              "start": 12,
+              "url": "https://t.co/U8x46blGKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067060111043162323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3153,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三个字证明你是哪个省的 https://t.co/U8x46blGKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 841,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2075
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T08:11:03.000Z",
+        "description": "互fo 互赞 定期清理 \n分享日常 美景🌴美食🧀萌宠🐼",
+        "id": "1795004614749929472",
+        "location": "中国 ",
+        "name": "青青草原懒大王",
+        "pinned_tweet_id": "2067060111043162323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059163429152456704/9s9utRjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4297,
+          "following_count": 3269,
+          "like_count": 13931,
+          "listed_count": 1,
+          "media_count": 2627,
+          "tweet_count": 4646
+        },
+        "username": "hnxio876165727",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2065744859584147935",
+    "created_at": "2026-06-13T13:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065782142509125699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993628897645408256",
+          "start": 0,
+          "username": "Pr0mis3_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065782142509125699",
+    "in_reply_to_user_id": "1993628897645408256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065744859584147935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pr0mis3_c 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_2065744857625444352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsAANNawAAMLF2.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2065744859584147935",
+        "created_at": "2026-06-13T13:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065782142509125699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993628897645408256",
+              "start": 0,
+              "username": "Pr0mis3_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065782142509125699",
+        "in_reply_to_user_id": "1993628897645408256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065744859584147935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pr0mis3_c 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065744857625444352"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "conversation_id": "2065744859584147935",
+        "created_at": "2026-06-13T10:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065744859584147935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpoIITsWfS",
+              "end": 35,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2065744859584147935/photo/1",
+              "media_key": "3_2065744857625444352",
+              "start": 12,
+              "url": "https://t.co/wpoIITsWfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065744859584147935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶欸，600fo啦!😶 https://t.co/wpoIITsWfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 801,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1971
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜 | 无不良嗜好 | 焦虑抑郁中... | 梦想srs | 同类互fo | 渴望交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 125,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 102,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "czxh.top",
+                "end": 23,
+                "expanded_url": "https://czxh.top",
+                "start": 0,
+                "url": "https://t.co/mt7U160VHA"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "诗雨.𝘗𝘳𝘰𝘮𝘪𝘴𝘦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 506,
+          "like_count": 2239,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/mt7U160VHA",
+        "username": "Pr0mis3_c",
+        "verified": false
+      }
+    ]
+  }
+}

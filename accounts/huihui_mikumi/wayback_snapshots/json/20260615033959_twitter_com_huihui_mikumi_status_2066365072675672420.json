@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2065019265544233270",
+    "created_at": "2026-06-15T03:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066365072675672420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2024296665855950848",
+          "start": 0,
+          "username": "Naith260770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066365072675672420",
+    "in_reply_to_user_id": "2024296665855950848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066343728357556698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naith260770 乖啦乖啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2065019265544233270",
+        "created_at": "2026-06-15T03:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066365072675672420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2024296665855950848",
+              "start": 0,
+              "username": "Naith260770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066365072675672420",
+        "in_reply_to_user_id": "2024296665855950848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066343728357556698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naith260770 乖啦乖啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024296665855950848",
+        "conversation_id": "2065019265544233270",
+        "created_at": "2026-06-15T02:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066343728357556698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066343728357556698",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065019265544233270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 摸摸惠惠，我不会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 821,
+          "like_count": 830,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2022
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T01:35:22.000Z",
+        "description": "可以叫我小n  or  小夕，X当空间用的，\n\n画画，喜欢打派，喜欢吃甜食。//\n\n不od不自残不抽烟喝酒应该没精神疾病（高考完解锁完全体 //\n\n想要互fo//\n\n脾气很好欢迎找我聊天~//\n\nip深圳 08高三住宿牲一周活一次",
+        "id": "2024296665855950848",
+        "name": "Naiiisakii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050419719606509568/QmnCC5Ky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 49,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "username": "Naith260770",
+        "verified": false
+      }
+    ]
+  }
+}

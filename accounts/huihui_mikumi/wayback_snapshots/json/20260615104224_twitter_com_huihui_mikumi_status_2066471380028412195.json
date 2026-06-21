@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066471373015572480"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2066471380028412195",
+    "created_at": "2026-06-15T10:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066471380028412195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1988187586339467264",
+          "start": 22,
+          "username": "Air_Yukiha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KiOZOjmzPp",
+          "end": 57,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2066471380028412195/photo/1",
+          "media_key": "3_2066471373015572480",
+          "start": 34,
+          "url": "https://t.co/KiOZOjmzPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066471380028412195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "惠惠最喜欢小翼主人啦～\n好想嫁给主人大人～ @Air_Yukiha https://t.co/KiOZOjmzPp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2066471373015572480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2Uw98bYAAhIF9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066471373015572480"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2066471380028412195",
+        "created_at": "2026-06-15T10:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066471380028412195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1988187586339467264",
+              "start": 22,
+              "username": "Air_Yukiha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KiOZOjmzPp",
+              "end": 57,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2066471380028412195/photo/1",
+              "media_key": "3_2066471373015572480",
+              "start": 34,
+              "url": "https://t.co/KiOZOjmzPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066471380028412195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惠惠最喜欢小翼主人啦～\n好想嫁给主人大人～ @Air_Yukiha https://t.co/KiOZOjmzPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 824,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2033
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n唯一教主@Numiouoo\n小惠老婆@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2062030452031119866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 383,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 686
+        },
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

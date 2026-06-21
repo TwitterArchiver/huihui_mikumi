@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2065281413382025615",
+    "created_at": "2026-06-12T08:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065354100645232836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438184749739114498",
+          "start": 0,
+          "username": "Yue_hua_08042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065354100645232836",
+    "in_reply_to_user_id": "1438184749739114498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065350233631117478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_hua_08042 广州哪里哒？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2065281413382025615",
+        "created_at": "2026-06-12T08:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065354100645232836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438184749739114498",
+              "start": 0,
+              "username": "Yue_hua_08042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065354100645232836",
+        "in_reply_to_user_id": "1438184749739114498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065350233631117478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_hua_08042 广州哪里哒？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438184749739114498",
+        "conversation_id": "2065281413382025615",
+        "created_at": "2026-06-12T08:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065350233631117478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065350233631117478",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065281413382025615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 广州刷新）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 792,
+          "like_count": 797,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1919
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T16:55:47.000Z",
+        "description": "坐标广州，超级i人 喜欢我的话和我聊天就能涨亲密度。也可以找我出来玩。爱好是音游，日麻，喜欢听术力口。企鹅群：748844829🥰🥰✈️群：https://t.co/gLbDKXzlSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+xoUpKWQgNrQ3Z…",
+                "end": 93,
+                "expanded_url": "https://t.me/+xoUpKWQgNrQ3ZTc1",
+                "start": 70,
+                "url": "https://t.co/gLbDKXzlSi"
+              }
+            ]
+          }
+        },
+        "id": "1438184749739114498",
+        "location": "广州",
+        "name": "月花子🍥",
+        "pinned_tweet_id": "2039237321560936807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038893814124044288/a3x2dXRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 77,
+          "like_count": 129,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 149
+        },
+        "username": "Yue_hua_08042",
+        "verified": true
+      }
+    ]
+  }
+}

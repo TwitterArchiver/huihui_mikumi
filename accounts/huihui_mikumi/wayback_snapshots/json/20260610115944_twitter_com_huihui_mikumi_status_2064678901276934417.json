@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2064675247924916431",
+    "created_at": "2026-06-10T11:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064678901276934417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        },
+        {
+          "end": 24,
+          "id": "2019787701432532992",
+          "start": 13,
+          "username": "cx330_xyn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064678901276934417",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064675247924916431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn @cx330_xyn2 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2064674820714029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcyz3FaYAAWiEy.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2064675247924916431",
+        "created_at": "2026-06-10T11:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064678901276934417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            },
+            {
+              "end": 24,
+              "id": "2019787701432532992",
+              "start": 13,
+              "username": "cx330_xyn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064678901276934417",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064675247924916431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn @cx330_xyn2 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064674820714029056"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064675247924916431",
+        "created_at": "2026-06-10T11:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064675247924916431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2019787701432532992",
+              "start": 7,
+              "username": "cx330_xyn2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNcklGcVh3",
+              "end": 55,
+              "expanded_url": "https://x.com/qiancongxyn/status/2064675247924916431/photo/1",
+              "media_key": "3_2064674820714029056",
+              "start": 32,
+              "url": "https://t.co/kNcklGcVh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064675247924916431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也能来吗😋\n@cx330_xyn2 \n捌酱前任这样了...吗 https://t.co/kNcklGcVh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 781,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1888
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064594540137468316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 1016,
+          "like_count": 2349,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T14:58:22.000Z",
+        "description": "mtf | 跨性别女同 | 闲聊推 | 生产日期2012.8.10 | 166cm70kg东北小药娘 | 现居北京 | 重度抑郁 | 双向情感障碍 | 无证含糖 | hrt开始时间2025.6.25 | 炸柜转家暴党 | 同类互fo",
+        "id": "2019787701432532992",
+        "location": "北京",
+        "name": "cx330🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2038348080182186181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032028385405530113/r9jQ0gP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 171,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 91
+        },
+        "username": "cx330_xyn2",
+        "verified": false
+      }
+    ]
+  }
+}

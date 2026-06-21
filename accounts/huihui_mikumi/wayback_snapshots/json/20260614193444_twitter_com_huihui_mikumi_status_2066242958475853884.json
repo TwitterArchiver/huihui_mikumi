@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2066210923728027997",
+    "created_at": "2026-06-14T19:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066242958475853884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976239993464242176",
+          "start": 0,
+          "username": "Star_Furry_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066242958475853884",
+    "in_reply_to_user_id": "1976239993464242176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066210923728027997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Star_Furry_mtf 补药啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8023,
+        "height": 1280,
+        "media_key": "7_2066210868434501632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066210868434501632/pu/img/BVfNq-Tval9__hKD.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066210868434501632/pu/vid/avc1/320x568/yib63-NdDYDAAMq3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066210868434501632/pu/vid/avc1/480x852/FzOTVABk9p75iqf1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066210868434501632/pu/vid/avc1/720x1280/kTZq7B9lLxFIt639.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066210868434501632/pu/pl/oNRMVEVfZVFC4YUg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2066210923728027997",
+        "created_at": "2026-06-14T19:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066242958475853884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976239993464242176",
+              "start": 0,
+              "username": "Star_Furry_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066242958475853884",
+        "in_reply_to_user_id": "1976239993464242176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066210923728027997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Star_Furry_mtf 补药啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066210868434501632"
+          ]
+        },
+        "author_id": "1976239993464242176",
+        "conversation_id": "2066210923728027997",
+        "created_at": "2026-06-14T17:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066210923728027997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2NYuNXMum",
+              "end": 42,
+              "expanded_url": "https://x.com/Star_Furry_mtf/status/2066210923728027997/video/1",
+              "media_key": "7_2066210868434501632",
+              "start": 19,
+              "url": "https://t.co/Q2NYuNXMum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066210923728027997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没有zc了，有点疼，血流的有点多 https://t.co/Q2NYuNXMum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 818,
+          "like_count": 827,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2013
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T10:55:34.000Z",
+        "description": "一个在🇨🇳的小透明福瑞爱好者|偶尔上推\n拥有很多爱我的亲友\n|中文🔴|English⭕|日本語❌|同类可扩\nQ：3423215607\nV：wrgx10753\n|email:awawrgx@outlook.com|\n正在计划hrt|选择性互fo|泛性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Furry_Stars",
+                "end": 23,
+                "expanded_url": "https://t.me/Furry_Stars",
+                "start": 0,
+                "url": "https://t.co/pkA9bMAClM"
+              }
+            ]
+          }
+        },
+        "id": "1976239993464242176",
+        "location": "湖北省 武汉市 距你0.91km",
+        "name": "星曦🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 107,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/pkA9bMAClM",
+        "username": "Star_Furry_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

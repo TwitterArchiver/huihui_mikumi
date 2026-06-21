@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2066112646257246527",
+    "created_at": "2026-06-14T18:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066228808706044192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022582598455955456",
+          "start": 0,
+          "username": "Clisncalmhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066228808706044192",
+    "in_reply_to_user_id": "2022582598455955456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066168299487191200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clisncalmhen 已经晚啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2066112646257246527",
+        "created_at": "2026-06-14T18:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066228808706044192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022582598455955456",
+              "start": 0,
+              "username": "Clisncalmhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066228808706044192",
+        "in_reply_to_user_id": "2022582598455955456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066168299487191200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clisncalmhen 已经晚啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022582598455955456",
+        "conversation_id": "2066112646257246527",
+        "created_at": "2026-06-14T14:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066168299487191200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066168299487191200",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066112646257246527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 不对…补药哇！（吓哭了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 810,
+          "like_count": 826,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2003
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T08:04:20.000Z",
+        "description": "16岁无证mtf/欢迎私信骚扰喵（社恐可能不回？                              \n                补佳乐、螺内酯、爱斯妥 & 雌二醇凝胶 代购",
+        "id": "2022582598455955456",
+        "name": "綝冉🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022582670551609344/N8wNgNfM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 57,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 110
+        },
+        "username": "Clisncalmhen",
+        "verified": false
+      }
+    ]
+  }
+}

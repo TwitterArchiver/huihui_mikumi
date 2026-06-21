@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2067200022652072182",
+    "created_at": "2026-06-17T11:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067207243695849869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945566578327916544",
+          "start": 0,
+          "username": "2477Sion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067207243695849869",
+    "in_reply_to_user_id": "1945566578327916544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067206502725874050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2477Sion 411是哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2067200022652072182",
+        "created_at": "2026-06-17T11:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067207243695849869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945566578327916544",
+              "start": 0,
+              "username": "2477Sion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067207243695849869",
+        "in_reply_to_user_id": "1945566578327916544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067206502725874050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2477Sion 411是哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945566578327916544",
+        "conversation_id": "2067200022652072182",
+        "created_at": "2026-06-17T11:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067206502725874050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067206502725874050",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067200022652072182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 去411一抓一大把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 841,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2060
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T19:30:22.000Z",
+        "description": "MTF/INTJ 5w4/165cm 50±kg/HRT/RLE/弱社交/键政负能勿扰/墙外会发涩涩相关但现实中比较正常所以不要觉得我很奇怪/推特有时候不会有消息推送，如果是提问超过一天没回答可以私信我",
+        "id": "1945566578327916544",
+        "name": "Sion_诗🍥",
+        "pinned_tweet_id": "2065556793384902742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 11,
+          "like_count": 49,
+          "listed_count": 9,
+          "media_count": 45,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "2477Sion",
+        "verified": true
+      }
+    ]
+  }
+}

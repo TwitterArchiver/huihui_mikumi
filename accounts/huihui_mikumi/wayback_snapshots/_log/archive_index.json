@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-06-21T07:16:57",
+  "last_updated": "2026-06-21T07:48:30",
   "html": {
     "https://web.archive.org/web/20251229191630if_/https://twitter.com/huihui_mikumi/status/2005719592803655874": {
       "status": "done",
@@ -13395,9 +13395,9 @@
       "referenced_by": [
         "20260301060802_twitter_com_huihui_mikumi_status_2027989220271525956.json"
       ],
-      "last_updated": "2026-06-14T06:54:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301060802if_/https://pbs.twimg.com/profile_images/2010905746498781184/F4S-Qias_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe386a43740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:38:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301060802if_/https://pbs.twimg.com/profile_images/2010905746498781184/F4S-Qias_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8428d46180>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2014937103491371008/Trjwfulx_normal.jpg": {
       "status": "done",
@@ -13419,9 +13419,9 @@
       "referenced_by": [
         "20260309223242_twitter_com_huihui_mikumi_status_2031136118557598165.json"
       ],
-      "last_updated": "2026-06-14T06:54:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309223242im_/https://pbs.twimg.com/profile_images/2028508417606971393/fEzW4Cn__normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3a450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:38:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309223242if_/https://pbs.twimg.com/profile_images/2028508417606971393/fEzW4Cn__normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d454c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg": {
       "status": "done",
@@ -13474,18 +13474,18 @@
         "20260405030800_twitter_com_huihui_mikumi_status_2040627487663935731.json",
         "20260405034943_twitter_com_huihui_mikumi_status_2040637986484977769.json"
       ],
-      "last_updated": "2026-06-14T06:54:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405034943im_/https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a388c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405034943if_/https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8428d5ae70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2029596633852452864/E9sljvZW_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260309225430_twitter_com_huihui_mikumi_status_2031141605625794676.json"
       ],
-      "last_updated": "2026-06-14T06:54:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309225430im_/https://pbs.twimg.com/profile_images/2029596633852452864/E9sljvZW_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3b7d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309225430im_/https://pbs.twimg.com/profile_images/2029596633852452864/E9sljvZW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2008598695139569664/HhIwt0v9_normal.jpg": {
       "status": "done",
@@ -13624,9 +13624,9 @@
         "20260314093200_twitter_com_huihui_mikumi_status_2032751592173457637.json",
         "20260314094144_twitter_com_huihui_mikumi_status_2032754039591678334.json"
       ],
-      "last_updated": "2026-06-14T06:54:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314094144im_/https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a41730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314094144if_/https://pbs.twimg.com/profile_images/2031819030181650432/_OhFSDa-_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d58470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2031660388593672192/cVUUB4V2_normal.jpg": {
       "status": "done",
@@ -13948,9 +13948,9 @@
       "referenced_by": [
         "20260321070546_twitter_com_huihui_mikumi_status_2035251502600839430.json"
       ],
-      "last_updated": "2026-06-14T06:54:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321070546im_/https://pbs.twimg.com/profile_images/2032395675628085248/2p2-IfsR_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a38bf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321070546if_/https://pbs.twimg.com/profile_images/2032395675628085248/2p2-IfsR_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d80b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1942495533031120896/fAB2B2Nu_normal.jpg": {
       "status": "done",
@@ -14108,9 +14108,9 @@
         "20260326094106_twitter_com_huihui_mikumi_status_2037102534884811020.json",
         "20260327141348_twitter_com_huihui_mikumi_status_2037533547968557150.json"
       ],
-      "last_updated": "2026-06-14T06:54:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327141348im_/https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab2f60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327141348if_/https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d80b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2022861911461949440/MLZqqrVf_normal.jpg": {
       "status": "done",
@@ -14124,9 +14124,9 @@
       "referenced_by": [
         "20260327184521_twitter_com_huihui_mikumi_status_2037601888921907605.json"
       ],
-      "last_updated": "2026-06-14T06:54:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327184521im_/https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab2e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260327184521if_/https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d469c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1156562018268114946/iCDa7223_normal.jpg": {
       "status": "done",
@@ -14174,18 +14174,18 @@
       "referenced_by": [
         "20260330092451_twitter_com_huihui_mikumi_status_2038547996397494407.json"
       ],
-      "last_updated": "2026-06-14T06:54:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330092451im_/https://pbs.twimg.com/profile_images/2030832911432507392/Em01SCPy_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a418e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330092451if_/https://pbs.twimg.com/profile_images/2030832911432507392/Em01SCPy_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d580b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260330094807_twitter_com_huihui_mikumi_status_2038553853537476732.json"
       ],
-      "last_updated": "2026-06-14T06:55:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330094807im_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a38230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330094807if_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5ad20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1849804363889532928/I_w9zlKS_normal.jpg": {
       "status": "done",
@@ -14213,9 +14213,9 @@
       "referenced_by": [
         "20260330103110_twitter_com_huihui_mikumi_status_2038564684476133567.json"
       ],
-      "last_updated": "2026-06-14T06:55:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330103110im_/https://pbs.twimg.com/profile_images/2034576519729692672/SyZ2pJTG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab1f40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330103110if_/https://pbs.twimg.com/profile_images/2034576519729692672/SyZ2pJTG_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dac200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1963281531566485504/734ipkBW_normal.jpg": {
       "status": "done",
@@ -16222,9 +16222,9 @@
       "referenced_by": [
         "20260331091512_twitter_com_huihui_mikumi_status_2038907957635940855.json"
       ],
-      "last_updated": "2026-06-14T06:55:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331091512im_/https://pbs.twimg.com/profile_images/2030654810798936064/G3duiA3s_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ade3f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:39:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260331091512im_/https://pbs.twimg.com/profile_images/2030654810798936064/G3duiA3s_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5b8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg": {
       "status": "done",
@@ -16304,18 +16304,18 @@
         "20260401065132_twitter_com_huihui_mikumi_status_2039234188877128080.json",
         "20260402070541_twitter_com_huihui_mikumi_status_2039600137136451791.json"
       ],
-      "last_updated": "2026-06-14T06:55:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402070541im_/https://pbs.twimg.com/profile_images/2022659123498954752/8_SJmuGA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3a870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402070541im_/https://pbs.twimg.com/profile_images/2022659123498954752/8_SJmuGA_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83bf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2038974356165124096/erSgeNHd_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260401082155_twitter_com_huihui_mikumi_status_2039256934671585705.json"
       ],
-      "last_updated": "2026-06-14T06:55:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401082155im_/https://pbs.twimg.com/profile_images/2038974356165124096/erSgeNHd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adf230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401082155if_/https://pbs.twimg.com/profile_images/2038974356165124096/erSgeNHd_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d814c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2037432060563042304/vuTeUo-P_normal.jpg": {
       "status": "failed_all",
@@ -16420,9 +16420,9 @@
       "referenced_by": [
         "20260402031833_twitter_com_huihui_mikumi_status_2039542978860220633.json"
       ],
-      "last_updated": "2026-06-14T06:55:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402031833im_/https://pbs.twimg.com/profile_images/2020351298772840448/ftQY--BS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a42960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402031833if_/https://pbs.twimg.com/profile_images/2020351298772840448/ftQY--BS_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d58410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg": {
       "status": "done",
@@ -16456,9 +16456,9 @@
       "referenced_by": [
         "20260402070515_twitter_com_huihui_mikumi_status_2039600030890496181.json"
       ],
-      "last_updated": "2026-06-14T06:55:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402070515im_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ade330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402070515if_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5b560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1451906571840069639/SmV_ILaX_normal.png": {
       "status": "done",
@@ -16494,18 +16494,18 @@
       "referenced_by": [
         "20260402075029_twitter_com_huihui_mikumi_status_2039611411266211857.json"
       ],
-      "last_updated": "2026-06-14T06:55:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402075029im_/https://pbs.twimg.com/profile_images/2026337513149984768/zK_4nGB__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab0140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402075029if_/https://pbs.twimg.com/profile_images/2026337513149984768/zK_4nGB__normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d58dd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039321117782081536/L0Cqh6Ds_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402103643_twitter_com_huihui_mikumi_status_2039653246982373665.json"
       ],
-      "last_updated": "2026-06-14T06:55:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402103643im_/https://pbs.twimg.com/profile_images/2039321117782081536/L0Cqh6Ds_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a391f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402103643if_/https://pbs.twimg.com/profile_images/2039321117782081536/L0Cqh6Ds_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d80aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png": {
       "status": "failed_all",
@@ -16546,9 +16546,9 @@
       "referenced_by": [
         "20260402154558_twitter_com_huihui_mikumi_status_2039731071324230098.json"
       ],
-      "last_updated": "2026-06-14T06:55:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402154558im_/https://pbs.twimg.com/profile_images/2039213246020988928/f9_8ZDPW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab2ae0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402154558if_/https://pbs.twimg.com/profile_images/2039213246020988928/f9_8ZDPW_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46510>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039935779645067265/GN-YfkWP_normal.jpg": {
       "status": "done",
@@ -16608,9 +16608,9 @@
         "20260404151644_twitter_com_huihui_mikumi_status_2040448492250988909.json",
         "20260405123609_twitter_com_huihui_mikumi_status_2040770467112620130.json"
       ],
-      "last_updated": "2026-06-14T06:55:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405123609im_/https://pbs.twimg.com/profile_images/2040057390310338560/hVGHi9Fh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3b260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405123609if_/https://pbs.twimg.com/profile_images/2040057390310338560/hVGHi9Fh_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg": {
       "status": "done",
@@ -16629,9 +16629,9 @@
         "20260407221434_twitter_com_huihui_mikumi_status_2041640803706249700.json",
         "20260408015537_twitter_com_huihui_mikumi_status_2041696433481642457.json"
       ],
-      "last_updated": "2026-06-14T06:55:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408015537im_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab1010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408015537im_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d81cd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg": {
       "status": "done",
@@ -16823,9 +16823,9 @@
         "20260405085319_twitter_com_huihui_mikumi_status_2040714388748054734.json",
         "20260507032953_twitter_com_huihui_mikumi_status_2052229404953366945.json"
       ],
-      "last_updated": "2026-06-14T06:55:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507032953im_/https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3af30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:40:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507032953im_/https://pbs.twimg.com/profile_images/1908782550824476675/HMvPdSuq_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dad790>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039318367346286592/LwndLiCs_normal.jpg": {
       "status": "done",
@@ -16925,9 +16925,9 @@
       "referenced_by": [
         "20260405132313_twitter_com_huihui_mikumi_status_2040782309889376268.json"
       ],
-      "last_updated": "2026-06-14T06:55:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405132313im_/https://pbs.twimg.com/profile_images/2039360327758843904/2_gP77U7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab0a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405132313im_/https://pbs.twimg.com/profile_images/2039360327758843904/2_gP77U7_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d80a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1875752069388496899/dbhg3tjX_normal.jpg": {
       "status": "done",
@@ -16959,9 +16959,9 @@
       "referenced_by": [
         "20260405162121_twitter_com_huihui_mikumi_status_2040827141127090530.json"
       ],
-      "last_updated": "2026-06-14T06:55:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405162121im_/https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3bb00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405162121im_/https://pbs.twimg.com/profile_images/2029891487677468672/_RfnoaLe_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dafd70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2023949456245485568/Pu1xV_32_normal.jpg": {
       "status": "done",
@@ -16993,27 +16993,27 @@
       "referenced_by": [
         "20260405170747_twitter_com_huihui_mikumi_status_2040838824771874909.json"
       ],
-      "last_updated": "2026-06-14T06:56:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405170747im_/https://pbs.twimg.com/profile_images/2040819625378918401/RyUI9Hbj_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab0d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405170747if_/https://pbs.twimg.com/profile_images/2040819625378918401/RyUI9Hbj_normal.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d477a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2040417656260669440/kL46pDeQ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260405170804_twitter_com_huihui_mikumi_status_2040838894502170893.json"
       ],
-      "last_updated": "2026-06-14T06:56:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405170804im_/https://pbs.twimg.com/profile_images/2040417656260669440/kL46pDeQ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a39310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405170804if_/https://pbs.twimg.com/profile_images/2040417656260669440/kL46pDeQ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dad070>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2001593031267332097/H8k7UXI2_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260405180255_twitter_com_huihui_mikumi_status_2040852700041302280.json"
       ],
-      "last_updated": "2026-06-14T06:56:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405180255im_/https://pbs.twimg.com/profile_images/2001593031267332097/H8k7UXI2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a435c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405180255if_/https://pbs.twimg.com/profile_images/2001593031267332097/H8k7UXI2_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83740>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039111880133001216/5gfe2fAe_normal.jpg": {
       "status": "failed",
@@ -17023,9 +17023,9 @@
         "20260408035610_twitter_com_huihui_mikumi_status_2041726769808732462.json",
         "20260408035803_twitter_com_huihui_mikumi_status_2041727246864675041.json"
       ],
-      "last_updated": "2026-06-14T06:56:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408035803im_/https://pbs.twimg.com/profile_images/2039111880133001216/5gfe2fAe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3a360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408035803if_/https://pbs.twimg.com/profile_images/2039111880133001216/5gfe2fAe_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d59970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1687408961199468544/w6WxZlv1_normal.jpg": {
       "status": "done",
@@ -17320,9 +17320,9 @@
         "20260407210426_twitter_com_huihui_mikumi_status_2041623156314767383.json",
         "20260411213917_twitter_com_huihui_mikumi_status_2043081478242996682.json"
       ],
-      "last_updated": "2026-06-14T06:56:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411213917im_/https://pbs.twimg.com/profile_images/1605028647844188160/Jxn2kgsj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab1f40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411213917if_/https://pbs.twimg.com/profile_images/1605028647844188160/Jxn2kgsj_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbdf70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2039331425133133824/0PSLeFV-_normal.jpg": {
       "status": "done",
@@ -17361,19 +17361,19 @@
         "20260415172928_twitter_com_huihui_mikumi_status_2044468160687157551.json",
         "20260503073906_twitter_com_huihui_mikumi_status_2050842570365018517.json"
       ],
-      "last_updated": "2026-06-14T06:56:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503073906im_/https://pbs.twimg.com/profile_images/2041133333686652928/ZRcgQaJW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386da8890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503073906if_/https://pbs.twimg.com/profile_images/2041133333686652928/ZRcgQaJW_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d474a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260408015958_twitter_com_huihui_mikumi_status_2041697530594124154.json",
         "20260408021603_twitter_com_huihui_mikumi_status_2041701574729461816.json"
       ],
-      "last_updated": "2026-06-14T06:56:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408021603im_/https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a42c30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:49",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260408021603if_/https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2037490742701256704/18qowIcT_normal.jpg": {
       "status": "done",
@@ -17512,9 +17512,9 @@
       "referenced_by": [
         "20260410060354_twitter_com_huihui_mikumi_status_2042483691788861640.json"
       ],
-      "last_updated": "2026-06-14T06:56:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410060354im_/https://pbs.twimg.com/profile_images/2024682513835397121/V9QqTngP_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3a2d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:41:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410060354if_/https://pbs.twimg.com/profile_images/2024682513835397121/V9QqTngP_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46c30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2028534258462244864/GkYrDTpl_normal.jpg": {
       "status": "failed_all",
@@ -17563,9 +17563,9 @@
       "referenced_by": [
         "20260410075800_twitter_com_huihui_mikumi_status_2042512407185232040.json"
       ],
-      "last_updated": "2026-06-14T06:56:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410075800im_/https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab0e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410075800im_/https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d80aa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg": {
       "status": "done",
@@ -17579,9 +17579,9 @@
       "referenced_by": [
         "20260410080323_twitter_com_huihui_mikumi_status_2042513761983156305.json"
       ],
-      "last_updated": "2026-06-14T06:56:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410080323im_/https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a430e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410080323im_/https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dadbb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg": {
       "status": "done",
@@ -17759,9 +17759,9 @@
         "20260411142421_twitter_com_huihui_mikumi_status_2042972023597736167.json",
         "20260429111458_twitter_com_huihui_mikumi_status_2049447344857628780.json"
       ],
-      "last_updated": "2026-06-14T06:56:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429111458im_/https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab1fa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429111458im_/https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d453a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg": {
       "status": "done",
@@ -17783,9 +17783,9 @@
       "referenced_by": [
         "20260411150059_twitter_com_huihui_mikumi_status_2042981241994326339.json"
       ],
-      "last_updated": "2026-06-14T06:56:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411150059if_/https://pbs.twimg.com/profile_images/2041487559986130945/P3NhvXfS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe386ab3770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411150059im_/https://pbs.twimg.com/profile_images/2041487559986130945/P3NhvXfS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dadbe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2042897879715774464/LbhAUOzN_normal.jpg": {
       "status": "done",
@@ -18023,18 +18023,18 @@
       "referenced_by": [
         "20260414140633_twitter_com_huihui_mikumi_status_2044054706813915216.json"
       ],
-      "last_updated": "2026-06-14T06:56:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414140633im_/https://pbs.twimg.com/profile_images/1885144708714029057/nHoL0voq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adc500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414140633im_/https://pbs.twimg.com/profile_images/1885144708714029057/nHoL0voq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d81d90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2037835439781122048/gVf_fwU7_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260415173927_twitter_com_huihui_mikumi_status_2044470673016558011.json"
       ],
-      "last_updated": "2026-06-14T06:56:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415173927im_/https://pbs.twimg.com/profile_images/2037835439781122048/gVf_fwU7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a42330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415173927im_/https://pbs.twimg.com/profile_images/2037835439781122048/gVf_fwU7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82300>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg": {
       "status": "done",
@@ -18125,9 +18125,9 @@
       "referenced_by": [
         "20260417043630_twitter_com_huihui_mikumi_status_2044998412190585095.json"
       ],
-      "last_updated": "2026-06-14T06:56:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417043630if_/https://pbs.twimg.com/profile_images/2042548764972564480/-U2cGKZX_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab0470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417043630im_/https://pbs.twimg.com/profile_images/2042548764972564480/-U2cGKZX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1851255555177730049/3LlrtXw6_normal.jpg": {
       "status": "done",
@@ -18152,9 +18152,9 @@
       "referenced_by": [
         "20260417043728_twitter_com_huihui_mikumi_status_2044998657637044579.json"
       ],
-      "last_updated": "2026-06-14T06:56:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417043728im_/https://pbs.twimg.com/profile_images/2012499149489397760/8ynCUgdr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adc4a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417043728im_/https://pbs.twimg.com/profile_images/2012499149489397760/8ynCUgdr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d45ee0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1906674853652144128/DDakj8f8_normal.jpg": {
       "status": "done",
@@ -18183,9 +18183,9 @@
       "referenced_by": [
         "20260419041856_twitter_com_huihui_mikumi_status_2045718768664653948.json"
       ],
-      "last_updated": "2026-06-14T06:57:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419041856im_/https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ade120>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419041856im_/https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dad5b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg": {
       "status": "done",
@@ -18329,9 +18329,9 @@
       "referenced_by": [
         "20260425094410_twitter_com_huihui_mikumi_status_2047974940977332391.json"
       ],
-      "last_updated": "2026-06-14T06:57:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425094410im_/https://pbs.twimg.com/profile_images/2035279254016098305/iAquK7jq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adcef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425094410im_/https://pbs.twimg.com/profile_images/2035279254016098305/iAquK7jq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d804a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg": {
       "status": "done",
@@ -18421,9 +18421,9 @@
       "referenced_by": [
         "20260427051037_twitter_com_huihui_mikumi_status_2048630876310061493.json"
       ],
-      "last_updated": "2026-06-14T06:57:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427051037im_/https://pbs.twimg.com/profile_images/1639253777453817859/Vant160D_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a42f00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427051037im_/https://pbs.twimg.com/profile_images/1639253777453817859/Vant160D_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d809b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2047879655378870272/U6xQrdPQ_normal.jpg": {
       "status": "done",
@@ -18494,9 +18494,9 @@
       "referenced_by": [
         "20260429121853_twitter_com_huihui_mikumi_status_2049463428025364694.json"
       ],
-      "last_updated": "2026-06-14T06:57:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429121853im_/https://pbs.twimg.com/profile_images/2022912499704836096/pfs53RQl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adce30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429121853im_/https://pbs.twimg.com/profile_images/2022912499704836096/pfs53RQl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2045483208113065984/8jjz3CC7_normal.jpg": {
       "status": "done",
@@ -18548,9 +18548,9 @@
       "referenced_by": [
         "20260502060450_twitter_com_huihui_mikumi_status_2050456460187124068.json"
       ],
-      "last_updated": "2026-06-14T06:57:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502060450im_/https://pbs.twimg.com/profile_images/1800613243465129984/VbuWFPnK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab22a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:42:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502060450im_/https://pbs.twimg.com/profile_images/1800613243465129984/VbuWFPnK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg": {
       "status": "done",
@@ -18656,9 +18656,9 @@
       "referenced_by": [
         "20260503120846_twitter_com_huihui_mikumi_status_2050910437127168476.json"
       ],
-      "last_updated": "2026-06-14T06:57:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503120846if_/https://pbs.twimg.com/profile_images/2050525725183385600/yfU8DEJR_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab17c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503120846im_/https://pbs.twimg.com/profile_images/2050525725183385600/yfU8DEJR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f84291b78c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg": {
       "status": "done",
@@ -18681,9 +18681,9 @@
       "referenced_by": [
         "20260506083245_twitter_com_huihui_mikumi_status_2051943235984195878.json"
       ],
-      "last_updated": "2026-06-14T06:57:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506083245im_/https://pbs.twimg.com/profile_images/2044688729189793792/zIF4XYJE_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adccb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506083245im_/https://pbs.twimg.com/profile_images/2044688729189793792/zIF4XYJE_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d829f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1729859128565366784/3ix1pVzx_normal.jpg": {
       "status": "done",
@@ -18879,9 +18879,9 @@
         "20260506135456_twitter_com_huihui_mikumi_status_2052024318419468399.json",
         "20260519065956_twitter_com_huihui_mikumi_status_2056630922624274652.json"
       ],
-      "last_updated": "2026-06-14T06:57:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519065956im_/https://pbs.twimg.com/profile_images/2051543041945767936/0J6ks6nA_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adcb60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519065956im_/https://pbs.twimg.com/profile_images/2051543041945767936/0J6ks6nA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2042935891061280772/SGl5z9S8_normal.jpg": {
       "status": "done",
@@ -19022,9 +19022,9 @@
         "20260507134851_twitter_com_huihui_mikumi_status_2052385174751715515.json",
         "20260510071630_twitter_com_huihui_mikumi_status_2053373599596343566.json"
       ],
-      "last_updated": "2026-06-14T06:57:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510071630im_/https://pbs.twimg.com/profile_images/2040950652235550720/O1x3YZlJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3b320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510071630im_/https://pbs.twimg.com/profile_images/2040950652235550720/O1x3YZlJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5b710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg": {
       "status": "done",
@@ -19077,9 +19077,9 @@
       "referenced_by": [
         "20260508092205_twitter_com_huihui_mikumi_status_2052680425995489381.json"
       ],
-      "last_updated": "2026-06-14T06:57:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508092205im_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ade090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508092205im_/https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46060>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1990418694582009857/hn2hNihD_normal.jpg": {
       "status": "done",
@@ -19133,9 +19133,9 @@
       "referenced_by": [
         "20260510033407_twitter_com_huihui_mikumi_status_2053317633840500792.json"
       ],
-      "last_updated": "2026-06-14T06:57:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510033407im_/https://pbs.twimg.com/profile_images/1961480570250440704/pqC1X1f-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a383b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510033407im_/https://pbs.twimg.com/profile_images/1961480570250440704/pqC1X1f-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5bda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1998618563142447104/xdsmEU8m_normal.jpg": {
       "status": "done",
@@ -19156,27 +19156,27 @@
       "referenced_by": [
         "20260510042546_twitter_com_huihui_mikumi_status_2053330634148614470.json"
       ],
-      "last_updated": "2026-06-14T06:57:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510042546im_/https://pbs.twimg.com/profile_images/2042787304880902146/ew9715TC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386addc10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510042546im_/https://pbs.twimg.com/profile_images/2042787304880902146/ew9715TC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82c30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2051818962544185344/1jbMzZak_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260510054856_twitter_com_huihui_mikumi_status_2053351561645178923.json"
       ],
-      "last_updated": "2026-06-14T06:57:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510054856im_/https://pbs.twimg.com/profile_images/2051818962544185344/1jbMzZak_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab2a80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510054856im_/https://pbs.twimg.com/profile_images/2051818962544185344/1jbMzZak_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5ac60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2053331943161532416/UJm2dxDW_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260510054922_twitter_com_huihui_mikumi_status_2053351671359824219.json"
       ],
-      "last_updated": "2026-06-14T06:57:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510054922im_/https://pbs.twimg.com/profile_images/2053331943161532416/UJm2dxDW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab3320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510054922im_/https://pbs.twimg.com/profile_images/2053331943161532416/UJm2dxDW_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f84290452b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2053105085258100737/mbCZhF2K_normal.jpg": {
       "status": "done",
@@ -19220,9 +19220,9 @@
       "referenced_by": [
         "20260510101747_twitter_com_huihui_mikumi_status_2053419219816214699.json"
       ],
-      "last_updated": "2026-06-14T06:57:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510101747im_/https://pbs.twimg.com/profile_images/2053396781702979585/09A7ty9L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386adf620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510101747im_/https://pbs.twimg.com/profile_images/2053396781702979585/09A7ty9L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dae120>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1969604322884534272/JvGeRM9o_normal.jpg": {
       "status": "done",
@@ -19635,9 +19635,9 @@
       "referenced_by": [
         "20260515060307_twitter_com_huihui_mikumi_status_2055167068937634165.json"
       ],
-      "last_updated": "2026-06-14T06:57:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515060307im_/https://pbs.twimg.com/profile_images/2044473750402514944/ssa47RIo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386af0050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515060307im_/https://pbs.twimg.com/profile_images/2044473750402514944/ssa47RIo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82f30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/1907893121934868480/zCrdoSjl_normal.jpg": {
       "status": "done",
@@ -19663,9 +19663,9 @@
       "referenced_by": [
         "20260515070956_twitter_com_huihui_mikumi_status_2055183885793956178.json"
       ],
-      "last_updated": "2026-06-14T06:57:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515070956im_/https://pbs.twimg.com/profile_images/2052275519425486852/wlKDFWz4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3b6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:43:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260515070956im_/https://pbs.twimg.com/profile_images/2052275519425486852/wlKDFWz4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dae570>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg": {
       "status": "done",
@@ -19988,9 +19988,9 @@
       "referenced_by": [
         "20260517145854_twitter_com_huihui_mikumi_status_2056026679022367089.json"
       ],
-      "last_updated": "2026-06-14T06:58:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517145854im_/https://pbs.twimg.com/profile_images/2051955369673719808/mK8b04B-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386af1c70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:44:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517145854im_/https://pbs.twimg.com/profile_images/2051955369673719808/mK8b04B-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82300>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2045004348468658176/ywFq6rhE_normal.jpg": {
       "status": "done",
@@ -20057,9 +20057,9 @@
         "20260524092049_twitter_com_huihui_mikumi_status_2058478312809459974.json",
         "20260524121654_twitter_com_huihui_mikumi_status_2058522628378460545.json"
       ],
-      "last_updated": "2026-06-14T06:58:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524121654im_/https://pbs.twimg.com/profile_images/2056606263761682432/APcRuccr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386dabcb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:44:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524121654im_/https://pbs.twimg.com/profile_images/2056606263761682432/APcRuccr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg": {
       "status": "done",
@@ -20099,9 +20099,9 @@
         "20260521110228_twitter_com_huihui_mikumi_status_2057416732222840882.json",
         "20260522070226_twitter_com_huihui_mikumi_status_2057718714087457065.json"
       ],
-      "last_updated": "2026-06-14T06:58:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522070226im_/https://pbs.twimg.com/profile_images/2057075913955987456/k0TYvrqJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386af1d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 14
+      "last_updated": "2026-06-21T07:44:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522070226im_/https://pbs.twimg.com/profile_images/2057075913955987456/k0TYvrqJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d816a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 16
     },
     "https://pbs.twimg.com/profile_images/2038926063796117504/dPgebk4x_normal.jpg": {
       "status": "done",
@@ -20545,9 +20545,9 @@
         "20260527124848_twitter_com_huihui_mikumi_status_2059617817365029325.json",
         "20260527140416_twitter_com_huihui_mikumi_status_2059636809257418881.json"
       ],
-      "last_updated": "2026-06-14T06:58:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527140416im_/https://pbs.twimg.com/profile_images/1931680680049848320/36YZXwUS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386add010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-06-21T07:44:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527140416im_/https://pbs.twimg.com/profile_images/1931680680049848320/36YZXwUS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dad790>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2052614642594369536/ZMxL3lzj_normal.jpg": {
       "status": "done",
@@ -21612,9 +21612,9 @@
       "referenced_by": [
         "20260606091847_twitter_com_huihui_mikumi_status_2063188844770734216.json"
       ],
-      "last_updated": "2026-06-14T06:58:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606091847im_/https://pbs.twimg.com/profile_images/2061589772880273408/e7cAeetR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386a3b8c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-06-21T07:44:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606091847im_/https://pbs.twimg.com/profile_images/2061589772880273408/e7cAeetR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2061955030790369280/_ravmONh_normal.jpg": {
       "status": "done",
@@ -21847,9 +21847,9 @@
       "referenced_by": [
         "20260607115917_twitter_com_huihui_mikumi_status_2063591624886870421.json"
       ],
-      "last_updated": "2026-06-14T06:58:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607115917im_/https://pbs.twimg.com/profile_images/2058219028850823169/NQIu5FzG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe386ab2c90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-06-21T07:44:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607115917im_/https://pbs.twimg.com/profile_images/2058219028850823169/NQIu5FzG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg": {
       "status": "done",
@@ -22243,96 +22243,124 @@
       "last_updated": "2026-06-12T16:49:52"
     },
     "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610071507_twitter_com_huihui_mikumi_status_2064607274367398026.json",
         "20260613061417_twitter_com_huihui_mikumi_status_2065679131199832069.json",
         "20260613061443_twitter_com_huihui_mikumi_status_2065679236141293950.json",
         "20260613065329_twitter_com_huihui_mikumi_status_2065688994936193402.json",
         "20260613145026_twitter_com_huihui_mikumi_status_2065809023610560641.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:31"
     },
     "https://pbs.twimg.com/profile_images/2063948486614392833/paCVcEyk_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260610072601_twitter_com_huihui_mikumi_status_2064610017131843669.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610072601im_/https://pbs.twimg.com/profile_images/2063948486614392833/paCVcEyk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d58320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2062922622246260736/MyJ5vPdf_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260610073734_twitter_com_huihui_mikumi_status_2064612924803662305.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610073734im_/https://pbs.twimg.com/profile_images/2062922622246260736/MyJ5vPdf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d80110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2002104162159636483/8n4PwQqo_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610090549_twitter_com_huihui_mikumi_status_2064635134855561560.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:32"
     },
     "https://pbs.twimg.com/profile_images/1634222910918520832/zYR3oq2n_normal.png": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260610091508_twitter_com_huihui_mikumi_status_2064637476921385040.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610091508im_/https://pbs.twimg.com/profile_images/1634222910918520832/zYR3oq2n_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daed80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610111408_twitter_com_huihui_mikumi_status_2064667424788770847.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:32"
     },
     "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260610111625_twitter_com_huihui_mikumi_status_2064667997944602790.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610111625im_/https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dadb50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2060613592324657152/WsMbZT_H_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610155156_twitter_com_huihui_mikumi_status_2064737336706166908.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:33"
     },
     "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610163945_twitter_com_huihui_mikumi_status_2064749368792817934.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:33"
     },
     "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610183521_twitter_com_huihui_mikumi_status_2064778459810021725.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:33"
     },
     "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260610185201_twitter_com_huihui_mikumi_status_2064782656257351709.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:33"
     },
     "https://pbs.twimg.com/profile_images/2050419719606509568/QmnCC5Ky_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260611103317_twitter_com_huihui_mikumi_status_2065019531916099810.json",
         "20260615033959_twitter_com_huihui_mikumi_status_2066365072675672420.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615033959im_/https://pbs.twimg.com/profile_images/2050419719606509568/QmnCC5Ky_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d59400>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2014341874664816640/l2StRJJl_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260611113145_twitter_com_huihui_mikumi_status_2065034245350039803.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611113145im_/https://pbs.twimg.com/profile_images/2014341874664816640/l2StRJJl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d59280>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2065151552684535808/6gGa9SPs_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612035203_twitter_com_huihui_mikumi_status_2065280946572837240.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:44:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612035203im_/https://pbs.twimg.com/profile_images/2065151552684535808/6gGa9SPs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260612035242_twitter_com_huihui_mikumi_status_2065281108745539993.json",
         "20260612070726_twitter_com_huihui_mikumi_status_2065330116314771759.json",
@@ -22344,61 +22372,81 @@
         "20260614095411_twitter_com_huihui_mikumi_status_2066096856250347738.json",
         "20260617063751_twitter_com_huihui_mikumi_status_2067134612934119687.json",
         "20260620122415_twitter_com_huihui_mikumi_status_2068308951427670059.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:33"
     },
     "https://pbs.twimg.com/profile_images/2038893814124044288/a3x2dXRu_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612084244_twitter_com_huihui_mikumi_status_2065354100645232836.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612084244im_/https://pbs.twimg.com/profile_images/2038893814124044288/a3x2dXRu_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dafa10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612101030_twitter_com_huihui_mikumi_status_2065376187589996919.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612101030im_/https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82f90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612142226_twitter_com_huihui_mikumi_status_2065439588815167788.json",
         "20260613061105_twitter_com_huihui_mikumi_status_2065678325817979177.json",
         "20260614123350_twitter_com_huihui_mikumi_status_2066137035916914794.json",
         "20260614193444_twitter_com_huihui_mikumi_status_2066242958475853884.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614193444im_/https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d463f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2040622839762681856/QO1bWojs_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612153551_twitter_com_huihui_mikumi_status_2065458064535568466.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612153551im_/https://pbs.twimg.com/profile_images/2040622839762681856/QO1bWojs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d81ac0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1572378496097480708/koJsBzo4_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612153601_twitter_com_huihui_mikumi_status_2065458104037449957.json",
         "20260612232229_twitter_com_huihui_mikumi_status_2065575498206343662.json",
         "20260613061443_twitter_com_huihui_mikumi_status_2065679236141293950.json",
         "20260613065329_twitter_com_huihui_mikumi_status_2065688994936193402.json",
         "20260613145026_twitter_com_huihui_mikumi_status_2065809023610560641.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613145026im_/https://pbs.twimg.com/profile_images/1572378496097480708/koJsBzo4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dad4c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2058297012102344704/VJEZoNRY_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260612164349_twitter_com_huihui_mikumi_status_2065475166608757132.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:34"
     },
     "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260612223847_twitter_com_huihui_mikumi_status_2065564500439290299.json",
         "20260612232601_twitter_com_huihui_mikumi_status_2065576386815779235.json",
         "20260612233350_twitter_com_huihui_mikumi_status_2065578354447708366.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612233350im_/https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dafe90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260612232345_twitter_com_huihui_mikumi_status_2065575816503922959.json",
         "20260613061122_twitter_com_huihui_mikumi_status_2065678394915004805.json",
@@ -22408,437 +22456,580 @@
         "20260617134335_twitter_com_huihui_mikumi_status_2067241752545870018.json",
         "20260619075331_twitter_com_huihui_mikumi_status_2067878429513613610.json",
         "20260619080156_twitter_com_huihui_mikumi_status_2067880546102059361.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:35"
     },
     "https://pbs.twimg.com/profile_images/2063014048145526784/Rcsc09Rg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260612233325_twitter_com_huihui_mikumi_status_2065578247975317844.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:35"
     },
     "https://pbs.twimg.com/profile_images/2065001390418935809/f1NmzUZI_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260613061400_twitter_com_huihui_mikumi_status_2065679058164400154.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613061400im_/https://pbs.twimg.com/profile_images/2065001390418935809/f1NmzUZI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d5bf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2063161974733811713/g7zCOiUS_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260613082514_twitter_com_huihui_mikumi_status_2065712082184778220.json",
         "20260613102209_twitter_com_huihui_mikumi_status_2065741506678587559.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260613102209if_/https://pbs.twimg.com/profile_images/2063161974733811713/g7zCOiUS_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260613102320_twitter_com_huihui_mikumi_status_2065741805346574725.json",
         "20260613130337_twitter_com_huihui_mikumi_status_2065782142509125699.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:35"
     },
     "https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260613123753_twitter_com_huihui_mikumi_status_2065775665203581354.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613123753im_/https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d81e50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614114243_twitter_com_huihui_mikumi_status_2066124169289580575.json",
         "20260617120532_twitter_com_huihui_mikumi_status_2067217076285268407.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:35"
     },
     "https://pbs.twimg.com/profile_images/1246423798997385217/guOTONmj_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614120002_twitter_com_huihui_mikumi_status_2066128528266158569.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614120002if_/https://pbs.twimg.com/profile_images/1246423798997385217/guOTONmj_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614122338_twitter_com_huihui_mikumi_status_2066134468117852323.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:36"
     },
     "https://pbs.twimg.com/profile_images/2055711907311677440/xbhkpIrQ_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614122421_twitter_com_huihui_mikumi_status_2066134648040947871.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:45:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614122421im_/https://pbs.twimg.com/profile_images/2055711907311677440/xbhkpIrQ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82690>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2048025947534970880/5GYLb6Wx_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614183534_twitter_com_huihui_mikumi_status_2066228067761299616.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614183534im_/https://pbs.twimg.com/profile_images/2048025947534970880/5GYLb6Wx_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2039990814466781184/FM_t6Y4w_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614183601_twitter_com_huihui_mikumi_status_2066228182110638445.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614183601im_/https://pbs.twimg.com/profile_images/2039990814466781184/FM_t6Y4w_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d45490>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2055369844737146880/2rM6iWiA_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614183702_twitter_com_huihui_mikumi_status_2066228437300531563.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614183702im_/https://pbs.twimg.com/profile_images/2055369844737146880/2rM6iWiA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbe780>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614183817_twitter_com_huihui_mikumi_status_2066228749667033170.json",
         "20260615073238_twitter_com_huihui_mikumi_status_2066423621241975164.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:36"
     },
     "https://pbs.twimg.com/profile_images/2022582670551609344/N8wNgNfM_normal.png": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614183831_twitter_com_huihui_mikumi_status_2066228808706044192.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614183831im_/https://pbs.twimg.com/profile_images/2022582670551609344/N8wNgNfM_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbe9c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2054845364143009792/AuybDnu-_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614183942_twitter_com_huihui_mikumi_status_2066229108753973741.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614183942im_/https://pbs.twimg.com/profile_images/2054845364143009792/AuybDnu-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d45820>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2023597600914763782/qTbz2oHi_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614184115_twitter_com_huihui_mikumi_status_2066229498157428832.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614184115im_/https://pbs.twimg.com/profile_images/2023597600914763782/qTbz2oHi_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46840>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614184140_twitter_com_huihui_mikumi_status_2066229604164219020.json",
         "20260614202914_twitter_com_huihui_mikumi_status_2066256671203332512.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:37"
     },
     "https://pbs.twimg.com/profile_images/2065835464842702849/WkHVCDgi_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614184204_twitter_com_huihui_mikumi_status_2066229704391279072.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614184204im_/https://pbs.twimg.com/profile_images/2065835464842702849/WkHVCDgi_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbef90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1818813109576122368/u-iNi3CI_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614184257_twitter_com_huihui_mikumi_status_2066229923233292592.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614184257im_/https://pbs.twimg.com/profile_images/1818813109576122368/u-iNi3CI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbd4f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2058560624733671424/vwIjRisH_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614192856_twitter_com_huihui_mikumi_status_2066241497058742623.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614192856im_/https://pbs.twimg.com/profile_images/2058560624733671424/vwIjRisH_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46a80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2054920035580403712/OLpB-21o_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614203908_twitter_com_huihui_mikumi_status_2066259161609089346.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:37"
     },
     "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614210721_twitter_com_huihui_mikumi_status_2066266262494441559.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:38"
     },
     "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614211822_twitter_com_huihui_mikumi_status_2066269035046875464.json",
         "20260620025747_twitter_com_huihui_mikumi_status_2068166393552634360.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620025747im_/https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428daf8c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2065250229910409217/FcGfwTjD_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614212004_twitter_com_huihui_mikumi_status_2066269466493919393.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614212004im_/https://pbs.twimg.com/profile_images/2065250229910409217/FcGfwTjD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d47260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1891753740581077000/6gs66WLS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614212004_twitter_com_huihui_mikumi_status_2066269466493919393.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:39"
     },
     "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614212004_twitter_com_huihui_mikumi_status_2066269466493919393.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:39"
     },
     "https://pbs.twimg.com/profile_images/2062423053049688064/lMRRYRyV_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614223653_twitter_com_huihui_mikumi_status_2066288795809644846.json",
         "20260617120423_twitter_com_huihui_mikumi_status_2067216785993306571.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:46:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617120423im_/https://pbs.twimg.com/profile_images/2062423053049688064/lMRRYRyV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbe4e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:39"
     },
     "https://pbs.twimg.com/profile_images/2051931727648763904/doRROlo4_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614223820im_/https://pbs.twimg.com/profile_images/2051931727648763904/doRROlo4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbe6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1731677121901178880/9tf20fwq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/1841026277396135936/MV3p-LDC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/1861353283262242816/Evp5TxKC_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614223820im_/https://pbs.twimg.com/profile_images/1861353283262242816/Evp5TxKC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46a50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1984410811058831363/2uZasvuq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/1676574195361390592/59Zcyz1p_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/1718974847135760384/lV4ZzeQF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/1807084896474836992/7pHwpbgF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260615045750_twitter_com_huihui_mikumi_status_2066384666874253567.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/2024886279624949763/wce6F8Au_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260617060941_twitter_com_huihui_mikumi_status_2067127521402052740.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:40"
     },
     "https://pbs.twimg.com/profile_images/2025864263219482624/yDI_0_6Z_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617063751_twitter_com_huihui_mikumi_status_2067134612934119687.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617063751im_/https://pbs.twimg.com/profile_images/2025864263219482624/yDI_0_6Z_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dae8a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2060680321486786561/7zfGsuJv_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260617070325_twitter_com_huihui_mikumi_status_2067141046497427676.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/2066688724407382016/EWwlDVO3_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617071025_twitter_com_huihui_mikumi_status_2067142808495128974.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617071025im_/https://pbs.twimg.com/profile_images/2066688724407382016/EWwlDVO3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d465a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617112628_twitter_com_huihui_mikumi_status_2067207243695849869.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617112628im_/https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbc2f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2064241321049788416/o-u9NAok_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617113250_twitter_com_huihui_mikumi_status_2067208846842712471.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617113250im_/https://pbs.twimg.com/profile_images/2064241321049788416/o-u9NAok_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d47350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2052019204686323713/TEGdNn2e_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617120518_twitter_com_huihui_mikumi_status_2067217018231877664.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617120518im_/https://pbs.twimg.com/profile_images/2052019204686323713/TEGdNn2e_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dad010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2052310473853538304/-IUwMBGn_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260617120609_twitter_com_huihui_mikumi_status_2067217231134777709.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260617123648_twitter_com_huihui_mikumi_status_2067224944740810793.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617124456_twitter_com_huihui_mikumi_status_2067226990407733590.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617124456im_/https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbc6b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1824319614157029376/S0RfkneQ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260617125137_twitter_com_huihui_mikumi_status_2067228671149322603.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/2059163429152456704/9s9utRjd_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260617125220_twitter_com_huihui_mikumi_status_2067228852338999558.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617125220im_/https://pbs.twimg.com/profile_images/2059163429152456704/9s9utRjd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260617132015_twitter_com_huihui_mikumi_status_2067235879857652162.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/2062484206966689792/TXDkRMTF_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260618003936_twitter_com_huihui_mikumi_status_2067406840682647699.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618003936im_/https://pbs.twimg.com/profile_images/2062484206966689792/TXDkRMTF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d82600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1902656992520589313/LNlRXmko_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618004202_twitter_com_huihui_mikumi_status_2067407455945146844.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/1896558797088579584/3HgdZhPl_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260618015925_twitter_com_huihui_mikumi_status_2067426930031468867.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618015925im_/https://pbs.twimg.com/profile_images/1896558797088579584/3HgdZhPl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d45490>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1891956482796814337/4ik8Ta4Q_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618030536_twitter_com_huihui_mikumi_status_2067443583003836585.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618031026_twitter_com_huihui_mikumi_status_2067444800778080338.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260618041435_twitter_com_huihui_mikumi_status_2067460946000589178.json",
         "20260618041845_twitter_com_huihui_mikumi_status_2067461992219332939.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:47:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618041845im_/https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbe570>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618042113_twitter_com_huihui_mikumi_status_2067462615744598294.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:41"
     },
     "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618092121_twitter_com_huihui_mikumi_status_2067538147047825594.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:42"
     },
     "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618094515_twitter_com_huihui_mikumi_status_2067544158747902002.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:42"
     },
     "https://pbs.twimg.com/profile_images/2066382638135566336/1RC9SQlx_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260618095340_twitter_com_huihui_mikumi_status_2067546278104609111.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618095340im_/https://pbs.twimg.com/profile_images/2066382638135566336/1RC9SQlx_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbc680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1867142308816420865/O8s01cWE_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260618115039_twitter_com_huihui_mikumi_status_2067575719073644793.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618115039im_/https://pbs.twimg.com/profile_images/1867142308816420865/O8s01cWE_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46b70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260618121520_twitter_com_huihui_mikumi_status_2067581931085299806.json",
         "20260618191619_twitter_com_huihui_mikumi_status_2067687874309619935.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:42"
     },
     "https://pbs.twimg.com/profile_images/2065411345730932736/ve5nAC8b_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260618192345_twitter_com_huihui_mikumi_status_2067689745661202445.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618192345im_/https://pbs.twimg.com/profile_images/2065411345730932736/ve5nAC8b_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d83140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2020387116606451715/n8_EYiuk_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260619041131_twitter_com_huihui_mikumi_status_2067822562554552347.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619041131im_/https://pbs.twimg.com/profile_images/2020387116606451715/n8_EYiuk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d45430>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2067843965739847680/Osf-j3D4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260619075537_twitter_com_huihui_mikumi_status_2067878956335006057.json",
         "20260619120202_twitter_com_huihui_mikumi_status_2067940969702735937.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:38:42"
     },
     "https://pbs.twimg.com/profile_images/2067770977258471424/8pvO2M2T_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260619085444_twitter_com_huihui_mikumi_status_2067893833430687921.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619085444im_/https://pbs.twimg.com/profile_images/2067770977258471424/8pvO2M2T_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d58710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2067422764894715904/I_FZEd-b_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260620091306_twitter_com_huihui_mikumi_status_2068260844786651584.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620091306im_/https://pbs.twimg.com/profile_images/2067422764894715904/I_FZEd-b_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428dbd5b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2067476406955606016/ORRcNxYh_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260620091312_twitter_com_huihui_mikumi_status_2068260870053113942.json"
-      ]
+      ],
+      "last_updated": "2026-06-21T07:48:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620091312im_/https://pbs.twimg.com/profile_images/2067476406955606016/ORRcNxYh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8428d46f30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     }
   },
   "media": {
@@ -28121,7 +28312,7 @@
       "miss_count": 14
     },
     "20260408015958_twitter_com_huihui_mikumi_status_2041697530594124154.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HFUtM7Sa8AEUEOt.jpg"
@@ -28132,7 +28323,7 @@
           "https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54",
+      "last_updated": "2026-06-21T07:41:49",
       "miss_count": 14
     },
     "20260408021359_twitter_com_huihui_mikumi_status_2041701055168381137.json": {
@@ -28149,7 +28340,7 @@
       "miss_count": 2
     },
     "20260408021603_twitter_com_huihui_mikumi_status_2041701574729461816.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -28158,7 +28349,7 @@
           "https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54",
+      "last_updated": "2026-06-21T07:41:49",
       "miss_count": 14
     },
     "20260408033744_twitter_com_huihui_mikumi_status_2041722131483128205.json": {
@@ -46924,7 +47115,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260610071507_twitter_com_huihui_mikumi_status_2064607274367398026.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -46933,7 +47124,7 @@
           "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:31"
     },
     "20260610072121_twitter_com_huihui_mikumi_status_2064608841371947299.json": {
       "status": "done",
@@ -46948,7 +47139,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260610072601_twitter_com_huihui_mikumi_status_2064610017131843669.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -46957,10 +47148,10 @@
           "https://pbs.twimg.com/profile_images/2063948486614392833/paCVcEyk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260610073734_twitter_com_huihui_mikumi_status_2064612924803662305.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -46969,7 +47160,7 @@
           "https://pbs.twimg.com/profile_images/2062922622246260736/MyJ5vPdf_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260610080002_twitter_com_huihui_mikumi_status_2064618576653472025.json": {
       "status": "done",
@@ -47020,7 +47211,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260610090549_twitter_com_huihui_mikumi_status_2064635134855561560.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47029,7 +47220,7 @@
           "https://pbs.twimg.com/profile_images/2002104162159636483/8n4PwQqo_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:32"
     },
     "20260610091432_twitter_com_huihui_mikumi_status_2064637326446428246.json": {
       "status": "done",
@@ -47046,7 +47237,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260610091508_twitter_com_huihui_mikumi_status_2064637476921385040.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47055,7 +47246,7 @@
           "https://pbs.twimg.com/profile_images/1634222910918520832/zYR3oq2n_normal.png"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260610095410_twitter_com_huihui_mikumi_status_2064647300589461848.json": {
       "status": "done",
@@ -47095,7 +47286,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260610111408_twitter_com_huihui_mikumi_status_2064667424788770847.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47104,10 +47295,10 @@
           "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:32"
     },
     "20260610111625_twitter_com_huihui_mikumi_status_2064667997944602790.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -47118,7 +47309,7 @@
           "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:57"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260610115925_twitter_com_huihui_mikumi_status_2064678822281404714.json": {
       "status": "done",
@@ -47169,7 +47360,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260610155156_twitter_com_huihui_mikumi_status_2064737336706166908.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47178,7 +47369,7 @@
           "https://pbs.twimg.com/profile_images/2060613592324657152/WsMbZT_H_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260610155424_twitter_com_huihui_mikumi_status_2064737956724928537.json": {
       "status": "done",
@@ -47204,7 +47395,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260610163945_twitter_com_huihui_mikumi_status_2064749368792817934.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47214,7 +47405,7 @@
           "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260610165600_twitter_com_huihui_mikumi_status_2064753460655059161.json": {
       "status": "done",
@@ -47243,7 +47434,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260610183521_twitter_com_huihui_mikumi_status_2064778459810021725.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47252,10 +47443,10 @@
           "https://pbs.twimg.com/profile_images/2036083407361642496/EoLSSXvX_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260610185201_twitter_com_huihui_mikumi_status_2064782656257351709.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKd_dOIbYAAH6VQ.jpg"
@@ -47266,7 +47457,7 @@
           "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260611025000_twitter_com_huihui_mikumi_status_2064902942231285812.json": {
       "status": "done",
@@ -47392,7 +47583,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260611103317_twitter_com_huihui_mikumi_status_2065019531916099810.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47402,7 +47593,7 @@
           "https://pbs.twimg.com/profile_images/2050419719606509568/QmnCC5Ky_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:37"
     },
     "20260611104904_twitter_com_huihui_mikumi_status_2065023504228270401.json": {
       "status": "done",
@@ -47417,7 +47608,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260611113145_twitter_com_huihui_mikumi_status_2065034245350039803.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47426,7 +47617,7 @@
           "https://pbs.twimg.com/profile_images/2014341874664816640/l2StRJJl_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260611113251_twitter_com_huihui_mikumi_status_2065034522945847663.json": {
       "status": "done",
@@ -47455,7 +47646,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260612035203_twitter_com_huihui_mikumi_status_2065280946572837240.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47464,10 +47655,10 @@
           "https://pbs.twimg.com/profile_images/2065151552684535808/6gGa9SPs_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260612035242_twitter_com_huihui_mikumi_status_2065281108745539993.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47476,7 +47667,7 @@
           "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260612035354_twitter_com_huihui_mikumi_status_2065281413382025615.json": {
       "status": "done",
@@ -47506,7 +47697,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260612070726_twitter_com_huihui_mikumi_status_2065330116314771759.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47515,10 +47706,10 @@
           "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260612084244_twitter_com_huihui_mikumi_status_2065354100645232836.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47527,7 +47718,7 @@
           "https://pbs.twimg.com/profile_images/2038893814124044288/a3x2dXRu_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260612085714_twitter_com_huihui_mikumi_status_2065357747022156008.json": {
       "status": "done",
@@ -47553,7 +47744,7 @@
       "last_updated": "2026-06-21T06:54:44"
     },
     "20260612101030_twitter_com_huihui_mikumi_status_2065376187589996919.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47562,7 +47753,7 @@
           "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260612104442_twitter_com_huihui_mikumi_status_2065384794691899565.json": {
       "status": "done",
@@ -47612,7 +47803,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260612142226_twitter_com_huihui_mikumi_status_2065439588815167788.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47621,7 +47812,7 @@
           "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:39"
     },
     "20260612142314_twitter_com_huihui_mikumi_status_2065439789067964801.json": {
       "status": "done",
@@ -47649,7 +47840,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260612153551_twitter_com_huihui_mikumi_status_2065458064535568466.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47658,10 +47849,10 @@
           "https://pbs.twimg.com/profile_images/2040622839762681856/QO1bWojs_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:39"
     },
     "20260612153601_twitter_com_huihui_mikumi_status_2065458104037449957.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47670,7 +47861,7 @@
           "https://pbs.twimg.com/profile_images/1572378496097480708/koJsBzo4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260612154530_twitter_com_huihui_mikumi_status_2065460490671956153.json": {
       "status": "done",
@@ -47747,7 +47938,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260612164349_twitter_com_huihui_mikumi_status_2065475166608757132.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47756,10 +47947,10 @@
           "https://pbs.twimg.com/profile_images/2058297012102344704/VJEZoNRY_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:34"
     },
     "20260612223847_twitter_com_huihui_mikumi_status_2065564500439290299.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47768,7 +47959,7 @@
           "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:38"
     },
     "20260612223912_twitter_com_huihui_mikumi_status_2065564605389398147.json": {
       "status": "done",
@@ -47807,7 +47998,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260612232229_twitter_com_huihui_mikumi_status_2065575498206343662.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47816,7 +48007,7 @@
           "https://pbs.twimg.com/profile_images/1572378496097480708/koJsBzo4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260612232244_twitter_com_huihui_mikumi_status_2065575560735059972.json": {
       "status": "done",
@@ -47843,7 +48034,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260612232345_twitter_com_huihui_mikumi_status_2065575816503922959.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47852,10 +48043,10 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260612232601_twitter_com_huihui_mikumi_status_2065576386815779235.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47864,10 +48055,10 @@
           "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:38"
     },
     "20260612233325_twitter_com_huihui_mikumi_status_2065578247975317844.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47876,10 +48067,10 @@
           "https://pbs.twimg.com/profile_images/2063014048145526784/Rcsc09Rg_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260612233350_twitter_com_huihui_mikumi_status_2065578354447708366.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47888,7 +48079,7 @@
           "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:38"
     },
     "20260613032432_twitter_com_huihui_mikumi_status_2065636411987095723.json": {
       "status": "done",
@@ -47906,7 +48097,7 @@
       "miss_count": 1
     },
     "20260613034734_twitter_com_huihui_mikumi_status_2065642207236010189.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47915,7 +48106,7 @@
           "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260613042827_twitter_com_huihui_mikumi_status_2065652495670722969.json": {
       "status": "done",
@@ -47932,7 +48123,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260613061105_twitter_com_huihui_mikumi_status_2065678325817979177.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47941,10 +48132,10 @@
           "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:39"
     },
     "20260613061122_twitter_com_huihui_mikumi_status_2065678394915004805.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47953,7 +48144,7 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260613061218_twitter_com_huihui_mikumi_status_2065678630190198959.json": {
       "status": "done",
@@ -47968,7 +48159,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260613061400_twitter_com_huihui_mikumi_status_2065679058164400154.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47978,10 +48169,10 @@
           "https://pbs.twimg.com/profile_images/2065001390418935809/f1NmzUZI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260613061417_twitter_com_huihui_mikumi_status_2065679131199832069.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -47990,10 +48181,10 @@
           "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:31"
     },
     "20260613061443_twitter_com_huihui_mikumi_status_2065679236141293950.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48003,7 +48194,7 @@
           "https://pbs.twimg.com/profile_images/1572378496097480708/koJsBzo4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260613061619_twitter_com_huihui_mikumi_status_2065679640128299265.json": {
       "status": "done",
@@ -48029,7 +48220,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260613065305_twitter_com_huihui_mikumi_status_2065688892330983680.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48038,10 +48229,10 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260613065329_twitter_com_huihui_mikumi_status_2065688994936193402.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48051,10 +48242,10 @@
           "https://pbs.twimg.com/profile_images/1572378496097480708/koJsBzo4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260613082514_twitter_com_huihui_mikumi_status_2065712082184778220.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKrffwBaoAA-nIK.jpg"
@@ -48067,7 +48258,7 @@
           "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:45:41"
     },
     "20260613084604_twitter_com_huihui_mikumi_status_2065717327757455375.json": {
       "status": "done",
@@ -48081,7 +48272,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260613102209_twitter_com_huihui_mikumi_status_2065741506678587559.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKr88QAaEAEsV8t.jpg"
@@ -48094,10 +48285,10 @@
           "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:45:41"
     },
     "20260613102320_twitter_com_huihui_mikumi_status_2065741805346574725.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48106,7 +48297,7 @@
           "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260613102554_twitter_com_huihui_mikumi_status_2065742451634225213.json": {
       "status": "done",
@@ -48146,7 +48337,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260613123753_twitter_com_huihui_mikumi_status_2065775665203581354.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKsbs-absAAeg31.jpg"
@@ -48161,10 +48352,10 @@
           "https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260613130337_twitter_com_huihui_mikumi_status_2065782142509125699.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKsAANNawAAMLF2.jpg"
@@ -48175,7 +48366,7 @@
           "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260613140104_twitter_com_huihui_mikumi_status_2065796598022713552.json": {
       "status": "done",
@@ -48214,7 +48405,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260613145026_twitter_com_huihui_mikumi_status_2065809023610560641.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48224,7 +48415,7 @@
           "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260613145119_twitter_com_huihui_mikumi_status_2065809244344275267.json": {
       "status": "done",
@@ -48276,7 +48467,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260614095411_twitter_com_huihui_mikumi_status_2066096856250347738.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48285,7 +48476,7 @@
           "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     },
     "20260614095436_twitter_com_huihui_mikumi_status_2066096963041570888.json": {
       "status": "done",
@@ -48368,7 +48559,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260614114243_twitter_com_huihui_mikumi_status_2066124169289580575.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48377,7 +48568,7 @@
           "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260614114310_twitter_com_huihui_mikumi_status_2066124282678464662.json": {
       "status": "done",
@@ -48391,7 +48582,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260614120002_twitter_com_huihui_mikumi_status_2066128528266158569.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48400,7 +48591,7 @@
           "https://pbs.twimg.com/profile_images/1246423798997385217/guOTONmj_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260614121000_twitter_com_huihui_mikumi_status_2066131037663674842.json": {
       "status": "done",
@@ -48415,7 +48606,7 @@
       "last_updated": "2026-06-21T06:54:45"
     },
     "20260614122338_twitter_com_huihui_mikumi_status_2066134468117852323.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48424,7 +48615,7 @@
           "https://pbs.twimg.com/profile_images/2045911444726988800/jaAZ8MW-_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260614122353_twitter_com_huihui_mikumi_status_2066134531724513337.json": {
       "status": "done",
@@ -48439,7 +48630,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260614122421_twitter_com_huihui_mikumi_status_2066134648040947871.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48448,10 +48639,10 @@
           "https://pbs.twimg.com/profile_images/2055711907311677440/xbhkpIrQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260614123350_twitter_com_huihui_mikumi_status_2066137035916914794.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48460,7 +48651,7 @@
           "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:39"
     },
     "20260614123420_twitter_com_huihui_mikumi_status_2066137161213354423.json": {
       "status": "done",
@@ -48487,7 +48678,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260614183534_twitter_com_huihui_mikumi_status_2066228067761299616.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48496,10 +48687,10 @@
           "https://pbs.twimg.com/profile_images/2048025947534970880/5GYLb6Wx_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260614183601_twitter_com_huihui_mikumi_status_2066228182110638445.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48508,7 +48699,7 @@
           "https://pbs.twimg.com/profile_images/2039990814466781184/FM_t6Y4w_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:39"
     },
     "20260614183645_twitter_com_huihui_mikumi_status_2066228365993070998.json": {
       "status": "done",
@@ -48523,7 +48714,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260614183702_twitter_com_huihui_mikumi_status_2066228437300531563.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48532,10 +48723,10 @@
           "https://pbs.twimg.com/profile_images/2055369844737146880/2rM6iWiA_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260614183817_twitter_com_huihui_mikumi_status_2066228749667033170.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48544,10 +48735,10 @@
           "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260614183831_twitter_com_huihui_mikumi_status_2066228808706044192.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48556,7 +48747,7 @@
           "https://pbs.twimg.com/profile_images/2022582670551609344/N8wNgNfM_normal.png"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260614183910_twitter_com_huihui_mikumi_status_2066228971168202820.json": {
       "status": "done",
@@ -48571,7 +48762,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260614183942_twitter_com_huihui_mikumi_status_2066229108753973741.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48580,7 +48771,7 @@
           "https://pbs.twimg.com/profile_images/2054845364143009792/AuybDnu-_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260614184008_twitter_com_huihui_mikumi_status_2066229217726185983.json": {
       "status": "done",
@@ -48607,7 +48798,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260614184115_twitter_com_huihui_mikumi_status_2066229498157428832.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48616,10 +48807,10 @@
           "https://pbs.twimg.com/profile_images/2023597600914763782/qTbz2oHi_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260614184140_twitter_com_huihui_mikumi_status_2066229604164219020.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48628,10 +48819,10 @@
           "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:37"
     },
     "20260614184204_twitter_com_huihui_mikumi_status_2066229704391279072.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48640,10 +48831,10 @@
           "https://pbs.twimg.com/profile_images/2065835464842702849/WkHVCDgi_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260614184257_twitter_com_huihui_mikumi_status_2066229923233292592.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48652,10 +48843,10 @@
           "https://pbs.twimg.com/profile_images/1818813109576122368/u-iNi3CI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260614192856_twitter_com_huihui_mikumi_status_2066241497058742623.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48664,10 +48855,10 @@
           "https://pbs.twimg.com/profile_images/2058560624733671424/vwIjRisH_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:43"
     },
     "20260614193444_twitter_com_huihui_mikumi_status_2066242958475853884.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -48678,10 +48869,10 @@
           "https://pbs.twimg.com/profile_images/2064571861527339008/UcsIEUIm_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:55"
+      "last_updated": "2026-06-21T07:38:39"
     },
     "20260614202914_twitter_com_huihui_mikumi_status_2066256671203332512.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48690,10 +48881,10 @@
           "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:37"
     },
     "20260614203908_twitter_com_huihui_mikumi_status_2066259161609089346.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48702,10 +48893,10 @@
           "https://pbs.twimg.com/profile_images/2054920035580403712/OLpB-21o_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:37"
     },
     "20260614210721_twitter_com_huihui_mikumi_status_2066266262494441559.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48714,7 +48905,7 @@
           "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:38"
     },
     "20260614210943_twitter_com_huihui_mikumi_status_2066266858664394900.json": {
       "status": "done",
@@ -48728,7 +48919,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260614211822_twitter_com_huihui_mikumi_status_2066269035046875464.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48737,10 +48928,10 @@
           "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260614212004_twitter_com_huihui_mikumi_status_2066269466493919393.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKyC-bLbAAAJ_9K.jpg",
@@ -48757,10 +48948,10 @@
           "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260614223653_twitter_com_huihui_mikumi_status_2066288795809644846.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48769,10 +48960,10 @@
           "https://pbs.twimg.com/profile_images/2062423053049688064/lMRRYRyV_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260614223820_twitter_com_huihui_mikumi_status_2066289160164659309.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48792,10 +48983,10 @@
           "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:43"
     },
     "20260615033959_twitter_com_huihui_mikumi_status_2066365072675672420.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48804,7 +48995,7 @@
           "https://pbs.twimg.com/profile_images/2050419719606509568/QmnCC5Ky_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:37"
     },
     "20260615034305_twitter_com_huihui_mikumi_status_2066365855219478997.json": {
       "status": "done",
@@ -48831,7 +49022,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260615045750_twitter_com_huihui_mikumi_status_2066384666874253567.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48840,7 +49031,7 @@
           "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260615062654_twitter_com_huihui_mikumi_status_2066407079762649299.json": {
       "status": "done",
@@ -48891,7 +49082,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260615073238_twitter_com_huihui_mikumi_status_2066423621241975164.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK1gay_aAAAWNUs.jpg"
@@ -48902,7 +49093,7 @@
           "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:36"
     },
     "20260615073727_twitter_com_huihui_mikumi_status_2066424832951288233.json": {
       "status": "done",
@@ -49055,7 +49246,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617060941_twitter_com_huihui_mikumi_status_2067127521402052740.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49065,7 +49256,7 @@
           "https://pbs.twimg.com/profile_images/2024886279624949763/wce6F8Au_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:40"
     },
     "20260617062430_twitter_com_huihui_mikumi_status_2067131250926915824.json": {
       "status": "done",
@@ -49091,7 +49282,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617063751_twitter_com_huihui_mikumi_status_2067134612934119687.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49101,10 +49292,10 @@
           "https://pbs.twimg.com/profile_images/2025864263219482624/yDI_0_6Z_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:47"
     },
     "20260617070325_twitter_com_huihui_mikumi_status_2067141046497427676.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49113,7 +49304,7 @@
           "https://pbs.twimg.com/profile_images/2060680321486786561/7zfGsuJv_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260617070616_twitter_com_huihui_mikumi_status_2067141761089368288.json": {
       "status": "done",
@@ -49128,7 +49319,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617070850_twitter_com_huihui_mikumi_status_2067142407632957469.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49137,10 +49328,10 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260617071025_twitter_com_huihui_mikumi_status_2067142808495128974.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49149,10 +49340,10 @@
           "https://pbs.twimg.com/profile_images/2066688724407382016/EWwlDVO3_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:44"
     },
     "20260617074454_twitter_com_huihui_mikumi_status_2067151483083305371.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49161,7 +49352,7 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260617080932_twitter_com_huihui_mikumi_status_2067157684101816567.json": {
       "status": "done",
@@ -49245,7 +49436,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617112628_twitter_com_huihui_mikumi_status_2067207243695849869.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49254,7 +49445,7 @@
           "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:47"
     },
     "20260617112814_twitter_com_huihui_mikumi_status_2067207689168642535.json": {
       "status": "done",
@@ -49299,7 +49490,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617113250_twitter_com_huihui_mikumi_status_2067208846842712471.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49308,10 +49499,10 @@
           "https://pbs.twimg.com/profile_images/2064241321049788416/o-u9NAok_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:43"
     },
     "20260617120423_twitter_com_huihui_mikumi_status_2067216785993306571.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49320,10 +49511,10 @@
           "https://pbs.twimg.com/profile_images/2062423053049688064/lMRRYRyV_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260617120518_twitter_com_huihui_mikumi_status_2067217018231877664.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49332,10 +49523,10 @@
           "https://pbs.twimg.com/profile_images/2052019204686323713/TEGdNn2e_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:44"
     },
     "20260617120532_twitter_com_huihui_mikumi_status_2067217076285268407.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49344,10 +49535,10 @@
           "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260617120609_twitter_com_huihui_mikumi_status_2067217231134777709.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49356,7 +49547,7 @@
           "https://pbs.twimg.com/profile_images/2052310473853538304/-IUwMBGn_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260617120640_twitter_com_huihui_mikumi_status_2067217360646508972.json": {
       "status": "done",
@@ -49383,7 +49574,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617123648_twitter_com_huihui_mikumi_status_2067224944740810793.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49393,10 +49584,10 @@
           "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260617124456_twitter_com_huihui_mikumi_status_2067226990407733590.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLA2BlhbUAASrLe.jpg"
@@ -49407,7 +49598,7 @@
           "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260617124648_twitter_com_huihui_mikumi_status_2067227462048821335.json": {
       "status": "done",
@@ -49421,7 +49612,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617125137_twitter_com_huihui_mikumi_status_2067228671149322603.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49430,10 +49621,10 @@
           "https://pbs.twimg.com/profile_images/1824319614157029376/S0RfkneQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260617125220_twitter_com_huihui_mikumi_status_2067228852338999558.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HK-sNg-acAEQGM0.jpg"
@@ -49444,7 +49635,7 @@
           "https://pbs.twimg.com/profile_images/2059163429152456704/9s9utRjd_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260617131850_twitter_com_huihui_mikumi_status_2067235523899609248.json": {
       "status": "done",
@@ -49459,7 +49650,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617132015_twitter_com_huihui_mikumi_status_2067235879857652162.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49468,7 +49659,7 @@
           "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260617132410_twitter_com_huihui_mikumi_status_2067236865296753018.json": {
       "status": "done",
@@ -49483,7 +49674,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260617134335_twitter_com_huihui_mikumi_status_2067241752545870018.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49492,10 +49683,10 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260618003936_twitter_com_huihui_mikumi_status_2067406840682647699.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49504,10 +49695,10 @@
           "https://pbs.twimg.com/profile_images/2062484206966689792/TXDkRMTF_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:44"
     },
     "20260618004202_twitter_com_huihui_mikumi_status_2067407455945146844.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49516,7 +49707,7 @@
           "https://pbs.twimg.com/profile_images/1902656992520589313/LNlRXmko_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260618005048_twitter_com_huihui_mikumi_status_2067409660345528349.json": {
       "status": "done",
@@ -49530,7 +49721,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618015925_twitter_com_huihui_mikumi_status_2067426930031468867.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49539,7 +49730,7 @@
           "https://pbs.twimg.com/profile_images/1896558797088579584/3HgdZhPl_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260618023544_twitter_com_huihui_mikumi_status_2067436068514001082.json": {
       "status": "done",
@@ -49566,7 +49757,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618030536_twitter_com_huihui_mikumi_status_2067443583003836585.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49575,10 +49766,10 @@
           "https://pbs.twimg.com/profile_images/1891956482796814337/4ik8Ta4Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260618031026_twitter_com_huihui_mikumi_status_2067444800778080338.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49587,7 +49778,7 @@
           "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260618031130_twitter_com_huihui_mikumi_status_2067445067552596171.json": {
       "status": "done",
@@ -49651,7 +49842,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618041435_twitter_com_huihui_mikumi_status_2067460946000589178.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49660,10 +49851,10 @@
           "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260618041845_twitter_com_huihui_mikumi_status_2067461992219332939.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49672,10 +49863,10 @@
           "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260618042113_twitter_com_huihui_mikumi_status_2067462615744598294.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49685,7 +49876,7 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260618042228_twitter_com_huihui_mikumi_status_2067462927133938137.json": {
       "status": "done",
@@ -49712,7 +49903,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618092121_twitter_com_huihui_mikumi_status_2067538147047825594.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -49723,7 +49914,7 @@
           "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:55"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260618094146_twitter_com_huihui_mikumi_status_2067543281274413460.json": {
       "status": "done",
@@ -49740,7 +49931,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618094515_twitter_com_huihui_mikumi_status_2067544158747902002.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49749,10 +49940,10 @@
           "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260618095340_twitter_com_huihui_mikumi_status_2067546278104609111.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49761,7 +49952,7 @@
           "https://pbs.twimg.com/profile_images/2066382638135566336/1RC9SQlx_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260618100509_twitter_com_huihui_mikumi_status_2067549167514485221.json": {
       "status": "done",
@@ -49787,7 +49978,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618115039_twitter_com_huihui_mikumi_status_2067575719073644793.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49796,10 +49987,10 @@
           "https://pbs.twimg.com/profile_images/1867142308816420865/O8s01cWE_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260618121520_twitter_com_huihui_mikumi_status_2067581931085299806.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLF19ATbsAAjhED.jpg"
@@ -49810,7 +50001,7 @@
           "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260618122449_twitter_com_huihui_mikumi_status_2067584315316375693.json": {
       "status": "done",
@@ -49848,7 +50039,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260618191619_twitter_com_huihui_mikumi_status_2067687874309619935.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLHEwIoaMAIqQ8f.jpg"
@@ -49859,10 +50050,10 @@
           "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260618192345_twitter_com_huihui_mikumi_status_2067689745661202445.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49871,7 +50062,7 @@
           "https://pbs.twimg.com/profile_images/2065411345730932736/ve5nAC8b_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:46"
     },
     "20260619024518_twitter_com_huihui_mikumi_status_2067800864618848261.json": {
       "status": "done",
@@ -49897,7 +50088,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260619041131_twitter_com_huihui_mikumi_status_2067822562554552347.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49906,7 +50097,7 @@
           "https://pbs.twimg.com/profile_images/2020387116606451715/n8_EYiuk_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:45"
     },
     "20260619044043_twitter_com_huihui_mikumi_status_2067829908005593269.json": {
       "status": "done",
@@ -49932,7 +50123,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260619075331_twitter_com_huihui_mikumi_status_2067878429513613610.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49941,10 +50132,10 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260619075537_twitter_com_huihui_mikumi_status_2067878956335006057.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49953,10 +50144,10 @@
           "https://pbs.twimg.com/profile_images/2067843965739847680/Osf-j3D4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260619080156_twitter_com_huihui_mikumi_status_2067880546102059361.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -49965,10 +50156,10 @@
           "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:35"
     },
     "20260619085444_twitter_com_huihui_mikumi_status_2067893833430687921.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HLKhe_zbUAAt7VA.jpg"
@@ -49979,7 +50170,7 @@
           "https://pbs.twimg.com/profile_images/2067770977258471424/8pvO2M2T_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:48"
     },
     "20260619105618_twitter_com_huihui_mikumi_status_2067924427032113222.json": {
       "status": "done",
@@ -50018,7 +50209,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260619120202_twitter_com_huihui_mikumi_status_2067940969702735937.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -50027,7 +50218,7 @@
           "https://pbs.twimg.com/profile_images/2067843965739847680/Osf-j3D4_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:42"
     },
     "20260619181154_twitter_com_huihui_mikumi_status_2068034051039203357.json": {
       "status": "done",
@@ -50075,7 +50266,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260620025747_twitter_com_huihui_mikumi_status_2068166393552634360.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -50084,7 +50275,7 @@
           "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:41"
     },
     "20260620040553_twitter_com_huihui_mikumi_status_2068183533076771183.json": {
       "status": "done",
@@ -50098,7 +50289,7 @@
       "last_updated": "2026-06-21T06:54:46"
     },
     "20260620091306_twitter_com_huihui_mikumi_status_2068260844786651584.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -50107,10 +50298,10 @@
           "https://pbs.twimg.com/profile_images/2067422764894715904/I_FZEd-b_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:48"
     },
     "20260620091312_twitter_com_huihui_mikumi_status_2068260870053113942.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -50119,10 +50310,10 @@
           "https://pbs.twimg.com/profile_images/2067476406955606016/ORRcNxYh_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:49"
     },
     "20260620122415_twitter_com_huihui_mikumi_status_2068308951427670059.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -50131,7 +50322,7 @@
           "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg"
         ]
       },
-      "last_updated": "2026-06-21T07:16:54"
+      "last_updated": "2026-06-21T07:38:33"
     }
   }
 }

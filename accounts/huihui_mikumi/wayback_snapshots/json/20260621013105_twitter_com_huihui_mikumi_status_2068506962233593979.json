@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2068501531104833579",
+    "created_at": "2026-06-21T01:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068506962233593979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068506962233593979",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068501531104833579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 可爱可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1721,
+        "media_key": "3_2068501511374770176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTLKkraEAA3weN.jpg",
+        "width": 1175
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068501496908623872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTLJuyaMAA2Dyt.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068501497428787200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTLJwubQAALsWg.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 26748,
+        "height": 960,
+        "media_key": "7_2068501509743288320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068501509743288320/pu/img/vkxqMG5NMG43XfBY.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068501509743288320/pu/vid/avc1/320x426/OAQwH9baBNZ5kKZE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068501509743288320/pu/vid/avc1/480x640/ZB4KdF5GWlIJGmrk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068501509743288320/pu/vid/avc1/720x960/iwSv_ppW_yk87FTx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068501509743288320/pu/pl/P-GybZrHo1rtGYM7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2068501531104833579",
+        "created_at": "2026-06-21T01:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068506962233593979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068506962233593979",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068501531104833579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 可爱可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068501511374770176",
+            "3_2068501496908623872",
+            "3_2068501497428787200",
+            "7_2068501509743288320"
+          ]
+        },
+        "author_id": "1426207565575192577",
+        "conversation_id": "2068501531104833579",
+        "created_at": "2026-06-21T01:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068501531104833579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1czg0WimO",
+              "end": 27,
+              "expanded_url": "https://x.com/Lainyer051230/status/2068501531104833579/video/1",
+              "media_key": "3_2068501511374770176",
+              "start": 4,
+              "url": "https://t.co/c1czg0WimO"
+            },
+            {
+              "display_url": "pic.x.com/c1czg0WimO",
+              "end": 27,
+              "expanded_url": "https://x.com/Lainyer051230/status/2068501531104833579/video/1",
+              "media_key": "3_2068501496908623872",
+              "start": 4,
+              "url": "https://t.co/c1czg0WimO"
+            },
+            {
+              "display_url": "pic.x.com/c1czg0WimO",
+              "end": 27,
+              "expanded_url": "https://x.com/Lainyer051230/status/2068501531104833579/video/1",
+              "media_key": "3_2068501497428787200",
+              "start": 4,
+              "url": "https://t.co/c1czg0WimO"
+            },
+            {
+              "display_url": "pic.x.com/c1czg0WimO",
+              "end": 27,
+              "expanded_url": "https://x.com/Lainyer051230/status/2068501531104833579/video/1",
+              "media_key": "7_2068501509743288320",
+              "start": 4,
+              "url": "https://t.co/c1czg0WimO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068501531104833579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安安～ https://t.co/c1czg0WimO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhuhai, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  113.56778,
+                  22.27694
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhuhai",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 主人@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 866,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\nMtF🏳️‍⚧️（無證含糖｜HRT🍥：2026.5.1｜\nShe/Her｜无不良嗜好｜有对象｜偶尔分享下照片还有生活之类的～｜我的吉祥物推号😋@lovhh2005 ｜可爱小唯唯： @weiweisama1220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "lovhh2005"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "weiweisama1220"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mawuneko",
+                "end": 23,
+                "expanded_url": "http://t.me/mawuneko",
+                "start": 0,
+                "url": "https://t.co/sGyhuZah47"
+              }
+            ]
+          }
+        },
+        "id": "1426207565575192577",
+        "location": "Johor, Malaysia",
+        "name": "千缘sama🍥",
+        "pinned_tweet_id": "2065607326548287712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053778111582584832/F55FNMQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 268,
+          "like_count": 19998,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2522
+        },
+        "url": "https://t.co/sGyhuZah47",
+        "username": "Lainyer051230",
+        "verified": true
+      }
+    ]
+  }
+}

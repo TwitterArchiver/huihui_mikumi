@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2071882805097750985",
+    "created_at": "2026-07-01T03:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072155559655321785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866104982858072064",
+          "start": 0,
+          "username": "lolina_nana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072155559655321785",
+    "in_reply_to_user_id": "1866104982858072064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071946851322929580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lolina_nana 当然啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2071882805097750985",
+        "created_at": "2026-07-01T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072155559655321785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866104982858072064",
+              "start": 0,
+              "username": "lolina_nana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072155559655321785",
+        "in_reply_to_user_id": "1866104982858072064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071946851322929580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lolina_nana 当然啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866104982858072064",
+        "conversation_id": "2071882805097750985",
+        "created_at": "2026-06-30T13:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071946851322929580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2071946851322929580",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071936524799840529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 这样子算低雌吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 869,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T12:58:02.000Z",
+        "description": "03 木桶饭丨女心丨🍥hrt2026.4.4🍥丨169cm/103斤丨人在广州丨不会伪音私密马赛丨接线下丨🚪30丨口令红包过好友Q377675306丨\n宝宝互fo吗宝宝互推吗😘\n防迷路小号@lolina_nana2\n群https://t.co/T9V1cIzw5s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "lolina_nana2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/nanadantiaojin…",
+                "end": 132,
+                "expanded_url": "https://t.me/nanadantiaojingjichang",
+                "start": 109,
+                "url": "https://t.co/T9V1cIzw5s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lolina_nana2",
+                "end": 23,
+                "expanded_url": "http://t.me/lolina_nana2",
+                "start": 0,
+                "url": "https://t.co/Bovo7U7K2H"
+              }
+            ]
+          }
+        },
+        "id": "1866104982858072064",
+        "location": "广州",
+        "name": "nana",
+        "pinned_tweet_id": "2060984568815988927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059544705285914624/HnPaSjpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 44,
+          "like_count": 35,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/Bovo7U7K2H",
+        "username": "lolina_nana",
+        "verified": false
+      }
+    ]
+  }
+}

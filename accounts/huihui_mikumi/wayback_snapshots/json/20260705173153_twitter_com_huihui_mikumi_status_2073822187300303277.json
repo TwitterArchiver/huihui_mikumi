@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2073803762305839329",
+    "created_at": "2026-07-05T17:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073822187300303277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055515632146472960",
+          "start": 0,
+          "username": "Feizhu241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073822187300303277",
+    "in_reply_to_user_id": "2055515632146472960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073803762305839329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Feizhu241 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2073803762305839329",
+        "created_at": "2026-07-05T17:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073822187300303277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055515632146472960",
+              "start": 0,
+              "username": "Feizhu241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073822187300303277",
+        "in_reply_to_user_id": "2055515632146472960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073803762305839329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feizhu241 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055515632146472960",
+        "conversation_id": "2073803762305839329",
+        "created_at": "2026-07-05T16:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073803762305839329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073803762305839329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Still 200 followers short! \r👊📈\nJust followed 100 accounts today!🤝\nIf you’re also grinding hard to build your X account and want to grow together, feel free to follow me — I’ll follow you back right away! I reply to every follow (might be a little slow sometimes because of the limits, but I promise I’ll get to you!)😎\nBig welcome to fellow enthusiasts in AI, Finance, Internet, Programming, Vibecoding, Economics and related fields! \n\n💬Let’s interact more and level up together Quick heads-up though — I usually skip these three types of accounts (sorry in advance):\n• Messy/low-quality or vulgar content\n• Heavy political stuff\n• Anything involving porn, gambling or drugs\nSuper excited to connect with quality creators and like-minded people! Let’s grow together! \r🚀🚀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Still 200 followers short! \r👊📈\nJust followed 100 accounts today!🤝\nIf you’re also grinding hard to build your X account and want to grow together, feel free to follow me — I’ll follow you back right away! I reply to every follow (might be a little slow sometimes because of the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 960,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2263
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T05:08:56.000Z",
+        "description": "Personal Agent Dev · Economics·AI Engineer（learning ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inkcraft.cc",
+                "end": 23,
+                "expanded_url": "http://inkcraft.cc",
+                "start": 0,
+                "url": "https://t.co/iU8Jk3s0qN"
+              }
+            ]
+          }
+        },
+        "id": "2055515632146472960",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "FeiZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070895941754687488/9jiPa6X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 344,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/iU8Jk3s0qN",
+        "username": "Feizhu241",
+        "verified": true
+      }
+    ]
+  }
+}

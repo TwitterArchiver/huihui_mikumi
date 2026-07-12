@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2073252536874897888",
+    "created_at": "2026-07-05T07:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073667992383352981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004938037751652352",
+          "start": 0,
+          "username": "liming_9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073667992383352981",
+    "in_reply_to_user_id": "2004938037751652352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073252536874897888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liming_9999 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2073252536874897888",
+        "created_at": "2026-07-05T07:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073667992383352981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004938037751652352",
+              "start": 0,
+              "username": "liming_9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073667992383352981",
+        "in_reply_to_user_id": "2004938037751652352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073252536874897888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liming_9999 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004938037751652352",
+        "conversation_id": "2073252536874897888",
+        "created_at": "2026-07-04T03:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073252536874897888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "蓝v互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073252536874897888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7322,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 202,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关，不是为了凑数字。\n\n希望认识更多长期输出、有独立思考的人。\n\n一起交流，一起成长。🤝\n#蓝v互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 909,
+          "like_count": 925,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2246
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T15:31:13.000Z",
+        "description": "2018年币圈老韭菜，2025年3月接触合约，亏掉300万，现在负债240万。每天面对银行贷款和生活压力，焦虑拉满。我决定在X上真实记录生活、交易反思和翻身过程。只分享真实心情与教训，欢迎一起走过这段低谷！",
+        "id": "2004938037751652352",
+        "name": "黎明liming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005098542323695618/iU6poAl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 400,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "liming_9999",
+        "verified": true
+      }
+    ]
+  }
+}

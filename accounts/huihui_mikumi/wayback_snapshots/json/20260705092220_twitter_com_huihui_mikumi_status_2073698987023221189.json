@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073511994288898048"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2073698987023221189",
+    "created_at": "2026-07-05T09:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073698987023221189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ptb2iAkrgL",
+          "end": 37,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2073698987023221189/photo/1",
+          "media_key": "3_2073511994288898048",
+          "start": 14,
+          "url": "https://t.co/ptb2iAkrgL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073698987023221189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只上周六是不是给5000？ https://t.co/ptb2iAkrgL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2073511994288898048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaYLEEaAAA_Hgc.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073511994288898048"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2073698987023221189",
+        "created_at": "2026-07-05T09:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073698987023221189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptb2iAkrgL",
+              "end": 37,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2073698987023221189/photo/1",
+              "media_key": "3_2073511994288898048",
+              "start": 14,
+              "url": "https://t.co/ptb2iAkrgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073698987023221189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只上周六是不是给5000？ https://t.co/ptb2iAkrgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 922,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2248
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

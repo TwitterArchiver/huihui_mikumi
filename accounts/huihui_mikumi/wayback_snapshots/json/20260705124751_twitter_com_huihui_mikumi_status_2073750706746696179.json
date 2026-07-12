@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2073666824974246308",
+    "created_at": "2026-07-05T12:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073750706746696179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1907785516239695872",
+          "start": 0,
+          "username": "yintian177417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073750706746696179",
+    "in_reply_to_user_id": "1907785516239695872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073748317016826334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yintian177417 嗷嗷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2073666824974246308",
+        "created_at": "2026-07-05T12:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073750706746696179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1907785516239695872",
+              "start": 0,
+              "username": "yintian177417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073750706746696179",
+        "in_reply_to_user_id": "1907785516239695872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073748317016826334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yintian177417 嗷嗷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907785516239695872",
+        "conversation_id": "2073666824974246308",
+        "created_at": "2026-07-05T12:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073748317016826334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073748317016826334",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073666824974246308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 之前有家长问新闻学专业好不好，张雪峰的回答是：如果我的孩子报新闻学，我会把他打晕换更好的专业\n但是现在张雪峰去陪牢大了，新闻学依然好好的，甚至还能拿张雪峰去世的事炒作一波"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 940,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2252
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T13:21:36.000Z",
+        "description": "普通人，学生，社恐\n｜生产日期 08.11.04\n｜hrt 26.6.14\n｜家长有时管有时不管党？\n｜每天除了写日记和乱逛在推上啥也不干\n｜爱人@BunnySophie133\n｜总之一切很快都会好起来喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "BunnySophie133"
+              }
+            ]
+          }
+        },
+        "id": "1907785516239695872",
+        "name": "织白/Shirohaku🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073382470746263553/F0cqwWjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 48,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "yintian177417",
+        "verified": false
+      }
+    ]
+  }
+}

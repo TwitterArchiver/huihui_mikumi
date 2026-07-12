@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2075187025297412145",
+    "created_at": "2026-07-09T12:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075188318984454229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075188318984454229",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075187025297412145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 给我舔舔～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2075187015814090752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyLmJgaEAAKj7N.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2075187025297412145",
+        "created_at": "2026-07-09T12:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075188318984454229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188318984454229",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075187025297412145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 给我舔舔～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075187015814090752"
+          ]
+        },
+        "author_id": "1672078534469369856",
+        "conversation_id": "2075187025297412145",
+        "created_at": "2026-07-09T11:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075187025297412145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "mtf"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "跨性别"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "药娘"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "色普龙"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "木桶饭"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "藏药"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xihnx1cQj",
+              "end": 69,
+              "expanded_url": "https://x.com/csl1027/status/2075187025297412145/photo/1",
+              "media_key": "3_2075187015814090752",
+              "start": 46,
+              "url": "https://t.co/0xihnx1cQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187025297412145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emm…🤔对，我就这么藏药带回家💊\n#mtf #跨性别 #药娘 #色普龙 #木桶饭 #藏药 https://t.co/0xihnx1cQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 1101,
+          "like_count": 976,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 出柜家暴党藏吃药ing | 167cm/44kg | 推魔女伊蕾娜 | 计算机技术宅 | 对象@xk3454 | 记录可爱日常～💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 135,
+                "username": "xk3454"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.clipsule.cn",
+                "end": 23,
+                "expanded_url": "https://me.clipsule.cn/",
+                "start": 0,
+                "url": "https://t.co/VAVAt3H09t"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "location": "江苏 徐州",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2072767475075485805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 26,
+          "like_count": 192,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/VAVAt3H09t",
+        "username": "csl1027",
+        "verified": true
+      }
+    ]
+  }
+}

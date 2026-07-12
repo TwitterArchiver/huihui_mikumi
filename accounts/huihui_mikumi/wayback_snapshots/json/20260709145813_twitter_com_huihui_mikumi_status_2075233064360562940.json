@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2075222927843439093",
+    "created_at": "2026-07-09T14:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075233064360562940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2045224199120191488",
+          "start": 0,
+          "username": "nagis1a"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075233064360562940",
+    "in_reply_to_user_id": "2045224199120191488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075222927843439093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagis1a @grok 还想玩吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2075222927843439093",
+        "created_at": "2026-07-09T14:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075233064360562940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2045224199120191488",
+              "start": 0,
+              "username": "nagis1a"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075233064360562940",
+        "in_reply_to_user_id": "2045224199120191488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075222927843439093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagis1a @grok 还想玩吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045224199120191488",
+        "conversation_id": "2075222927843439093",
+        "created_at": "2026-07-09T14:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075222927843439093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075222927843439093",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 郊狼是什么？好玩的玩具吗，多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 1112,
+          "like_count": 979,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF || 2009 ||  广东 || 糖商\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n联系方式QQ，tg，xchat\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://t.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/Ds2IoXcHq1"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2069033932474163628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 234,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/Ds2IoXcHq1",
+        "username": "nagis1a",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8845976,
+          "following_count": 5,
+          "like_count": 115,
+          "listed_count": 7133,
+          "media_count": 9140139,
+          "tweet_count": 131013495
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

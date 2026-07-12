@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2073792486107910293",
+    "created_at": "2026-07-05T17:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821519915209212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2025846236339900416",
+          "start": 0,
+          "username": "collageboys01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073821519915209212",
+    "in_reply_to_user_id": "2025846236339900416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073792486107910293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@collageboys01 借楼互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2073792408773398528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeXNVbXEAARVZR.png",
+        "width": 501
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2073792486107910293",
+        "created_at": "2026-07-05T17:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821519915209212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2025846236339900416",
+              "start": 0,
+              "username": "collageboys01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821519915209212",
+        "in_reply_to_user_id": "2025846236339900416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073792486107910293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@collageboys01 借楼互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073792408773398528"
+          ]
+        },
+        "author_id": "2025846236339900416",
+        "conversation_id": "2073792486107910293",
+        "created_at": "2026-07-05T15:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073792486107910293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFYZgHTJWw",
+              "end": 125,
+              "expanded_url": "https://x.com/collageboys01/status/2073792486107910293/photo/1",
+              "media_key": "3_2073792408773398528",
+              "start": 102,
+              "url": "https://t.co/JFYZgHTJWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073792486107910293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关最快的不是只发帖等人来。    \n\n而是去看看看互动，再顺着他 们的关注列表一个个点。\n\n这才是好的方法，正在起号的人。\n\n主动一点，涨粉会快很多。\n\n冲击5000蓝V关注，有关必回 #蓝V互关 https://t.co/JFYZgHTJWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 959,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2262
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T08:12:47.000Z",
+        "description": "深度撸毛 & 链上数据爱好者。\n目前在 Web3 实验室搬砖，偶尔分享一点不成熟的财富密码。\n承接项目推广打包",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiguangboys",
+                "end": 23,
+                "expanded_url": "http://t.me/shiguangboys",
+                "start": 0,
+                "url": "https://t.co/35jNJyQPUx"
+              }
+            ]
+          }
+        },
+        "id": "2025846236339900416",
+        "location": "合作DM",
+        "name": "拾光｜预测世界杯就在Gate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862223415025664/NVGxv1qC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56887,
+          "following_count": 5164,
+          "like_count": 19651,
+          "listed_count": 37,
+          "media_count": 270,
+          "tweet_count": 21327
+        },
+        "url": "https://t.co/35jNJyQPUx",
+        "username": "collageboys01",
+        "verified": true
+      }
+    ]
+  }
+}

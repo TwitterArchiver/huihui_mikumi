@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2075058601039929743",
+    "created_at": "2026-07-09T12:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075196806074609732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493620079581298692",
+          "start": 0,
+          "username": "hydrogen_nia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075196806074609732",
+    "in_reply_to_user_id": "1493620079581298692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075058601039929743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hydrogen_nia 好可爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075058590759702528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwWy05a0AA4eCX.jpg",
+        "width": 1168
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2075058590612881408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwWy0WagAAn_d0.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2075058601039929743",
+        "created_at": "2026-07-09T12:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075196806074609732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493620079581298692",
+              "start": 0,
+              "username": "hydrogen_nia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075196806074609732",
+        "in_reply_to_user_id": "1493620079581298692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075058601039929743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hydrogen_nia 好可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075058590759702528",
+            "3_2075058590612881408"
+          ]
+        },
+        "author_id": "1493620079581298692",
+        "conversation_id": "2075058601039929743",
+        "created_at": "2026-07-09T03:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075058601039929743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8n5aiZBX3",
+              "end": 48,
+              "expanded_url": "https://x.com/hydrogen_nia/status/2075058601039929743/photo/1",
+              "media_key": "3_2075058590759702528",
+              "start": 25,
+              "url": "https://t.co/B8n5aiZBX3"
+            },
+            {
+              "display_url": "pic.x.com/B8n5aiZBX3",
+              "end": 48,
+              "expanded_url": "https://x.com/hydrogen_nia/status/2075058601039929743/photo/1",
+              "media_key": "3_2075058590612881408",
+              "start": 25,
+              "url": "https://t.co/B8n5aiZBX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075058601039929743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1327,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家喜欢白丝还是黑丝呢～\n#男娘 #伪娘 #4i https://t.co/B8n5aiZBX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 1104,
+          "like_count": 979,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2360
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T16:16:05.000Z",
+        "description": "INFJ-T / 困 / 距离黎明还有三秒钟 / 究极舞萌吃 / chemistry / 东方厨 / 我的宝宝@Yuhane_ZZZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Yuhane_ZZZ"
+              }
+            ]
+          }
+        },
+        "id": "1493620079581298692",
+        "name": "雨柔yurki _official🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029209588751605760/42geeMk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 373,
+          "like_count": 6309,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 2465
+        },
+        "url": "",
+        "username": "hydrogen_nia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2075465290578563095",
+    "created_at": "2026-07-10T12:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075551444997218415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049825426441433090",
+          "start": 0,
+          "username": "AirisTendouX2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075551444997218415",
+    "in_reply_to_user_id": "2049825426441433090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075545651988066613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirisTendouX2K 啊啊啊～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2075465290578563095",
+        "created_at": "2026-07-10T12:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075551444997218415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049825426441433090",
+              "start": 0,
+              "username": "AirisTendouX2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075551444997218415",
+        "in_reply_to_user_id": "2049825426441433090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075545651988066613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirisTendouX2K 啊啊啊～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049825426441433090",
+        "conversation_id": "2075465290578563095",
+        "created_at": "2026-07-10T11:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075545651988066613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075545651988066613",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075465290578563095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 咬....吸..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 1122,
+          "like_count": 998,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 2393
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od（化掉），但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️（2026/5/31炸柜），以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "pinned_tweet_id": "2068404202834202670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 174,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "AirisTendouX2K",
+        "verified": true
+      }
+    ]
+  }
+}

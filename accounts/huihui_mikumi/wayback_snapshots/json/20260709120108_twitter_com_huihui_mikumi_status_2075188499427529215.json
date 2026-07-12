@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2075130671564214501",
+    "created_at": "2026-07-09T12:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075188499427529215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075188499427529215",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075130671564214501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2518,
+        "media_key": "3_2075130658444455936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxYVt8asAA2Lhh.jpg",
+        "width": 3070
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2075130658985590784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxYVv9bwAA51MS.jpg",
+        "width": 1385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2075130671564214501",
+        "created_at": "2026-07-09T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075188499427529215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075188499427529215",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075130671564214501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075130658444455936",
+            "3_2075130658985590784"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2075130671564214501",
+        "created_at": "2026-07-09T08:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075130671564214501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGGDuYV5Da",
+              "end": 32,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075130671564214501/photo/1",
+              "media_key": "3_2075130658444455936",
+              "start": 9,
+              "url": "https://t.co/iGGDuYV5Da"
+            },
+            {
+              "display_url": "pic.x.com/iGGDuYV5Da",
+              "end": 32,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075130671564214501/photo/1",
+              "media_key": "3_2075130658985590784",
+              "start": 9,
+              "url": "https://t.co/iGGDuYV5Da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075130671564214501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1232,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从这样到那样…… https://t.co/iGGDuYV5Da"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 1101,
+          "like_count": 976,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2353
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZylfPF｜Q:3755457720｜我的tg:https://t.co/1e7qTaQHLq｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 59,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 36,
+                "url": "https://t.co/kXreZylfPF"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 101,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 78,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 1064,
+          "like_count": 8915,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

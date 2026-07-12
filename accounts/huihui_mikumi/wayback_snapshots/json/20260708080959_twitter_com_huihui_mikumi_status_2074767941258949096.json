@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2074425441247760826",
+    "created_at": "2026-07-08T08:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074767941258949096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1176799767726194688",
+          "start": 0,
+          "username": "KanbaraAkihit18"
+        },
+        {
+          "end": 32,
+          "id": "1700326769201754112",
+          "start": 17,
+          "username": "TogawaSakiko__"
+        },
+        {
+          "end": 46,
+          "id": "1587787644419072000",
+          "start": 33,
+          "username": "AmeHoshimiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074767941258949096",
+    "in_reply_to_user_id": "1176799767726194688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074761804237140051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanbaraAkihit18 @TogawaSakiko__ @AmeHoshimiya 便宜很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2074425441247760826",
+        "created_at": "2026-07-08T08:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074767941258949096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1176799767726194688",
+              "start": 0,
+              "username": "KanbaraAkihit18"
+            },
+            {
+              "end": 32,
+              "id": "1700326769201754112",
+              "start": 17,
+              "username": "TogawaSakiko__"
+            },
+            {
+              "end": 46,
+              "id": "1587787644419072000",
+              "start": 33,
+              "username": "AmeHoshimiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074767941258949096",
+        "in_reply_to_user_id": "1176799767726194688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074761804237140051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanbaraAkihit18 @TogawaSakiko__ @AmeHoshimiya 便宜很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176799767726194688",
+        "conversation_id": "2074425441247760826",
+        "created_at": "2026-07-08T07:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074761804237140051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700326769201754112",
+              "start": 0,
+              "username": "TogawaSakiko__"
+            },
+            {
+              "end": 29,
+              "id": "1587787644419072000",
+              "start": 16,
+              "username": "AmeHoshimiya"
+            },
+            {
+              "end": 44,
+              "id": "1598557374046179328",
+              "start": 30,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074761804237140051",
+        "in_reply_to_user_id": "1700326769201754112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074491781908140500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TogawaSakiko__ @AmeHoshimiya @huihui_mikumi 凝胶的价格比口服药物贵很多吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "nagis1a"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1078,
+          "like_count": 952,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2323
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-25T10:07:02.000Z",
+        "description": "决意为女装付出一切，每天不女装一次不舒服。将自己的一切心血全部投入到女装cos中，甚至不惜减肥。视女装为日常生活中最重要的东西，所学的一切其他技能都是为了更好地为女装服务。是一个只能女装，只想女装的女装少年。喜欢的东西是女装，特技是女装，兴趣是女装，唯一的真爱是女装play",
+        "id": "1176799767726194688",
+        "location": "Shanghai, People's Republic of",
+        "name": "涂山软软",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069112942260584448/3ydVesns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 177,
+          "like_count": 476,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "KanbaraAkihit18",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T01:54:40.000Z",
+        "description": "日常 🫧｜coding 💻｜二次元 ✨｜MTF questioning 🏳️‍⚧️｜线下社恐",
+        "id": "1700326769201754112",
+        "name": "Saki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072341241119817728/375JN5N1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "TogawaSakiko__",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:44:18.000Z",
+        "description": "MtF 持大證含糖\nhrt|2019/03/27|大家都要好好活著呦喵\n寶貝: @moexi_neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "moexi_neko"
+              }
+            ]
+          }
+        },
+        "id": "1587787644419072000",
+        "location": "taiwan",
+        "name": "Hoshimiya ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062666398594441216/31qJh3gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 207,
+          "like_count": 5096,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "AmeHoshimiya",
+        "verified": false
+      }
+    ]
+  }
+}

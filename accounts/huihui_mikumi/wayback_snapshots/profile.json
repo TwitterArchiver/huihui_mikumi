@@ -1,18 +1,29 @@
 {
-  "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+  "name": "惠惠🍥🏳️‍⚧️（糖商）",
   "username": "@huihui_mikumi",
-  "bio": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo",
-  "location": "广州海珠",
+  "bio": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+  "location": "广东韶关",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "bio_entities": {
     "mentions": [
       {
-        "end": 120,
-        "start": 110,
-        "username": "kokolovss"
+        "end": 86,
+        "start": 75,
+        "username": "Air_Yukiha"
+      },
+      {
+        "end": 97,
+        "start": 89,
+        "username": "nagis1a"
+      },
+      {
+        "end": 110,
+        "start": 102,
+        "username": "yuerQwQ"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg"
 }

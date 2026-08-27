@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2090423725824868374",
+    "created_at": "2026-08-20T15:16:04.000Z",
+    "display_text_range": [
+      26,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090457849298333997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 25,
+          "id": "2087466297722560512",
+          "start": 14,
+          "username": "Mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090457849298333997",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090449235154247682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 @Mwdxj29477 你是不是有什么瞒着我没说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2090423725824868374",
+        "created_at": "2026-08-20T15:16:04.000Z",
+        "display_text_range": [
+          26,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090457849298333997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 25,
+              "id": "2087466297722560512",
+              "start": 14,
+              "username": "Mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090457849298333997",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090449235154247682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @Mwdxj29477 你是不是有什么瞒着我没说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2090423725824868374",
+        "created_at": "2026-08-20T14:41:50.000Z",
+        "display_text_range": [
+          12,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090449235154247682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087466297722560512",
+              "start": 0,
+              "username": "Mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090449235154247682",
+        "in_reply_to_user_id": "2087466297722560512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090423725824868374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mwdxj29477 骗你的，麦克林也可以\n然而如果你都知道这个渠道了还买盐这种垃圾玩意那我只能说你有点……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "yuerQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090457849298333997",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1154,
+          "like_count": 1577,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 3172
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "id": "2041449281677045760",
+        "is_identity_verified": false,
+        "location": "北京市西城区西华门大街28号",
+        "most_recent_tweet_id": "2090449235154247682",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449281677045760/1775555226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1034,
+          "like_count": 2530,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3904
+        },
+        "url": "",
+        "username": "Sorcerer1311",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-12T09:10:31.000Z",
+        "description": "|MtX?🏳️‍⚧️| Hrt01.28.2026|初二牲|\n|年龄党+家长反对党|已出扭转\n|已炸柜|oder💊|生产日期:11.13.2011\n|161cm61kg|有点笨笨的🥺\n|INFP-T | 重度社恐|希望不登校\n|渴望在家里躺尸|同类互fo喵~\n|@PriseTwinkle|http://t.co/pSlJYI21uo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 131,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn2",
+                "end": 167,
+                "expanded_url": "http://NGL.Link/unkxyn2",
+                "start": 145,
+                "url": "http://t.co/pSlJYI21uo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/unkxyn",
+                "end": 23,
+                "expanded_url": "http://telegram.me/unkxyn",
+                "start": 0,
+                "url": "https://t.co/WTwGTpr9Em"
+              }
+            ]
+          }
+        },
+        "id": "2087466297722560512",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2090423725824868374",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087466297722560512/1786544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088511359164272640/_GSM6QJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 123,
+          "like_count": 126,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/WTwGTpr9Em",
+        "username": "Mwdxj29477",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

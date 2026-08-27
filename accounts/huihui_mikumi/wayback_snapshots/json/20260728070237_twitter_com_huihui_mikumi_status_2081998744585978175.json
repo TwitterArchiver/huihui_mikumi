@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081976525772230868",
+    "created_at": "2026-07-28T07:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081998744585978175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035527946354716672",
+          "start": 0,
+          "username": "Amatsukiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081998744585978175",
+    "in_reply_to_user_id": "2035527946354716672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081976525772230868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukiqwq 加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081976508214857728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSqmnra0AAtjYO.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081976525772230868",
+        "created_at": "2026-07-28T07:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081998744585978175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035527946354716672",
+              "start": 0,
+              "username": "Amatsukiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081998744585978175",
+        "in_reply_to_user_id": "2035527946354716672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081976525772230868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukiqwq 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081976508214857728"
+          ]
+        },
+        "author_id": "2035527946354716672",
+        "conversation_id": "2081976525772230868",
+        "created_at": "2026-07-28T05:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081976525772230868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvDrc06GHj",
+              "end": 29,
+              "expanded_url": "https://x.com/Amatsukiqwq/status/2081976525772230868/photo/1",
+              "media_key": "3_2081976508214857728",
+              "start": 6,
+              "url": "https://t.co/dvDrc06GHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081976525772230868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還差一個！ https://t.co/dvDrc06GHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1449,
+          "like_count": 1299,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "不想写简介……总之大家可以来找我聊天交朋友\n同类互fo\n加我discord好友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/fM2eM59Q",
+                "end": 23,
+                "expanded_url": "https://discord.gg/fM2eM59Q",
+                "start": 0,
+                "url": "https://t.co/nK2ohygWD0"
+              }
+            ]
+          }
+        },
+        "id": "2035527946354716672",
+        "location": "重慶",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 328,
+          "like_count": 3180,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/nK2ohygWD0",
+        "username": "Amatsukiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

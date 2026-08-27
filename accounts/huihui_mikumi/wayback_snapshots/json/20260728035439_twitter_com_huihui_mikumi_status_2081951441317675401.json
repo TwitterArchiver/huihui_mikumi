@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081865739502592345",
+    "created_at": "2026-07-28T03:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081951441317675401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081951441317675401",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081865739502592345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya 厉害咩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081865731122311168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORF2i2asAA6RIe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081865739502592345",
+        "created_at": "2026-07-28T03:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081951441317675401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081951441317675401",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081865739502592345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya 厉害咩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081865731122311168"
+          ]
+        },
+        "author_id": "1667798970700283904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081865739502592345",
+        "created_at": "2026-07-27T22:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081865739502592345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pb87ach8cz",
+              "end": 39,
+              "expanded_url": "https://x.com/Sokei_ko_nya/status/2081865739502592345/photo/1",
+              "media_key": "3_2081865731122311168",
+              "start": 16,
+              "url": "https://t.co/pb87ach8cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081865739502592345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凌晨走了一圈西湖，16.8km https://t.co/pb87ach8cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 1449,
+          "like_count": 1294,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / mtf🏳️‍⚧️(小证: 26.4.1, hrt: 26.2.25-3.2,已炸柜)/（不建政/No Politics）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1404,
+          "like_count": 80635,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 3560
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": true
+      }
+    ]
+  }
+}

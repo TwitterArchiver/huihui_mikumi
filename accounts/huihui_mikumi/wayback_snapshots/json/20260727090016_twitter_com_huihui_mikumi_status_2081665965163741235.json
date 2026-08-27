@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081601167378067509",
+    "created_at": "2026-07-27T09:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081665965163741235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081665965163741235",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081601167378067509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081601154862223360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONVOLebEAAx4mP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081601167378067509",
+        "created_at": "2026-07-27T09:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081665965163741235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081665965163741235",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081601167378067509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081601154862223360"
+          ]
+        },
+        "author_id": "2070544483977232389",
+        "conversation_id": "2081601167378067509",
+        "created_at": "2026-07-27T04:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081601167378067509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBY3AflfMr",
+              "end": 174,
+              "expanded_url": "https://x.com/AkanoQWQ/status/2081601167378067509/photo/1",
+              "media_key": "3_2081601154862223360",
+              "start": 151,
+              "url": "https://t.co/jBY3AflfMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081601167378067509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Akano照镜子：\n这男的好丑😰咱真可爱🥰这男的好丑😰咱真可爱🥰这男的好丑😰咱真可爱🥰这男的好丑😰咱真可爱🥰\n真的很随机（？）感觉30％的时间会有点自恋但是70％的时候又会有些容貌焦虑\n认真客观说的话认为自己颜值属于中下，其实不自卑也满足了呢\n另外好看否与pass程度无关，Akano一眼顺直男≡ω≡ https://t.co/jBY3AflfMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 1433,
+          "like_count": 1255,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 185,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081276738622181534",
+    "created_at": "2026-07-26T09:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081303752674578551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078716467781013504",
+          "start": 0,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081303752674578551",
+    "in_reply_to_user_id": "2078716467781013504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081302891940520143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slearthly 洗胃好难受啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081276738622181534",
+        "created_at": "2026-07-26T09:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081303752674578551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078716467781013504",
+              "start": 0,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081303752674578551",
+        "in_reply_to_user_id": "2078716467781013504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081302891940520143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slearthly 洗胃好难受啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2081276738622181534",
+        "created_at": "2026-07-26T08:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081302891940520143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081302891940520143",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081276738622181534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi oh不，，能别这样吗，我们都是希望你好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\nqq1621320515 微信admin22334\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 1432,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "招代理/追求平价糖果拒绝恶意抬价（\n雌/孕/抗雄/减肥药代理/美白/pr金刚🌽（10盒起）\n09年无证/🍥25.11.16/od妹/双向/坐标广东/高二/jumpstyle爱好者/亚文化/中二病患者/眼罩人助力/性格阴暗内向/可互fo  可以叫咱雾川岛/小雾/买糖私信ovo/没回就是在睡觉\ntg号没了",
+        "id": "2078716467781013504",
+        "name": "烷胺教主雾川岛🍥糖商",
+        "pinned_tweet_id": "2080591537529032875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080906602027294720/PrJHZSlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 175,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false
+      }
+    ]
+  }
+}

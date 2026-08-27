@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2082678361789431819",
+    "created_at": "2026-07-30T04:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082688265635688746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "147178617",
+          "start": 0,
+          "username": "KawaiRina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082688265635688746",
+    "in_reply_to_user_id": "147178617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082682730945626197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiRina_ 啊啊啊～（害羞）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2082678361789431819",
+        "created_at": "2026-07-30T04:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082688265635688746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147178617",
+              "start": 0,
+              "username": "KawaiRina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082688265635688746",
+        "in_reply_to_user_id": "147178617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082682730945626197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiRina_ 啊啊啊～（害羞）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147178617",
+        "conversation_id": "2082678361789431819",
+        "created_at": "2026-07-30T04:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082682730945626197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082682730945626197",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082678361789431819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 可爱喵可爱喵！ruarua！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 1111,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 2835
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-23T12:19:18.000Z",
+        "description": "最最最最最最最重要的主人@Hasugano_Karuka | C++与Unreal Engine糕手！\n努力做全栈！还在学构图和C#~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "Hasugano_Karuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rina.resonera.cn",
+                "end": 23,
+                "expanded_url": "http://rina.resonera.cn",
+                "start": 0,
+                "url": "https://t.co/vm72v5LOJR"
+              }
+            ]
+          }
+        },
+        "id": "147178617",
+        "name": "KawaiRina🍥",
+        "pinned_tweet_id": "2039657542880804973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061031436984229888/FEg40C67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 66,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/vm72v5LOJR",
+        "username": "KawaiRina_",
+        "verified": false
+      }
+    ]
+  }
+}

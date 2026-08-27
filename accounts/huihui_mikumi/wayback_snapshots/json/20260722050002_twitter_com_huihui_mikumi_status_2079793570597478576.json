@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079793564280844288"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2079793570597478576",
+    "created_at": "2026-07-22T05:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079793570597478576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J27S3jJwXf",
+          "end": 43,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2079793570597478576/photo/1",
+          "media_key": "3_2079793564280844288",
+          "start": 20,
+          "url": "https://t.co/J27S3jJwXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079793570597478576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被交警查车了怎么办？勇气是唯一的信仰！ https://t.co/J27S3jJwXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2079793564280844288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzpOj0acAAj_Gg.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079793564280844288"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2079793570597478576",
+        "created_at": "2026-07-22T05:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079793570597478576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J27S3jJwXf",
+              "end": 43,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079793570597478576/photo/1",
+              "media_key": "3_2079793564280844288",
+              "start": 20,
+              "url": "https://t.co/J27S3jJwXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079793570597478576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被交警查车了怎么办？勇气是唯一的信仰！ https://t.co/J27S3jJwXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "mikumi_huihui"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1161,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2477
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

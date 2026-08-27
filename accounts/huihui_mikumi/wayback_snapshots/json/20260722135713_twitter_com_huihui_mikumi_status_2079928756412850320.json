@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2079914357908267138",
+    "created_at": "2026-07-22T13:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079928756412850320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634191229310341121",
+          "start": 0,
+          "username": "jkhh_kkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079928756412850320",
+    "in_reply_to_user_id": "1634191229310341121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079923969449484358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkhh_kkj 3年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2079914357908267138",
+        "created_at": "2026-07-22T13:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079928756412850320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634191229310341121",
+              "start": 0,
+              "username": "jkhh_kkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079928756412850320",
+        "in_reply_to_user_id": "1634191229310341121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079923969449484358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkhh_kkj 3年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191229310341121",
+        "conversation_id": "2079914357908267138",
+        "created_at": "2026-07-22T13:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079923969449484358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2079923969449484358",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079914357908267138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我好奇某个姓唐的吃了多久？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 1167,
+          "like_count": 1135,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2491
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-10T13:55:34.000Z",
+        "description": "Disappointment is like a coin that always saves enough tickets to leave.\n\npan",
+        "id": "1634191229310341121",
+        "location": "Hong Kong",
+        "name": "jxmy bsp",
+        "pinned_tweet_id": "2077092861506682988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932786553782480905/Xl76b5ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 379,
+          "like_count": 12760,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 3313
+        },
+        "url": "",
+        "username": "jkhh_kkj",
+        "verified": false
+      }
+    ]
+  }
+}

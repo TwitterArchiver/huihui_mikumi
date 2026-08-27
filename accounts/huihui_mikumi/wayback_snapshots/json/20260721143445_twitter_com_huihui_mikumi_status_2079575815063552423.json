@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079575807572455425"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079575815063552423",
+    "created_at": "2026-07-21T14:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079575815063552423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1976253079050932224",
+          "start": 7,
+          "username": "BXmishifeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/guQzrQ5lnr",
+          "end": 43,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2079575815063552423/photo/1",
+          "media_key": "3_2079575807572455425",
+          "start": 20,
+          "url": "https://t.co/guQzrQ5lnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079575815063552423",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和老婆面基面～@BXmishifeng https://t.co/guQzrQ5lnr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1569,
+        "media_key": "3_2079575807572455425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwjLc3aMAEa7Qz.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079575807572455425"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079575815063552423",
+        "created_at": "2026-07-21T14:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079575815063552423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1976253079050932224",
+              "start": 7,
+              "username": "BXmishifeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/guQzrQ5lnr",
+              "end": 43,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079575815063552423/photo/1",
+              "media_key": "3_2079575807572455425",
+              "start": 20,
+              "url": "https://t.co/guQzrQ5lnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079575815063552423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和老婆面基面～@BXmishifeng https://t.co/guQzrQ5lnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "nagis1a"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "mikumi_huihui"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1155,
+          "like_count": 1109,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 2461
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-09T11:49:21.000Z",
+        "description": "喜欢每一个宝宝｜🏥大一医科｜🍰2005.3.3｜🍥糖果店营业中｜👋🏻舞萌痴｜🐱最好的妹妹@Akino_QwQ  ｜🤠最羡慕的人@LwrDHYyuxR22499\n🍬的小当铺https://t.co/8c1tntRCHh \n墙内私信（Q3827934812）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Akino_QwQ"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "LwrDHYyuxR22499"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+tpEfzPJOVEZmM…",
+                "end": 108,
+                "expanded_url": "https://t.me/+tpEfzPJOVEZmMjdl",
+                "start": 85,
+                "url": "https://t.co/8c1tntRCHh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tpEfzPJOVEZmM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tpEfzPJOVEZmMjdl",
+                "start": 0,
+                "url": "https://t.co/8c1tntRCHh"
+              }
+            ]
+          }
+        },
+        "id": "1976253079050932224",
+        "name": "狸梦音云🍥｜🍬商",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056219649243779072/yZ_vxoZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/8c1tntRCHh",
+        "username": "BXmishifeng",
+        "verified": false
+      }
+    ]
+  }
+}

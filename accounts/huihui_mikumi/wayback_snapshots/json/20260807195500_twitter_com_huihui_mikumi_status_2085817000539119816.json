@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2085817000539119816",
+    "created_at": "2026-08-07T19:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085817000539119816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Air_Yukiha/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Air_Yukiha/status/2085813137409019926",
+          "start": 9,
+          "url": "https://t.co/JonnDKLEaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085817000539119816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085813137409019926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老婆我爱你～❤️ https://t.co/JonnDKLEaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2085813129351770112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJL_XLbsAAOYil.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2085817000539119816",
+        "created_at": "2026-08-07T19:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085817000539119816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Air_Yukiha/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Air_Yukiha/status/2085813137409019926",
+              "start": 9,
+              "url": "https://t.co/JonnDKLEaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085817000539119816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085813137409019926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老婆我爱你～❤️ https://t.co/JonnDKLEaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085813129351770112"
+          ]
+        },
+        "author_id": "1988187586339467264",
+        "conversation_id": "2085813137409019926",
+        "created_at": "2026-08-07T19:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085813137409019926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1598557374046179328",
+              "start": 9,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3WPPwtOBT",
+              "end": 47,
+              "expanded_url": "https://x.com/Air_Yukiha/status/2085813137409019926/photo/1",
+              "media_key": "3_2085813129351770112",
+              "start": 24,
+              "url": "https://t.co/r3WPPwtOBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085813137409019926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想给全世界看到🥺\n@huihui_mikumi https://t.co/r3WPPwtOBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/药物咨询🍥/扩列/危机干预\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 1116,
+          "like_count": 1385,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-11T10:10:43.000Z",
+        "description": "全く可愛くない！\n一個普普通通的溫良小女孩=lvl=\n教主@Numiouoo\n小惠老婆@huihui_mikumi\n小宝宝@PhylissWei13477",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Numiouoo"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "PhylissWei13477"
+              }
+            ]
+          }
+        },
+        "id": "1988187586339467264",
+        "location": "Japan",
+        "name": "翼",
+        "pinned_tweet_id": "2078433031837409592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 584,
+          "like_count": 2530,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "Air_Yukiha",
+        "verified": false
+      }
+    ]
+  }
+}

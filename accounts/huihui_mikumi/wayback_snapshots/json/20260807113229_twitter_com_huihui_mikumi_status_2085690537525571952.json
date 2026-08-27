@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085689906127601664"
+      ],
+      "media_source_tweet_id": [
+        "2085689919909884365"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2085690537525571952",
+    "created_at": "2026-08-07T11:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085690537525571952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2023990053115228160",
+          "start": 3,
+          "username": "qyVV5TxPql81945"
+        },
+        {
+          "end": 45,
+          "id": "1598557374046179328",
+          "start": 31,
+          "username": "huihui_mikumi"
+        },
+        {
+          "end": 60,
+          "id": "2076670672517189632",
+          "start": 46,
+          "username": "mikumi_huihui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DZv9UE9ePC",
+          "end": 84,
+          "expanded_url": "https://x.com/qyVV5TxPql81945/status/2085689919909884365/photo/1",
+          "media_key": "3_2085689906127601664",
+          "start": 61,
+          "url": "https://t.co/DZv9UE9ePC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085690537525571952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085689919909884365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qyVV5TxPql81945: 收到惠惠的糖糖啦～\n@huihui_mikumi\n@mikumi_huihui https://t.co/DZv9UE9ePC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2085689906127601664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHb605agAAtLBA.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085689906127601664"
+          ]
+        },
+        "author_id": "2023990053115228160",
+        "conversation_id": "2085689919909884365",
+        "created_at": "2026-08-07T11:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085689919909884365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1598557374046179328",
+              "start": 10,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 39,
+              "id": "2076670672517189632",
+              "start": 25,
+              "username": "mikumi_huihui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZv9UE9ePC",
+              "end": 63,
+              "expanded_url": "https://x.com/qyVV5TxPql81945/status/2085689919909884365/photo/1",
+              "media_key": "3_2085689906127601664",
+              "start": 40,
+              "url": "https://t.co/DZv9UE9ePC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085689919909884365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收到惠惠的糖糖啦～\n@huihui_mikumi\n@mikumi_huihui https://t.co/DZv9UE9ePC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085689906127601664"
+          ],
+          "media_source_tweet_id": [
+            "2085689919909884365"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2085690537525571952",
+        "created_at": "2026-08-07T11:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085690537525571952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2023990053115228160",
+              "start": 3,
+              "username": "qyVV5TxPql81945"
+            },
+            {
+              "end": 45,
+              "id": "1598557374046179328",
+              "start": 31,
+              "username": "huihui_mikumi"
+            },
+            {
+              "end": 60,
+              "id": "2076670672517189632",
+              "start": 46,
+              "username": "mikumi_huihui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZv9UE9ePC",
+              "end": 84,
+              "expanded_url": "https://x.com/qyVV5TxPql81945/status/2085689919909884365/photo/1",
+              "media_key": "3_2085689906127601664",
+              "start": 61,
+              "url": "https://t.co/DZv9UE9ePC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085690537525571952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085689919909884365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qyVV5TxPql81945: 收到惠惠的糖糖啦～\n@huihui_mikumi\n@mikumi_huihui https://t.co/DZv9UE9ePC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 1112,
+          "like_count": 1374,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 2905
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T05:17:06.000Z",
+        "description": "🏳️‍⚧️💕🎀",
+        "id": "2023990053115228160",
+        "location": "菲萊",
+        "name": "千千千羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024002747771805696/bezk9I_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "qyVV5TxPql81945",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "前世@huihui_mikumi\n买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 157,
+                "start": 149,
+                "username": "yuerQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/X4Y02nPcwl"
+              }
+            ]
+          }
+        },
+        "id": "2076670672517189632",
+        "name": "可惠惠🏳️‍⚧️🍥（中二病也要mtf）（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076671323452137472/67hXnG9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 192,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/X4Y02nPcwl",
+        "username": "mikumi_huihui",
+        "verified": false
+      }
+    ]
+  }
+}

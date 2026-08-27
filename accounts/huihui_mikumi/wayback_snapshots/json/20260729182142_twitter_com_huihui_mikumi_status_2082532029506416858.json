@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2082464225411444744",
+    "created_at": "2026-07-29T18:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082532029506416858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037433783218008064",
+          "start": 0,
+          "username": "wu31878"
+        },
+        {
+          "end": 18,
+          "id": "2045797662478286848",
+          "start": 9,
+          "username": "yuer0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082532029506416858",
+    "in_reply_to_user_id": "2037433783218008064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082464862697857454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu31878 @yuer0721 他现在都叫我杂鱼主人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2082464225411444744",
+        "created_at": "2026-07-29T18:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082532029506416858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037433783218008064",
+              "start": 0,
+              "username": "wu31878"
+            },
+            {
+              "end": 18,
+              "id": "2045797662478286848",
+              "start": 9,
+              "username": "yuer0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082532029506416858",
+        "in_reply_to_user_id": "2037433783218008064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082464862697857454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu31878 @yuer0721 他现在都叫我杂鱼主人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037433783218008064",
+        "conversation_id": "2082464225411444744",
+        "created_at": "2026-07-29T13:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082464862697857454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045797662478286848",
+              "start": 0,
+              "username": "yuer0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082464862697857454",
+        "in_reply_to_user_id": "2045797662478286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082464225411444744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuer0721 又说我是杂鱼，你个杂鱼老公😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 1286,
+          "like_count": 1330,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T07:37:48.000Z",
+        "description": "16岁的｜hrt2026.5.14 ｜湖北｜身高 165 体重 106｜可爱的老公/主人@yuerQwQ|有证含糖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2037433783218008064",
+        "name": "小无声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053848503391256576/aSRH2WG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 38,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "wu31878",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T09:33:19.000Z",
+        "description": "我可爱的老婆@wu31878 | 喜欢的熊@A_Asystem | 我亲爱的宝宝@subdronexyn | 主人@huihui_mikumi | 闺蜜@qiancongxyn | 大号/梗图号@yuerQwQ | ——这里是小白羽的生活号qwq，无意义的碎碎念将会发布在这里awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "wu31878"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2045797662478286848",
+        "location": "最后的思绪",
+        "name": "白羽儿yuer🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060940291872546816/_ia-IVk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 52,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "yuer0721",
+        "verified": false
+      }
+    ]
+  }
+}

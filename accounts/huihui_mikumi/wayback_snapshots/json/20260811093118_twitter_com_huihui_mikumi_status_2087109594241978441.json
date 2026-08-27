@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2087109594241978441",
+    "created_at": "2026-08-11T09:31:18.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087109594241978441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikumi_huihui/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/mikumi_huihui/status/2087033111414751337",
+          "start": 13,
+          "url": "https://t.co/RJh2p9Yf4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087109594241978441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087033111414751337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一辈子都是女孩子！！！ https://t.co/RJh2p9Yf4j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2087109594241978441",
+        "created_at": "2026-08-11T09:31:18.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087109594241978441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikumi_huihui/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/mikumi_huihui/status/2087033111414751337",
+              "start": 13,
+              "url": "https://t.co/RJh2p9Yf4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087109594241978441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087033111414751337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一辈子都是女孩子！！！ https://t.co/RJh2p9Yf4j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076670672517189632",
+        "conversation_id": "2087033111414751337",
+        "created_at": "2026-08-11T04:27:23.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087033111414751337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087033111414751337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一辈子都是女孩子！！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087109594241978441",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 1120,
+          "like_count": 1447,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "前世@huihui_mikumi\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 159,
+                "start": 151,
+                "username": "yuerQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/X4Y02nPcwl"
+              }
+            ]
+          }
+        },
+        "id": "2076670672517189632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087105581228367925",
+        "name": "可惠惠🏳️‍⚧️🍥（中二病也要mtf）（糖商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076670672517189632/1783952301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076671323452137472/67hXnG9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 196,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/X4Y02nPcwl",
+        "username": "mikumi_huihui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

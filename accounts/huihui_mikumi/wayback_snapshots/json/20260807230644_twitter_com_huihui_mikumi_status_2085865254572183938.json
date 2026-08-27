@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2085834587364802649",
+    "created_at": "2026-08-07T23:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T00:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085865254572183938"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085865254572183938",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085834587364802649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2085834580586881024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJff_QbYAAUqeR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2085834587364802649",
+        "created_at": "2026-08-07T23:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085865254572183938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085865254572183938",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085834587364802649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085834580586881024"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2085834587364802649",
+        "created_at": "2026-08-07T21:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085834587364802649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/up7d7LSUQa",
+              "end": 50,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2085834587364802649/photo/1",
+              "media_key": "3_2085834580586881024",
+              "start": 27,
+              "url": "https://t.co/up7d7LSUQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085834587364802649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我早上5点睡 早上六点起 这何尝又不是一种早睡早起呢 https://t.co/up7d7LSUQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 1117,
+          "like_count": 1393,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 2934
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2087454882853015939",
+    "created_at": "2026-08-12T09:07:03.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087465878636179479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087465878636179479",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087454882853015939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 抽我抽我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087454485958541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPggy5BawAAga6H.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2087454864347648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPghI6oaUAAsz72.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-12T09:07:03.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087465878636179479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087465878636179479",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087454882853015939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 抽我抽我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087454485958541312",
+            "3_2087454864347648000"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-12T08:23:21.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087454882853015939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454485958541312",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            },
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454864347648000",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087454882853015939",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087454485958541312"
+          },
+          {
+            "media_key": "3_2087454864347648000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份\n参与奖:Q群发送10元拼手气群红包（共计10个）\n\n参与抽取奖励方式:关注，转帖，评论，将会在评论区内用Grok进行随机抽取\n\n开奖时间:8.16"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 109,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份 https://t.co/sj2pvbuGwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087465878636179479",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 1123,
+          "like_count": 1461,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2087457255977291818",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 299,
+          "like_count": 2082,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

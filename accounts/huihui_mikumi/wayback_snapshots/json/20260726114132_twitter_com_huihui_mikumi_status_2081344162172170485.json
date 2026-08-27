@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077008297140658176",
+        "3_2077008297438420992"
+      ],
+      "media_source_tweet_id": [
+        "2077008309035606406",
+        "2077008309035606406"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081344162172170485",
+    "created_at": "2026-07-26T11:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081344162172170485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1574720577969197056",
+          "start": 3,
+          "username": "rafaeru54035903"
+        },
+        {
+          "end": 47,
+          "id": "2076670672517189632",
+          "start": 33,
+          "username": "mikumi_huihui"
+        },
+        {
+          "end": 63,
+          "id": "1598557374046179328",
+          "start": 49,
+          "username": "huihui_mikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rIsCvMqBfa",
+          "end": 106,
+          "expanded_url": "https://x.com/rafaeru54035903/status/2077008309035606406/photo/1",
+          "media_key": "3_2077008297140658176",
+          "start": 83,
+          "url": "https://t.co/rIsCvMqBfa"
+        },
+        {
+          "display_url": "pic.x.com/rIsCvMqBfa",
+          "end": 106,
+          "expanded_url": "https://x.com/rafaeru54035903/status/2077008309035606406/photo/1",
+          "media_key": "3_2077008297438420992",
+          "start": 83,
+          "url": "https://t.co/rIsCvMqBfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081344162172170485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077008309035606406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rafaeru54035903: 收到惠惠妹妹的日雌啦～\n@mikumi_huihui \n@huihui_mikumi \n\n也没见滚床单的时候这么急（小声） https://t.co/rIsCvMqBfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077008297140658176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMECrKboAApHB1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077008297438420992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMECsRbIAASCZC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077008297140658176",
+            "3_2077008297438420992"
+          ]
+        },
+        "author_id": "1574720577969197056",
+        "conversation_id": "2077008309035606406",
+        "created_at": "2026-07-14T12:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077008309035606406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2076670672517189632",
+              "start": 12,
+              "username": "mikumi_huihui"
+            },
+            {
+              "end": 42,
+              "id": "1598557374046179328",
+              "start": 28,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIsCvMqBfa",
+              "end": 85,
+              "expanded_url": "https://x.com/rafaeru54035903/status/2077008309035606406/photo/1",
+              "media_key": "3_2077008297140658176",
+              "start": 62,
+              "url": "https://t.co/rIsCvMqBfa"
+            },
+            {
+              "display_url": "pic.x.com/rIsCvMqBfa",
+              "end": 85,
+              "expanded_url": "https://x.com/rafaeru54035903/status/2077008309035606406/photo/1",
+              "media_key": "3_2077008297438420992",
+              "start": 62,
+              "url": "https://t.co/rIsCvMqBfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008309035606406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 415,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收到惠惠妹妹的日雌啦～\n@mikumi_huihui \n@huihui_mikumi \n\n也没见滚床单的时候这么急（小声） https://t.co/rIsCvMqBfa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077008297140658176",
+            "3_2077008297438420992"
+          ],
+          "media_source_tweet_id": [
+            "2077008309035606406",
+            "2077008309035606406"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081344162172170485",
+        "created_at": "2026-07-26T11:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081344162172170485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1574720577969197056",
+              "start": 3,
+              "username": "rafaeru54035903"
+            },
+            {
+              "end": 47,
+              "id": "2076670672517189632",
+              "start": 33,
+              "username": "mikumi_huihui"
+            },
+            {
+              "end": 63,
+              "id": "1598557374046179328",
+              "start": 49,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIsCvMqBfa",
+              "end": 106,
+              "expanded_url": "https://x.com/rafaeru54035903/status/2077008309035606406/photo/1",
+              "media_key": "3_2077008297140658176",
+              "start": 83,
+              "url": "https://t.co/rIsCvMqBfa"
+            },
+            {
+              "display_url": "pic.x.com/rIsCvMqBfa",
+              "end": 106,
+              "expanded_url": "https://x.com/rafaeru54035903/status/2077008309035606406/photo/1",
+              "media_key": "3_2077008297438420992",
+              "start": 83,
+              "url": "https://t.co/rIsCvMqBfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081344162172170485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077008309035606406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rafaeru54035903: 收到惠惠妹妹的日雌啦～\n@mikumi_huihui \n@huihui_mikumi \n\n也没见滚床单的时候这么急（小声） https://t.co/rIsCvMqBfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1431,
+          "like_count": 1241,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-27T11:20:35.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1574720577969197056",
+        "name": "ラファエル🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574721537126854657/qh76YHvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 95,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "rafaeru54035903",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T14:11:50.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 大号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/X4Y02nPKlT"
+              }
+            ]
+          }
+        },
+        "id": "2076670672517189632",
+        "name": "惠惠2.0🏳️‍⚧️🍥（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076671323452137472/67hXnG9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 143,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/X4Y02nPKlT",
+        "username": "mikumi_huihui",
+        "verified": false
+      }
+    ]
+  }
+}

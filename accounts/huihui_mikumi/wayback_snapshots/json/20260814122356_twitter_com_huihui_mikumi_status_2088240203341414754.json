@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088104458970611712"
+      ],
+      "media_source_tweet_id": [
+        "2088104475638849849"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2088240203341414754",
+    "created_at": "2026-08-14T12:23:56.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088240203341414754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909041656558714880",
+          "start": 3,
+          "username": "hiaAuy6"
+        },
+        {
+          "end": 48,
+          "id": "1598557374046179328",
+          "start": 34,
+          "username": "huihui_mikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5wnKQkPTqz",
+          "end": 72,
+          "expanded_url": "https://x.com/hiaAuy6/status/2088104475638849849/photo/1",
+          "media_key": "3_2088104458970611712",
+          "start": 49,
+          "url": "https://t.co/5wnKQkPTqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088240203341414754",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088104458970611712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088104475638849849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hiaAuy6: 日雌，色谱龙，hrt开始！\n从惠惠那里买哒@huihui_mikumi https://t.co/5wnKQkPTqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088104458970611712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpv8TLaQAAfpkJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088104458970611712"
+          ]
+        },
+        "author_id": "1909041656558714880",
+        "conversation_id": "2088104475638849849",
+        "created_at": "2026-08-14T03:24:36.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088104475638849849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1598557374046179328",
+              "start": 21,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wnKQkPTqz",
+              "end": 59,
+              "expanded_url": "https://x.com/hiaAuy6/status/2088104475638849849/photo/1",
+              "media_key": "3_2088104458970611712",
+              "start": 36,
+              "url": "https://t.co/5wnKQkPTqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088104475638849849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088104458970611712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日雌，色谱龙，hrt开始！\n从惠惠那里买哒@huihui_mikumi https://t.co/5wnKQkPTqz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088104458970611712"
+          ],
+          "media_source_tweet_id": [
+            "2088104475638849849"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2088240203341414754",
+        "created_at": "2026-08-14T12:23:56.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088240203341414754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909041656558714880",
+              "start": 3,
+              "username": "hiaAuy6"
+            },
+            {
+              "end": 48,
+              "id": "1598557374046179328",
+              "start": 34,
+              "username": "huihui_mikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wnKQkPTqz",
+              "end": 72,
+              "expanded_url": "https://x.com/hiaAuy6/status/2088104475638849849/photo/1",
+              "media_key": "3_2088104458970611712",
+              "start": 49,
+              "url": "https://t.co/5wnKQkPTqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088240203341414754",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088104458970611712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088104475638849849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hiaAuy6: 日雌，色谱龙，hrt开始！\n从惠惠那里买哒@huihui_mikumi https://t.co/5wnKQkPTqz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088240203341414754",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1147,
+          "like_count": 1493,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 3088
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T00:33:11.000Z",
+        "description": "清水男娘不搞色情版",
+        "id": "1909041656558714880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088108602347393148",
+        "name": "酸菜鱼a u y",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079765848546488320/LCq5MH9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 184,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "hiaAuy6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

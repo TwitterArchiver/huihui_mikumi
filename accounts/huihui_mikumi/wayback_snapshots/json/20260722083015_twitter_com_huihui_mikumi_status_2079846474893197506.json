@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2079846474893197506",
+    "created_at": "2026-07-22T08:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079846474893197506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Weberkaliro/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Weberkaliro/status/2079845553568178548",
+          "start": 31,
+          "url": "https://t.co/HXCJCLK8VS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079846474893197506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079845553568178548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯大家好我是刚来推的新人一枚，想找同类互fo但是一直找不到 https://t.co/HXCJCLK8VS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2079846474893197506",
+        "created_at": "2026-07-22T08:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079846474893197506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Weberkaliro/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Weberkaliro/status/2079845553568178548",
+              "start": 31,
+              "url": "https://t.co/HXCJCLK8VS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079846474893197506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079845553568178548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯大家好我是刚来推的新人一枚，想找同类互fo但是一直找不到 https://t.co/HXCJCLK8VS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034865150499725313",
+        "conversation_id": "2079845553568178548",
+        "created_at": "2026-07-22T08:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079845553568178548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/slearthly/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/slearthly/status/2079836586599141500",
+              "start": 31,
+              "url": "https://t.co/hUIRtI2Mdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079845553568178548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079836586599141500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯大家好我是刚来推的新人一枚，想找同类互fo但是一直找不到 https://t.co/hUIRtI2Mdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1163,
+          "like_count": 1130,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215|精分 躁郁 ADHD 社交障碍⚠|家暴-天残-无证含糖-激跨\n想和咱深入交流的里账号：@kaliroweber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "kaliroweber"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔Kaliro🍥（药🍬商）",
+        "pinned_tweet_id": "2079833517614408085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 1735,
+          "like_count": 5359,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2080855074163867724",
+    "created_at": "2026-07-25T05:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080890166093484451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822310803153846274",
+          "start": 0,
+          "username": "HeiCheng123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080890166093484451",
+    "in_reply_to_user_id": "1822310803153846274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080890019817140592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeiCheng123 有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2080855074163867724",
+        "created_at": "2026-07-25T05:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080890166093484451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822310803153846274",
+              "start": 0,
+              "username": "HeiCheng123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080890166093484451",
+        "in_reply_to_user_id": "1822310803153846274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080890019817140592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeiCheng123 有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822310803153846274",
+        "conversation_id": "2080855074163867724",
+        "created_at": "2026-07-25T05:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080890019817140592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080890019817140592",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080855074163867724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 蛋割了就完事了，鸡鸡割了还得考虑怎么撒尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\nqq1621320515 微信admin22334\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1393,
+          "like_count": 1211,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T16:36:03.000Z",
+        "description": "🍥🏳️‍⚧️/2009.12.5/有小证!/HRT26.2.13/超大个/家长党/阿斯伯格/休学中/丑/无性恋?/🏳️‍⚧️🍥",
+        "id": "1822310803153846274",
+        "location": "泰州市第五人民医院",
+        "name": "zeno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049078446056431616/vbyHFH9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 289,
+          "like_count": 6645,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "HeiCheng123",
+        "verified": true
+      }
+    ]
+  }
+}

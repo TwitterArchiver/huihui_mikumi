@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2086893462411210876",
+    "created_at": "2026-08-11T06:29:14.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087063775686041980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087063775686041980",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086893462411210876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2086893454098042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYiiieaEAANGrW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2086893462411210876",
+        "created_at": "2026-08-11T06:29:14.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087063775686041980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087063775686041980",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086893462411210876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086893454098042880"
+          ]
+        },
+        "author_id": "1868438397083410432",
+        "conversation_id": "2086893462411210876",
+        "created_at": "2026-08-10T19:12:28.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086893462411210876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbqvxBdXMh",
+              "end": 104,
+              "expanded_url": "https://x.com/2020520Rei/status/2086893462411210876/photo/1",
+              "media_key": "3_2086893454098042880",
+              "start": 81,
+              "url": "https://t.co/gbqvxBdXMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086893462411210876",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086893454098042880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "800fo庆祝！！！涨粉好快呀，之前一直以为好慢好慢，结果推友说阿零涨粉好快快，结果打开创作者中心一看，还真是！阿零到底是哪方面吸引那么多关注呀，谢谢大家啦🥰！ https://t.co/gbqvxBdXMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087063775686041980",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1121,
+          "like_count": 1441,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2087041185387008058",
+        "name": "ReiOᴗoಣ零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2086651412025672124",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 621,
+          "like_count": 3398,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

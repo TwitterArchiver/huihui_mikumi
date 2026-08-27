@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081446062108426545",
+    "created_at": "2026-07-27T15:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081757883801485557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069210600778117120",
+          "start": 0,
+          "username": "xieran197"
+        },
+        {
+          "end": 26,
+          "id": "1757076114739003392",
+          "start": 11,
+          "username": "SheilaBank7509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081757883801485557",
+    "in_reply_to_user_id": "2069210600778117120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081699546904814023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xieran197 @SheilaBank7509 宝宝，这里有得卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081446062108426545",
+        "created_at": "2026-07-27T15:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081757883801485557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069210600778117120",
+              "start": 0,
+              "username": "xieran197"
+            },
+            {
+              "end": 26,
+              "id": "1757076114739003392",
+              "start": 11,
+              "username": "SheilaBank7509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081757883801485557",
+        "in_reply_to_user_id": "2069210600778117120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081699546904814023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xieran197 @SheilaBank7509 宝宝，这里有得卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069210600778117120",
+        "conversation_id": "2081446062108426545",
+        "created_at": "2026-07-27T11:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081699546904814023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757076114739003392",
+              "start": 0,
+              "username": "SheilaBank7509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081699546904814023",
+        "in_reply_to_user_id": "1757076114739003392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081446062108426545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SheilaBank7509 在哪买的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 1442,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-23T00:08:41.000Z",
+        "description": "09年生人    2026/06/30开始的- MtF GAHT     168-170cm\n大号：@sngxi3837901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "sngxi3837901"
+              }
+            ]
+          }
+        },
+        "id": "2069210600778117120",
+        "location": "中华人民共和国🇨🇳",
+        "name": "谢然🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080211682186723328/o4vwEeht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 19,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "xieran197",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T16:16:09.000Z",
+        "description": "喵喵喵～超喜欢二次元一枚的小男娘呀🤲🏻平时就喜欢cos 买谷子周边",
+        "id": "1757076114739003392",
+        "location": " Buffalo ",
+        "name": "🍥iam阿lan",
+        "pinned_tweet_id": "1987526194007548133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054501371303612416/uE__6eHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3899,
+          "following_count": 1131,
+          "like_count": 1606,
+          "listed_count": 16,
+          "media_count": 66,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "SheilaBank7509",
+        "verified": false
+      }
+    ]
+  }
+}

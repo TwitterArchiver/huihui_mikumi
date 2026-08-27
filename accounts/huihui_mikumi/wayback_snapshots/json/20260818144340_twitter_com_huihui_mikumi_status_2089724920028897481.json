@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2089428882554606070",
+    "created_at": "2026-08-18T14:43:40.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089724920028897481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841126187789324288",
+          "start": 0,
+          "username": "YuuYuki233"
+        },
+        {
+          "end": 22,
+          "id": "1917261838485708802",
+          "start": 12,
+          "username": "qiujiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089724920028897481",
+    "in_reply_to_user_id": "1841126187789324288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089428882554606070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuuYuki233 @qiujiudev 看到我啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2899,
+        "media_key": "3_2089428340931436544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8kAXzaIAAII5t.jpg",
+        "width": 2655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2089428882554606070",
+        "created_at": "2026-08-18T14:43:40.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089724920028897481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841126187789324288",
+              "start": 0,
+              "username": "YuuYuki233"
+            },
+            {
+              "end": 22,
+              "id": "1917261838485708802",
+              "start": 12,
+              "username": "qiujiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089724920028897481",
+        "in_reply_to_user_id": "1841126187789324288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089428882554606070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuuYuki233 @qiujiudev 看到我啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089428340931436544"
+          ]
+        },
+        "author_id": "1841126187789324288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089428882554606070",
+        "created_at": "2026-08-17T19:07:19.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T20:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089428882554606070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1917261838485708802",
+              "start": 18,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IA7wwXK85t",
+              "end": 68,
+              "expanded_url": "https://x.com/YuuYuki233/status/2089428882554606070/photo/1",
+              "media_key": "3_2089428340931436544",
+              "start": 45,
+              "url": "https://t.co/IA7wwXK85t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089428882554606070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089428340931436544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 870,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补一张粉丝墙 ˃ 𖥦 ˂ \n\n感谢 @qiujiudev 开发的工具\n（虽然还有bug） https://t.co/IA7wwXK85t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089724920028897481",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 1162,
+          "like_count": 1535,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-01T14:41:15.000Z",
+        "description": "先说明一下这个账号，平时刷X用的，会更一些杂七杂八的东西……这好像什么都没说清歪，算了，不说明了\n\n来自中国北方某小城市的人类\n在参加一个被称为“高中”的机构，今年接到的角色是“高三生”耶\n你好。这句话什么意思，毕竟我有时“不好”，大家也都有时“不好”",
+        "id": "1841126187789324288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089723555806421141",
+        "name": "幽幽小雪",
+        "pinned_tweet_id": "2086750550859899320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841126187789324288/1775288168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086743249411260416/dRVKFVxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 490,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "YuuYuki233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089696282524950631",
+        "name": "秋玖",
+        "pinned_tweet_id": "2089403510664343750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 579,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

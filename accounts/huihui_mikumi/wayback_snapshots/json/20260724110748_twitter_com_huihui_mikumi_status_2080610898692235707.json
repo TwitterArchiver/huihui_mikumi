@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2080330279110259022",
+    "created_at": "2026-07-24T11:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080610898692235707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689095384956633088",
+          "start": 0,
+          "username": "KfirC10SRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080610898692235707",
+    "in_reply_to_user_id": "1689095384956633088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080330279110259022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KfirC10SRC 不可以！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080330266279919616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7RWukbwAAazyO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2080330279110259022",
+        "created_at": "2026-07-24T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080610898692235707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689095384956633088",
+              "start": 0,
+              "username": "KfirC10SRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080610898692235707",
+        "in_reply_to_user_id": "1689095384956633088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080330279110259022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KfirC10SRC 不可以！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080330266279919616"
+          ]
+        },
+        "author_id": "1689095384956633088",
+        "conversation_id": "2080330279110259022",
+        "created_at": "2026-07-23T16:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080330279110259022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9OxcT7l8o",
+              "end": 29,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2080330279110259022/photo/1",
+              "media_key": "3_2080330266279919616",
+              "start": 6,
+              "url": "https://t.co/J9OxcT7l8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080330279110259022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2365,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "过几天拜拜 https://t.co/J9OxcT7l8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\nqq1621320515 微信admin22334\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1347,
+          "like_count": 1189,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "",
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "AAA导弹批发",
+        "pinned_tweet_id": "2067118496895697078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080593363854852096/diibPAn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 305,
+          "like_count": 414,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2091827336400277959",
+    "created_at": "2026-08-24T10:09:41.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091830297826656275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991306862038544384",
+          "start": 0,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091830297826656275",
+    "in_reply_to_user_id": "1991306862038544384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091827336400277959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanda12300 我也是穷光蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2091827336400277959",
+        "created_at": "2026-08-24T10:09:41.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091830297826656275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091830297826656275",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091827336400277959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 我也是穷光蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2091827336400277959",
+        "created_at": "2026-08-24T09:57:55.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091827336400277959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091827336400277959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么感觉小药娘都好有钱，就我一个是穷光蛋吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "yuerQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091830297826656275",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 1161,
+          "like_count": 1612,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+天残党/家长党MtF，已出柜\n轻度抑郁+焦虑+强迫，每天都会GD\n出厂日期：2006.10.26 HRT时间：2026.4.1\n欢迎同类互fo，发私信可能来不及回复，抱歉喵\n恋人：@Asexuality94927 永远爱你\n我的GitHub(正在建设)：https://t.co/kdNOs6dwBr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Asexuality94927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 154,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 131,
+                "url": "https://t.co/kdNOs6dwBr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wanda123001",
+                "end": 23,
+                "expanded_url": "http://t.me/wanda123001",
+                "start": 0,
+                "url": "https://t.co/naMzEL3fAG"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091827336400277959",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2090808403329179734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091643930781847552/EqPfK0A7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 923,
+          "like_count": 409,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/naMzEL3fAG",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

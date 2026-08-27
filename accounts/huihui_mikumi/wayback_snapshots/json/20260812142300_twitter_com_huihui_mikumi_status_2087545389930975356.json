@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087243562312429569"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2087545389930975356",
+    "created_at": "2026-08-12T14:23:00.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087545389930975356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YfSvZz39M3",
+          "end": 103,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2087545389930975356/photo/1",
+          "media_key": "3_2087243562312429569",
+          "start": 80,
+          "url": "https://t.co/YfSvZz39M3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087545389930975356",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087243562312429569"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美国加州圣地亚哥Miramar空军基地的航展中拍摄到了F-22战斗机尾部奇异的彩虹景象。正是因为日光的拍摄角度正合适，以致折射可使飞机周围出现色彩缤纷的彩虹。 https://t.co/YfSvZz39M3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2087243562312429569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdg9hNacAEy3fX.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087243562312429569"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2087545389930975356",
+        "created_at": "2026-08-12T14:23:00.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087545389930975356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfSvZz39M3",
+              "end": 103,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2087545389930975356/photo/1",
+              "media_key": "3_2087243562312429569",
+              "start": 80,
+              "url": "https://t.co/YfSvZz39M3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087545389930975356",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087243562312429569"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国加州圣地亚哥Miramar空军基地的航展中拍摄到了F-22战斗机尾部奇异的彩虹景象。正是因为日光的拍摄角度正合适，以致折射可使飞机周围出现色彩缤纷的彩虹。 https://t.co/YfSvZz39M3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087545389930975356",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 1126,
+          "like_count": 1471,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 3058
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

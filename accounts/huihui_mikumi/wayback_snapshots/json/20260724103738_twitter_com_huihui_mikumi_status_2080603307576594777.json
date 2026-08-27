@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080603303055134720"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080603307576594777",
+    "created_at": "2026-07-24T10:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080603307576594777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H13tleOXQd",
+          "end": 30,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2080603307576594777/photo/1",
+          "media_key": "3_2080603303055134720",
+          "start": 7,
+          "url": "https://t.co/H13tleOXQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080603307576594777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是什么肉？ https://t.co/H13tleOXQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2080603303055134720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_Jrj0bEAAOyC4.jpg",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080603303055134720"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080603307576594777",
+        "created_at": "2026-07-24T10:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080603307576594777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H13tleOXQd",
+              "end": 30,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2080603307576594777/photo/1",
+              "media_key": "3_2080603303055134720",
+              "start": 7,
+              "url": "https://t.co/H13tleOXQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080603307576594777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么肉？ https://t.co/H13tleOXQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\nqq1621320515 微信admin22334\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 122,
+                "start": 114,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1347,
+          "like_count": 1163,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2526
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

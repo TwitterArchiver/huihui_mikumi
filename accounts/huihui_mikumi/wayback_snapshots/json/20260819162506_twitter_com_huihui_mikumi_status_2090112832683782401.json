@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2089682171028263300",
+    "created_at": "2026-08-19T16:25:06.000Z",
+    "display_text_range": [
+      24,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090112832683782401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1183048952708395009",
+          "start": 0,
+          "username": "KGY_HN"
+        },
+        {
+          "end": 23,
+          "id": "1847835560175685635",
+          "start": 8,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090112832683782401",
+    "in_reply_to_user_id": "1183048952708395009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089992703035801711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KGY_HN @OPPOFANS114514 嗯嗯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089992694995243008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQElSGhaUAA1HzR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2089682171028263300",
+        "created_at": "2026-08-19T16:25:06.000Z",
+        "display_text_range": [
+          24,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090112832683782401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1183048952708395009",
+              "start": 0,
+              "username": "KGY_HN"
+            },
+            {
+              "end": 23,
+              "id": "1847835560175685635",
+              "start": 8,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090112832683782401",
+        "in_reply_to_user_id": "1183048952708395009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089992703035801711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KGY_HN @OPPOFANS114514 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089992694995243008"
+          ]
+        },
+        "author_id": "1183048952708395009",
+        "conversation_id": "2089682171028263300",
+        "created_at": "2026-08-19T08:27:45.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089992703035801711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcG90R1g62",
+              "end": 50,
+              "expanded_url": "https://x.com/KGY_HN/status/2089992703035801711/photo/1",
+              "media_key": "3_2089992694995243008",
+              "start": 27,
+              "url": "https://t.co/bcG90R1g62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089992703035801711",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089992694995243008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1307,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089813907271721236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 好贪，居然是全身照（ https://t.co/bcG90R1g62"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "yuerQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090112832683782401",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 1154,
+          "like_count": 1555,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 3149
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T15:57:33.000Z",
+        "description": "KGYHN Generates Yet Higher Nonsense/\n輝夜はな🌸 / 叫我花花就好👌 / 已婚女同性恋🏳️‍🌈 / 艦これ⚓️ / 碎碎念💬 / 拙劣画师🎨 / 待就业人员💼 / 世界和平☮️ / 钱钱飞走了💸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kgy_hn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kgy_hn",
+                "start": 0,
+                "url": "https://t.co/fYn6aLyCHM"
+              }
+            ]
+          }
+        },
+        "id": "1183048952708395009",
+        "is_identity_verified": false,
+        "location": "Thailand",
+        "most_recent_tweet_id": "2090106249908204016",
+        "name": "🌸",
+        "pinned_tweet_id": "2089682171028263300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183048952708395009/1786346603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086714967827570688/SRAh-9Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14800,
+          "following_count": 3220,
+          "like_count": 2314,
+          "listed_count": 34,
+          "media_count": 1056,
+          "tweet_count": 12108
+        },
+        "url": "https://t.co/fYn6aLyCHM",
+        "username": "KGY_HN",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我是一个真实的笨蛋\n我会开心，也会伤心emo，也会生气骂人\n感谢大家能够接受所有性格的我\n祝愿讨厌我的，喜欢我的人一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090094810447409291",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847835560175685635/1785271346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 2314,
+          "like_count": 24284,
+          "listed_count": 6,
+          "media_count": 924,
+          "tweet_count": 23237
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

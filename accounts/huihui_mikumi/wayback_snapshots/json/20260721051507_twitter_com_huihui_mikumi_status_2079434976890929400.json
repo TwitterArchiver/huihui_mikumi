@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079434967449550848",
+        "3_2079434972038037504"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2079434976890929400",
+    "created_at": "2026-07-21T05:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079434976890929400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsXXjrLFqX",
+          "end": 48,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2079434976890929400/photo/1",
+          "media_key": "3_2079434967449550848",
+          "start": 25,
+          "url": "https://t.co/tsXXjrLFqX"
+        },
+        {
+          "display_url": "pic.x.com/tsXXjrLFqX",
+          "end": 48,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2079434976890929400/photo/1",
+          "media_key": "3_2079434972038037504",
+          "start": 25,
+          "url": "https://t.co/tsXXjrLFqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079434976890929400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得跨旗应该重新设计，蓝粉白的蓝色建议换成粉白 https://t.co/tsXXjrLFqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2079434967449550848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNujFehbQAAe43Z.jpg",
+        "width": 680
+      },
+      {
+        "height": 768,
+        "media_key": "3_2079434972038037504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNujFvnaAAAczN7.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079434967449550848",
+            "3_2079434972038037504"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2079434976890929400",
+        "created_at": "2026-07-21T05:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079434976890929400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsXXjrLFqX",
+              "end": 48,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079434976890929400/photo/1",
+              "media_key": "3_2079434967449550848",
+              "start": 25,
+              "url": "https://t.co/tsXXjrLFqX"
+            },
+            {
+              "display_url": "pic.x.com/tsXXjrLFqX",
+              "end": 48,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2079434976890929400/photo/1",
+              "media_key": "3_2079434972038037504",
+              "start": 25,
+              "url": "https://t.co/tsXXjrLFqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079434976890929400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得跨旗应该重新设计，蓝粉白的蓝色建议换成粉白 https://t.co/tsXXjrLFqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "nagis1a"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "mikumi_huihui"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（糖商）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 1153,
+          "like_count": 1050,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": true
+      }
+    ]
+  }
+}

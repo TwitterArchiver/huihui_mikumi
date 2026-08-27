@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2081938107176264183",
+    "created_at": "2026-07-28T21:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082219547604701501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775149090881560580",
+          "start": 0,
+          "username": "LemonCandy_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082219547604701501",
+    "in_reply_to_user_id": "1775149090881560580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081938107176264183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonCandy_OvO 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2081938107176264183",
+        "created_at": "2026-07-28T21:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082219547604701501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775149090881560580",
+              "start": 0,
+              "username": "LemonCandy_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082219547604701501",
+        "in_reply_to_user_id": "1775149090881560580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081938107176264183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonCandy_OvO 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775149090881560580",
+        "conversation_id": "2081938107176264183",
+        "created_at": "2026-07-28T03:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081938107176264183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081938107176264183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经对原生家庭失望了，本喵巴不得生物爹妈赶紧死了，崩溃了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "买糖🍬/危机干预/扩列/药物咨询🍥\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑|同类互fo\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 1279,
+          "like_count": 1313,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2739
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年/无业/单身/无证含糖mtf/高度近视/身高180/🚪30(同类免费)/pvz/mc/术力口/JK制服/喵斯，浮木已逝 qq:2198461644(需要过门槛) 老保们最严厉的母亲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "鱼板游戏",
+        "name": "柠檬味软糖_XYN喵🏳️‍⚧️🍥🍬🍭🎀",
+        "pinned_tweet_id": "2072684570021863750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116137294467072/NHAXk5gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 584,
+          "like_count": 412,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "LemonCandy_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

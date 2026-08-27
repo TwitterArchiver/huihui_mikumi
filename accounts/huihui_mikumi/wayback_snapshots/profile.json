@@ -1,7 +1,7 @@
 {
-  "name": "惠惠🍥🏳️‍⚧️（糖商）",
+  "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
   "username": "@huihui_mikumi",
-  "bio": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@nagis1a 小贱狗 @yuerQwQ",
+  "bio": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:http://t.me/mikumi_huihui\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ",
   "location": "广东韶关",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -9,19 +9,23 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 86,
-        "start": 75,
+        "end": 136,
+        "start": 125,
         "username": "Air_Yukiha"
       },
       {
-        "end": 97,
-        "start": 89,
-        "username": "nagis1a"
-      },
-      {
-        "end": 110,
-        "start": 102,
+        "end": 149,
+        "start": 141,
         "username": "yuerQwQ"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/mikumi_huihui",
+        "end": 58,
+        "expanded_url": "http://t.me/mikumi_huihui",
+        "start": 36,
+        "url": "http://t.co/OxJDjmUXYb"
       }
     ]
   },

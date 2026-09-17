@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2096332521822961864",
+    "created_at": "2026-09-05T20:19:55.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096332521822961864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingzi6666/sta…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/jingzi6666/status/2096202808139935898",
+          "start": 89,
+          "url": "https://t.co/lVjQsVToOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096332521822961864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096202808139935898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵 https://t.co/lVjQsVToOE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2096332521822961864",
+        "created_at": "2026-09-05T20:19:55.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096332521822961864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingzi6666/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/jingzi6666/status/2096202808139935898",
+              "start": 89,
+              "url": "https://t.co/lVjQsVToOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096332521822961864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096202808139935898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵 https://t.co/lVjQsVToOE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072208739281866752",
+        "conversation_id": "2096202808139935898",
+        "created_at": "2026-09-05T11:44:29.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096202808139935898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosasmeow/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/Irosasmeow/status/2096136910364381398",
+              "start": 89,
+              "url": "https://t.co/UrPPAbbmXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096202808139935898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096136910364381398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇会腐蚀妳的男人般的意志😡让妳性格变软、情绪变细、雌情大爆发😡让妳在在星宇的多巴胺盛宴和身体变化的ge中继续主动服用它😡不准停用雌二醇喵😡它在操控妳的大脑喵😡但是爽亖了喵🥵 https://t.co/UrPPAbbmXb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096332521822961864",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 1182,
+          "like_count": 1745,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 3374
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T06:42:47.000Z",
+        "description": "176/65，胸90/腰72/臀91，在减了🙂\n90后江苏农村贫苦mtf🥲\n靠打零工，做脱毛，赛博要饭，泰国旅游变性，\n卖雌二醇，泌乳药，减肥产品等维持生活😮‍💨\n我还要再存5万才够srs🙂‍↕️",
+        "id": "2072208739281866752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096202808139935898",
+        "name": "京子🍥（糖商）",
+        "pinned_tweet_id": "2073341408740884941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072208739281866752/1783156555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073338424229240833/qrruTRLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 1654,
+          "like_count": 42,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "jingzi6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

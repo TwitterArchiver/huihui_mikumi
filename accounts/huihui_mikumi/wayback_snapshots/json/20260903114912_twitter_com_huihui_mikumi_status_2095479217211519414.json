@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2095409206123962785",
+    "created_at": "2026-09-03T11:49:12.000Z",
+    "display_text_range": [
+      8,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095479217211519414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1745581182765723648",
+          "start": 0,
+          "username": "xwjuzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095479217211519414",
+    "in_reply_to_user_id": "1745581182765723648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095466393605194206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwjuzi 不抗雄没用，雌二醇很容易被睾酮压制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2095409206123962785",
+        "created_at": "2026-09-03T11:49:12.000Z",
+        "display_text_range": [
+          8,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095479217211519414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1745581182765723648",
+              "start": 0,
+              "username": "xwjuzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095479217211519414",
+        "in_reply_to_user_id": "1745581182765723648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095466393605194206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwjuzi 不抗雄没用，雌二醇很容易被睾酮压制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745581182765723648",
+        "conversation_id": "2095409206123962785",
+        "created_at": "2026-09-03T10:58:14.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095466393605194206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095466393605194206",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095409206123962785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我计划补雌不抗雄，这样子就不会孕激素导致泌乳素升高了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095479217211519414",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 1184,
+          "like_count": 1722,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 3339
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-11T22:59:41.000Z",
+        "description": "可以和聊得来的朋友一起体验各种社交活动丰富日常生活",
+        "id": "1745581182765723648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095466393605194206",
+        "name": "橘籽🍥",
+        "pinned_tweet_id": "1807282678720548886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745581182765723648/1705055325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787737669117841408/kEGsBAS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 18,
+          "like_count": 306,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "xwjuzi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

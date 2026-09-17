@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2094023575787250058",
+    "created_at": "2026-08-31T23:40:11.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T00:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094570981872554076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045717049398456320",
+          "start": 0,
+          "username": "BaiXieuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094570981872554076",
+    "in_reply_to_user_id": "2045717049398456320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094229567380553879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiXieuyu 教会了死了怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2094023575787250058",
+        "created_at": "2026-08-31T23:40:11.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094570981872554076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045717049398456320",
+              "start": 0,
+              "username": "BaiXieuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094570981872554076",
+        "in_reply_to_user_id": "2045717049398456320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094229567380553879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiXieuyu 教会了死了怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045717049398456320",
+        "conversation_id": "2094023575787250058",
+        "created_at": "2026-08-31T01:03:32.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094229567380553879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094229567380553879",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094023575787250058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 不教怎么会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 141,
+                "username": "yuerQwQ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094570981872554076",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 1176,
+          "like_count": 1692,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3300
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T04:15:23.000Z",
+        "description": "想和可爱的猫猫🍥互fo喵，很外向，梦想是成为能自产雌激素的喵\n另外宣传一下一个虚拟国组织：https://t.co/Ex1i3KF4Ve",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1rT…",
+                "end": 68,
+                "expanded_url": "https://docs.google.com/document/d/1rTT7QEsFncfjurBHcQTgnMgec4sh5WuKQlESiYhWCkw/edit?usp=drivesdk",
+                "start": 45,
+                "url": "https://t.co/Ex1i3KF4Ve"
+              }
+            ]
+          }
+        },
+        "id": "2045717049398456320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094318950133964810",
+        "name": "白惜🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045717049398456320/1785576735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083192504149594112/G6DC55jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 309,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "BaiXieuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

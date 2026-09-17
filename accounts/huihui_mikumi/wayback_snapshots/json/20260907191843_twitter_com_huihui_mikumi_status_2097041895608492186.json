@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2096958162691825740",
+    "created_at": "2026-09-07T19:18:43.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097041895608492186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036431003158454277",
+          "start": 0,
+          "username": "realimmort"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097041895608492186",
+    "in_reply_to_user_id": "2036431003158454277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096989189195874723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realimmort 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2096958162691825740",
+        "created_at": "2026-09-07T19:18:43.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097041895608492186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036431003158454277",
+              "start": 0,
+              "username": "realimmort"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097041895608492186",
+        "in_reply_to_user_id": "2036431003158454277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096989189195874723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realimmort 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036431003158454277",
+        "conversation_id": "2096958162691825740",
+        "created_at": "2026-09-07T15:49:17.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096989189195874723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096989189195874723",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096958162691825740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 我也一直一个人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\n微信：admin22334\nqq:2198850363\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097041895608492186",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 1187,
+          "like_count": 1781,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 3402
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "双相，深柜无证🍬，极度封建且迷信家庭。木桶饭可互佛喵🚪52，老牌魔法少女，纯绿,可文",
+        "id": "2036431003158454277",
+        "is_identity_verified": false,
+        "location": "天国寰宇",
+        "most_recent_tweet_id": "2097041016914329672",
+        "name": "Immort🍥🏳️‍⚧️极度限流版",
+        "pinned_tweet_id": "2059998339853328844",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036431003158454277/1775569026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082086658300862465/9t95kqL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 62,
+          "like_count": 836,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "realimmort",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

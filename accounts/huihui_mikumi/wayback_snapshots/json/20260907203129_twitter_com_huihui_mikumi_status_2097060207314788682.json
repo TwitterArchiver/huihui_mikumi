@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2096820398604390471",
+    "created_at": "2026-09-07T20:31:29.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T21:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097060207314788682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "359348018",
+          "start": 0,
+          "username": "PriseTwinkle"
+        },
+        {
+          "end": 22,
+          "id": "2047978830141222912",
+          "start": 14,
+          "username": "TEL_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097060207314788682",
+    "in_reply_to_user_id": "359348018",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096820398604390471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriseTwinkle @TEL_xyn 99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2933,
+        "media_key": "3_2096820383844577280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlnB5jasAA8wHw.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2096820398604390471",
+        "created_at": "2026-09-07T20:31:29.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097060207314788682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "359348018",
+              "start": 0,
+              "username": "PriseTwinkle"
+            },
+            {
+              "end": 22,
+              "id": "2047978830141222912",
+              "start": 14,
+              "username": "TEL_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097060207314788682",
+        "in_reply_to_user_id": "359348018",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096820398604390471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle @TEL_xyn 99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096820383844577280"
+          ]
+        },
+        "author_id": "359348018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096820398604390471",
+        "created_at": "2026-09-07T04:38:34.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096820398604390471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "2047978830141222912",
+              "start": 17,
+              "username": "TEL_xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3Dvju1R0B",
+              "end": 67,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2096820398604390471/photo/1",
+              "media_key": "3_2096820383844577280",
+              "start": 44,
+              "url": "https://t.co/z3Dvju1R0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096820398604390471",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096820383844577280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4223,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "官宣💞嘿嘿\n我居然也有老婆了🥰🥰🥰@Tel_xyn\n上推五个月了，没想到真找到了🥹\n🤤 https://t.co/z3Dvju1R0B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\n微信：admin22334\nqq:2198850363\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097060207314788682",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 1189,
+          "like_count": 1784,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 8年级 | 初三生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备| 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@TEL_xyn💞 | 兼@MtxUnk| http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "TEL_xyn"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "MtxUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 153,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 131,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://telegram.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/RdYPq58Orc"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "is_identity_verified": false,
+        "location": "湖北潜江😨",
+        "most_recent_tweet_id": "2096956002579173418",
+        "name": "芸yyyyy光酱 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359348018/1786974069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093888803337613312/mWEwFCzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8805,
+          "following_count": 94,
+          "like_count": 508,
+          "listed_count": 160,
+          "media_count": 107,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/RdYPq58Orc",
+        "username": "PriseTwinkle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T09:59:44.000Z",
+        "description": "前世@Taozhi_TEL |\nMTF🏳️‍⚧️｜出厂日期2013.1.2｜13岁｜无证含糖🍥｜HRT：2026.4.1｜深柜｜割手不od｜坐标河北｜玩Minecraft 地平线6｜@PriseTwinkle💞｜欢迎关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Taozhi_TEL"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "PriseTwinkle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozhi_tel",
+                "end": 23,
+                "expanded_url": "https://t.me/taozhi_tel",
+                "start": 0,
+                "url": "https://t.co/XQlxqx1CMw"
+              }
+            ]
+          }
+        },
+        "id": "2047978830141222912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096897695348908358",
+        "name": "桃芷TEL^🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675800682790912/j7vl0vDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 8,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/XQlxqx1CMw",
+        "username": "TEL_xyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

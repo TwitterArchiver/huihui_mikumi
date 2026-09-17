@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2096931521437536377",
+    "created_at": "2026-09-07T12:00:08.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096931521437536377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/q1anzhuo/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/q1anzhuo/status/2096576676742438992",
+          "start": 20,
+          "url": "https://t.co/4S5c9Ry5LR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096931521437536377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096576676742438992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依稀记得前两个月连吃5盒进了icu洗胃 https://t.co/4S5c9Ry5LR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096576662825730048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiJXeAaAAA4ZGm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096576662829969408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiJXeBasAAE72Z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2096931521437536377",
+        "created_at": "2026-09-07T12:00:08.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096931521437536377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/q1anzhuo/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/q1anzhuo/status/2096576676742438992",
+              "start": 20,
+              "url": "https://t.co/4S5c9Ry5LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096931521437536377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096576676742438992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依稀记得前两个月连吃5盒进了icu洗胃 https://t.co/4S5c9Ry5LR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096576662825730048",
+            "3_2096576662829969408"
+          ]
+        },
+        "author_id": "1978428582100938752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096576676742438992",
+        "created_at": "2026-09-06T12:30:06.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096576676742438992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGSKL9aeJg",
+              "end": 88,
+              "expanded_url": "https://x.com/q1anzhuo/status/2096576676742438992/photo/1",
+              "media_key": "3_2096576662825730048",
+              "start": 65,
+              "url": "https://t.co/yGSKL9aeJg"
+            },
+            {
+              "display_url": "pic.x.com/yGSKL9aeJg",
+              "end": 88,
+              "expanded_url": "https://x.com/q1anzhuo/status/2096576676742438992/photo/1",
+              "media_key": "3_2096576662829969408",
+              "start": 65,
+              "url": "https://t.co/yGSKL9aeJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096576676742438992",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096576662825730048"
+          },
+          {
+            "media_key": "3_2096576662829969408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2083,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天耍完右美基本没啥药效，但这个玩意本身的味道导致的恶心反胃差点没把我折腾死…躺床上静候药效发现太弱后面直接睡过去了，总之差评👎 https://t.co/yGSKL9aeJg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\n微信：admin22334\nqq:2198850363\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096931521437536377",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 1187,
+          "like_count": 1774,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 3396
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "is_identity_verified": false,
+        "location": "以太自由特区",
+        "most_recent_tweet_id": "2096916845207126204",
+        "name": "翻越比利牛斯山8964",
+        "pinned_tweet_id": "2093689509678657568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978428582100938752/1785985961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 473,
+          "like_count": 5462,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100071911250378753"
+      ],
+      "media_source_tweet_id": [
+        "2100071922012999978"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2100073580939915437",
+    "created_at": "2026-09-16T04:05:33.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100073580939915437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1624556678858395648",
+          "start": 3,
+          "username": "huhu12027596"
+        },
+        {
+          "end": 46,
+          "id": "1624556678858395648",
+          "start": 33,
+          "username": "huhu12027596"
+        },
+        {
+          "end": 62,
+          "id": "1876650733317378048",
+          "start": 48,
+          "username": "ChiAki1000kzm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTDGzM4zja",
+          "end": 96,
+          "expanded_url": "https://x.com/huhu12027596/status/2100071922012999978/photo/1",
+          "media_key": "3_2100071911250378753",
+          "start": 73,
+          "url": "https://t.co/vTDGzM4zja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100073580939915437",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100071911250378753"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100071922012999978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huhu12027596: 《官宣》\n我们在一起啦～❤️\n@huhu12027596 \n@ChiAki1000kzm \n明天开始同居喵～ https://t.co/vTDGzM4zja"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2100071911250378753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HST0RtDawAEXQNY.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100071911250378753"
+          ],
+          "media_source_tweet_id": [
+            "2100071922012999978"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2100073580939915437",
+        "created_at": "2026-09-16T04:05:33.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100073580939915437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1624556678858395648",
+              "start": 3,
+              "username": "huhu12027596"
+            },
+            {
+              "end": 46,
+              "id": "1624556678858395648",
+              "start": 33,
+              "username": "huhu12027596"
+            },
+            {
+              "end": 62,
+              "id": "1876650733317378048",
+              "start": 48,
+              "username": "ChiAki1000kzm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTDGzM4zja",
+              "end": 96,
+              "expanded_url": "https://x.com/huhu12027596/status/2100071922012999978/photo/1",
+              "media_key": "3_2100071911250378753",
+              "start": 73,
+              "url": "https://t.co/vTDGzM4zja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100073580939915437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100071911250378753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100071922012999978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huhu12027596: 《官宣》\n我们在一起啦～❤️\n@huhu12027596 \n@ChiAki1000kzm \n明天开始同居喵～ https://t.co/vTDGzM4zja"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100071911250378753"
+          ]
+        },
+        "author_id": "1624556678858395648",
+        "conversation_id": "2100071922012999978",
+        "created_at": "2026-09-16T03:58:58.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100071922012999978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1624556678858395648",
+              "start": 15,
+              "username": "huhu12027596"
+            },
+            {
+              "end": 44,
+              "id": "1876650733317378048",
+              "start": 30,
+              "username": "ChiAki1000kzm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTDGzM4zja",
+              "end": 78,
+              "expanded_url": "https://x.com/huhu12027596/status/2100071922012999978/photo/1",
+              "media_key": "3_2100071911250378753",
+              "start": 55,
+              "url": "https://t.co/vTDGzM4zja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100071922012999978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100071911250378753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "《官宣》\n我们在一起啦～❤️\n@huhu12027596 \n@ChiAki1000kzm \n明天开始同居喵～ https://t.co/vTDGzM4zja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100073580939915437",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 1203,
+          "like_count": 1845,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 3432
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T23:51:47.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF68XG\n微信：admin22334\nqq:1621320515\n老婆:@ChiAki1000kzm\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "ChiAki1000kzm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF68XG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF68XG"
+              }
+            ]
+          }
+        },
+        "id": "1624556678858395648",
+        "is_identity_verified": false,
+        "location": "广东韶关，同类可面基❤️",
+        "most_recent_tweet_id": "2100071922012999978",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）（糖🍬商）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624556678858395648/1788723973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096686309930840064/uDxcUaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 306,
+          "like_count": 188,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/mhMUnF68XG",
+        "username": "huhu12027596",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T15:23:08.000Z",
+        "description": "精分+抑郁\n老婆：@huhu12027596\nTG：https://t.co/84Y4O0E40D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "huhu12027596"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sakurai_chiaki",
+                "end": 49,
+                "expanded_url": "http://t.me/sakurai_chiaki",
+                "start": 26,
+                "url": "https://t.co/84Y4O0E40D"
+              }
+            ]
+          }
+        },
+        "id": "1876650733317378048",
+        "is_identity_verified": false,
+        "location": "韶关市",
+        "most_recent_tweet_id": "2100072331188330787",
+        "name": "千晓Dawns🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876650733317378048/1770431968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093276071882039296/_ayeWatv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 81,
+          "like_count": 994,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "ChiAki1000kzm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

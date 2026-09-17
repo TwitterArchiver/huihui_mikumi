@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2096930893982306450",
+    "created_at": "2026-09-07T11:57:38.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096930893982306450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiiroGekkaFlan…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2096845167684902944",
+          "start": 25,
+          "url": "https://t.co/kd38akVpSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096930893982306450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096845167684902944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我我我…警官…我绝对没有右美沙芬…绝…绝对没有！ https://t.co/kd38akVpSh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2096930893982306450",
+        "created_at": "2026-09-07T11:57:38.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096930893982306450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiiroGekkaFlan…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/HiiroGekkaFlan/status/2096845167684902944",
+              "start": 25,
+              "url": "https://t.co/kd38akVpSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096930893982306450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096845167684902944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我我我…警官…我绝对没有右美沙芬…绝…绝对没有！ https://t.co/kd38akVpSh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2096789756168511796",
+        "created_at": "2026-09-07T06:17:00.000Z",
+        "display_text_range": [
+          12,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096845167684902944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096845167684902944",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096789756168511796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 这个确实有依据的\n右美沙芬现在是二类精神药品，受严格管制，非法持有等于持有毒品，滥用等于吸毒，非法持有并贩卖等于贩毒\n普瑞巴林则是处方药，顶多道德谴责"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\n微信：admin22334\nqq:2198850363\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096930893982306450",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 1187,
+          "like_count": 1774,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "is_identity_verified": false,
+        "location": "我会一直都在",
+        "most_recent_tweet_id": "2096921689481441541",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2078400387414200463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042276998668525573/1781975596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083159673444929536/d0RqtaX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 878,
+          "like_count": 15068,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 4713
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096907464398827602",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 307,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

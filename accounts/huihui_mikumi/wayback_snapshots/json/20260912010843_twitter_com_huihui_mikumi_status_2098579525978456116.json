@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098579518600658944"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2098579525978456116",
+    "created_at": "2026-09-12T01:08:43.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T02:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098579525978456116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BNz6aGsYI8",
+          "end": 30,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2098579525978456116/photo/1",
+          "media_key": "3_2098579518600658944",
+          "start": 7,
+          "url": "https://t.co/BNz6aGsYI8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098579525978456116",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098579518600658944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜这就是我 https://t.co/BNz6aGsYI8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2098579518600658944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-m9BMaQAAl54X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098579518600658944"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2098579525978456116",
+        "created_at": "2026-09-12T01:08:43.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098579525978456116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNz6aGsYI8",
+              "end": 30,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2098579525978456116/photo/1",
+              "media_key": "3_2098579518600658944",
+              "start": 7,
+              "url": "https://t.co/BNz6aGsYI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098579525978456116",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098579518600658944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜这就是我 https://t.co/BNz6aGsYI8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098579525978456116",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 1191,
+          "like_count": 1831,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

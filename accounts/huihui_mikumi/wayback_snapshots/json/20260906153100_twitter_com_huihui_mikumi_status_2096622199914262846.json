@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096275178263363584"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2096622199914262846",
+    "created_at": "2026-09-06T15:31:00.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096622199914262846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvSl2HDNG9",
+          "end": 51,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2096622199914262846/photo/1",
+          "media_key": "3_2096275178263363584",
+          "start": 28,
+          "url": "https://t.co/KvSl2HDNG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096622199914262846",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096275178263363584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友：你为什么能一直秒回我的消息\n我：因为我害怕失去你 https://t.co/KvSl2HDNG9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_2096275178263363584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd3KwfbQAAAe1Z.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096275178263363584"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2096622199914262846",
+        "created_at": "2026-09-06T15:31:00.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096622199914262846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvSl2HDNG9",
+              "end": 51,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2096622199914262846/photo/1",
+              "media_key": "3_2096275178263363584",
+              "start": 28,
+              "url": "https://t.co/KvSl2HDNG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096622199914262846",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096275178263363584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友：你为什么能一直秒回我的消息\n我：因为我害怕失去你 https://t.co/KvSl2HDNG9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回:https://t.co/OxJDjmUXYb\nqq微信不聊卖糖的事！\n微信：admin22334\nqq:2198850363\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/OxJDjmUXYb"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096622199914262846",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 1181,
+          "like_count": 1755,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 3382
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

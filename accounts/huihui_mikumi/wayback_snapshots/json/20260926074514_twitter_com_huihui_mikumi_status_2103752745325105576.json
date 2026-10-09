@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103752727528714241"
+      ]
+    },
+    "author_id": "1598557374046179328",
+    "conversation_id": "2103752745325105576",
+    "created_at": "2026-09-26T07:45:14.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103752745325105576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y5JNxzJNhS",
+          "end": 35,
+          "expanded_url": "https://x.com/huihui_mikumi/status/2103752745325105576/photo/1",
+          "media_key": "3_2103752727528714241",
+          "start": 12,
+          "url": "https://t.co/y5JNxzJNhS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103752745325105576",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103752727528714241"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼推特有把我的号封了 https://t.co/y5JNxzJNhS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2103752727528714241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIH9aObsAEsJJc.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103752727528714241"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2103752745325105576",
+        "created_at": "2026-09-26T07:45:14.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103752745325105576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5JNxzJNhS",
+              "end": 35,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2103752745325105576/photo/1",
+              "media_key": "3_2103752727528714241",
+              "start": 12,
+              "url": "https://t.co/y5JNxzJNhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103752745325105576",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103752727528714241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼推特有把我的号封了 https://t.co/y5JNxzJNhS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列/危机干预/头像定制\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 59,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 36,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103752745325105576",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 1190,
+          "like_count": 1901,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 3433
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

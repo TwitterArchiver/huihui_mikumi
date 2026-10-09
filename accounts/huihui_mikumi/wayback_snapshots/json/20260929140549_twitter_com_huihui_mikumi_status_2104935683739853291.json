@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1598557374046179328",
+    "conversation_id": "2104933134144049391",
+    "created_at": "2026-09-29T14:05:49.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T15:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104935683739853291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983042229720735744",
+          "start": 0,
+          "username": "mchchc5216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104935683739853291",
+    "in_reply_to_user_id": "1983042229720735744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104933134144049391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mchchc5216 🤤，想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104933114321731584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTY5g9sagAA3nLj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2104933134144049391",
+        "created_at": "2026-09-29T14:05:49.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104935683739853291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983042229720735744",
+              "start": 0,
+              "username": "mchchc5216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104935683739853291",
+        "in_reply_to_user_id": "1983042229720735744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104933134144049391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mchchc5216 🤤，想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104933114321731584"
+          ]
+        },
+        "author_id": "1983042229720735744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104933134144049391",
+        "created_at": "2026-09-29T13:55:41.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104933134144049391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsStgraQr2",
+              "end": 47,
+              "expanded_url": "https://x.com/mchchc5216/status/2104933134144049391/photo/1",
+              "media_key": "3_2104933114321731584",
+              "start": 24,
+              "url": "https://t.co/bsStgraQr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104933134144049391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104933114321731584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞有售 2r一粒 250mg 需要的私信联系 https://t.co/bsStgraQr2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n老婆@ChiAki1000zm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 141,
+                "username": "ChiAki1000zm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104935683739853291",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 1186,
+          "like_count": 1918,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3452
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 ll 坐标：山东济南 Ⅱ 优香单推人 Ⅱ 互fo Ⅱ 对象：@hwanxing9 Ⅱ 扩列：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "hwanxing9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJqJH9"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "is_identity_verified": false,
+        "location": "基沃托斯",
+        "most_recent_tweet_id": "2104933134144049391",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️（💊商）",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983042229720735744/1761629293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 787,
+          "like_count": 3726,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/mwjWoJqJH9",
+        "username": "mchchc5216",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
